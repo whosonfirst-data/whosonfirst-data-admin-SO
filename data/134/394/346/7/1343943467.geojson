@@ -1,0 +1,67 @@
+{
+  "id": 1343943467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41272,1.47606,42.41272,1.47606",
+    "geom:latitude":1.47606,
+    "geom:longitude":42.41272,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Korisow",
+    "gn:country_code":"SO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55555,
+    "gn:latitude":1.47606,
+    "gn:longitude":42.41272,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Korisow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55555
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"73dbbdb32ab7adaa8de861053c04c042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757841,
+            "locality_id":1343943467,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1343943467,
+    "wof:lastmodified":1537042829,
+    "wof:name":"Korisow",
+    "wof:parent_id":1108757841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41272,
+    1.47606,
+    42.41272,
+    1.47606
+],
+  "geometry": {"coordinates":[42.41272,1.47606],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326632033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0368,10.6342,49.0368,10.6342",
+    "geom:latitude":10.6342,
+    "geom:longitude":49.0368,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ceel Doofaar",
+    "gn:country_code":"SO",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62777,
+    "gn:latitude":10.6342,
+    "gn:longitude":49.0368,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Doofaar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ceel Doofaar"
+    ],
+    "name:und_x_variant":[
+        "El Dofar",
+        "El Donfar",
+        "Ceel Doofaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62777
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"40441fc7b29c56b2c8bfb73548f85516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757801,
+            "locality_id":1326632033,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1326632033,
+    "wof:lastmodified":1537701314,
+    "wof:name":"Ceel Doofaar",
+    "wof:parent_id":1108757801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0368,
+    10.6342,
+    49.0368,
+    10.6342
+],
+  "geometry": {"coordinates":[49.0368,10.6342],"type":"Point"}
+}

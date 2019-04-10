@@ -1,0 +1,70 @@
+{
+  "id": 1226820013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81255,1.80969,44.81255,1.80969",
+    "geom:latitude":1.80969,
+    "geom:longitude":44.81255,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Fed Guduud",
+    "gn:country_code":"SO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59766,
+    "gn:latitude":1.80969,
+    "gn:longitude":44.81255,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fed Guduud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Fed Guduud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59766
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1be68ff474266a086b5e76f9f5fc1f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757883,
+            "locality_id":1226820013,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1226820013,
+    "wof:lastmodified":1537701287,
+    "wof:name":"Fed Guduud",
+    "wof:parent_id":1108757883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81255,
+    1.80969,
+    44.81255,
+    1.80969
+],
+  "geometry": {"coordinates":[44.81255,1.80969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226404173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85499,9.38193,43.85499,9.38193",
+    "geom:latitude":9.38193,
+    "geom:longitude":43.85499,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wadabariis",
+    "gn:country_code":"SO",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50762,
+    "gn:latitude":9.38193,
+    "gn:longitude":43.85499,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wadabariis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uadabaris",
+        "Wadabariis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50762
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c1bfdcd91e2d0f36d8c7f11bffe09e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1226404173,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1226404173,
+    "wof:lastmodified":1537701187,
+    "wof:name":"Wadabariis",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85499,
+    9.38193,
+    43.85499,
+    9.38193
+],
+  "geometry": {"coordinates":[43.85499,9.38193],"type":"Point"}
+}

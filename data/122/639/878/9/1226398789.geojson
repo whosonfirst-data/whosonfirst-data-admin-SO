@@ -1,0 +1,76 @@
+{
+  "id": 1226398789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75,8.95,47.75,8.95",
+    "geom:latitude":8.95,
+    "geom:longitude":47.75,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"Xudun",
+    "gn:asciiname":"Holhol",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49792,
+    "gn:latitude":8.95,
+    "gn:longitude":47.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Holhol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Holhol"
+    ],
+    "name:und_x_variant":[
+        "Holh\u00f3l",
+        "Xolxol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49792
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ae16ad1a61c84a814ad85a3eeb9e2ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757905,
+            "locality_id":1226398789,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1226398789,
+    "wof:lastmodified":1537701175,
+    "wof:name":"Holhol",
+    "wof:parent_id":1108757905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75,
+    8.95,
+    47.75,
+    8.95
+],
+  "geometry": {"coordinates":[47.75,8.95],"type":"Point"}
+}

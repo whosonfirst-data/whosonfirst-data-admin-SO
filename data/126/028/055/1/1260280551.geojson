@@ -1,0 +1,70 @@
+{
+  "id": 1260280551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.63131,3.5518,45.63131,3.5518",
+    "geom:latitude":3.5518,
+    "geom:longitude":45.63131,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Caag Lebile",
+    "gn:country_code":"SO",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63498,
+    "gn:latitude":3.5518,
+    "gn:longitude":45.63131,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Caag Lebile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Caag Lebile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63498
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"0045c72fefeda7e09346b8be61a79a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757863,
+            "locality_id":1260280551,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1260280551,
+    "wof:lastmodified":1537701323,
+    "wof:name":"Caag Lebile",
+    "wof:parent_id":1108757863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.63131,
+    3.5518,
+    45.63131,
+    3.5518
+],
+  "geometry": {"coordinates":[45.63131,3.5518],"type":"Point"}
+}

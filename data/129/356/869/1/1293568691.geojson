@@ -1,0 +1,74 @@
+{
+  "id": 1293568691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5407,2.8832,45.5407,2.8832",
+    "geom:latitude":2.8832,
+    "geom:longitude":45.5407,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sabbuun",
+    "gn:country_code":"SO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52325,
+    "gn:latitude":2.8832,
+    "gn:longitude":45.5407,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sabbuun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Sabbuun"
+    ],
+    "name:und_x_variant":[
+        "Sab\u00f9n",
+        "Sabbuun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52325
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7ae5609855ed8e1c4240f64662d27837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1293568691,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1293568691,
+    "wof:lastmodified":1537701208,
+    "wof:name":"Sabbuun",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5407,
+    2.8832,
+    45.5407,
+    2.8832
+],
+  "geometry": {"coordinates":[45.5407,2.8832],"type":"Point"}
+}

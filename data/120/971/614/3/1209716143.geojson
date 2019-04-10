@@ -1,0 +1,67 @@
+{
+  "id": 1209716143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.12794,3.14264,43.12794,3.14264",
+    "geom:latitude":3.14264,
+    "geom:longitude":43.12794,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dhejiile-Masbadane",
+    "gn:country_code":"SO",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61176,
+    "gn:latitude":3.14264,
+    "gn:longitude":43.12794,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Dhejiile-Masbadane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61176
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1f0e528ea8ecbe15cb852940f65d15fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1209716143,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1209716143,
+    "wof:lastmodified":1536388483,
+    "wof:name":"Dhejiile-Masbadane",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.12794,
+    3.14264,
+    43.12794,
+    3.14264
+],
+  "geometry": {"coordinates":[43.12794,3.14264],"type":"Point"}
+}

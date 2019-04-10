@@ -1,0 +1,70 @@
+{
+  "id": 1292978033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35706,10.96936,48.35706,10.96936",
+    "geom:latitude":10.96936,
+    "geom:longitude":48.35706,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Geedlarifay",
+    "gn:country_code":"SO",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58766,
+    "gn:latitude":10.96936,
+    "gn:longitude":48.35706,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Geedlarifay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Geedlarifay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58766
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"8aa193545ad17795c993e224c9b95bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757793,
+            "locality_id":1292978033,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1292978033,
+    "wof:lastmodified":1537701276,
+    "wof:name":"Geedlarifay",
+    "wof:parent_id":1108757793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35706,
+    10.96936,
+    48.35706,
+    10.96936
+],
+  "geometry": {"coordinates":[48.35706,10.96936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310002799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71667,0.66667,42.71667,0.66667",
+    "geom:latitude":0.66667,
+    "geom:longitude":42.71667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Damettei",
+    "gn:country_code":"SO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61919,
+    "gn:latitude":0.66667,
+    "gn:longitude":42.71667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Damettei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61919
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a219e074b21a7b07893862cc93e0deb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1310002799,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1310002799,
+    "wof:lastmodified":1536646815,
+    "wof:name":"Damettei",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71667,
+    0.66667,
+    42.71667,
+    0.66667
+],
+  "geometry": {"coordinates":[42.71667,0.66667],"type":"Point"}
+}

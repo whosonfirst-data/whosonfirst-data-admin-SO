@@ -1,0 +1,74 @@
+{
+  "id": 1310662403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84802,10.17068,44.84802,10.17068",
+    "geom:latitude":10.17068,
+    "geom:longitude":44.84802,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Daragodle",
+    "gn:country_code":"SO",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61851,
+    "gn:latitude":10.17068,
+    "gn:longitude":44.84802,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Daragodle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Daragodle"
+    ],
+    "name:und_x_variant":[
+        "Daragoldeh",
+        "Daragodle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61851
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c05aa1c494ea66a3fe2e7fe332b3f0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757811,
+            "locality_id":1310662403,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1310662403,
+    "wof:lastmodified":1537701305,
+    "wof:name":"Daragodle",
+    "wof:parent_id":1108757811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84802,
+    10.17068,
+    44.84802,
+    10.17068
+],
+  "geometry": {"coordinates":[44.84802,10.17068],"type":"Point"}
+}

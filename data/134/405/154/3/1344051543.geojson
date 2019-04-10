@@ -1,0 +1,67 @@
+{
+  "id": 1344051543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.22857,0.17235,42.22857,0.17235",
+    "geom:latitude":0.17235,
+    "geom:longitude":42.22857,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bibi",
+    "gn:country_code":"SO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64394,
+    "gn:latitude":0.17235,
+    "gn:longitude":42.22857,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Bibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64394
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c330d151d997a4e25915df8f774da7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757773,
+            "locality_id":1344051543,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1344051543,
+    "wof:lastmodified":1536888089,
+    "wof:name":"Bibi",
+    "wof:parent_id":1108757773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.22857,
+    0.17235,
+    42.22857,
+    0.17235
+],
+  "geometry": {"coordinates":[42.22857,0.17235],"type":"Point"}
+}

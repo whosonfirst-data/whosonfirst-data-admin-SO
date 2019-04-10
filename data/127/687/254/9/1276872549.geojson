@@ -1,0 +1,70 @@
+{
+  "id": 1276872549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88994,2.76108,42.88994,2.76108",
+    "geom:latitude":2.76108,
+    "geom:longitude":42.88994,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ufurow",
+    "gn:country_code":"SO",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50984,
+    "gn:latitude":2.76108,
+    "gn:longitude":42.88994,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ufurow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ufurow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50984
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"81bf4ce7848ba5906e00125cc3e19e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757923,
+            "locality_id":1276872549,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1276872549,
+    "wof:lastmodified":1537701190,
+    "wof:name":"Ufurow",
+    "wof:parent_id":1108757923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88994,
+    2.76108,
+    42.88994,
+    2.76108
+],
+  "geometry": {"coordinates":[42.88994,2.76108],"type":"Point"}
+}

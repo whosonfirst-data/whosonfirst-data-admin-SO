@@ -1,0 +1,98 @@
+{
+  "id": 421180447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.18064,3.84878,47.18064,3.84878",
+    "geom:latitude":3.84878,
+    "geom:longitude":47.18064,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Eldheere"
+    ],
+    "name:eng_x_preferred":[
+        "Ceeldheer"
+    ],
+    "name:ger_x_preferred":[
+        "Eldheere"
+    ],
+    "name:pol_x_preferred":[
+        "Ceeldhere"
+    ],
+    "name:som_x_preferred":[
+        "Ceeldheer"
+    ],
+    "name:unk_x_variant":[
+        "Ceeldheere"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":62788,
+    "qs:gn_pop":26562,
+    "qs:name":"El Dere",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Galguduud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":432109,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1516044,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62788,
+        "gp:id":1516044,
+        "qs:id":432109,
+        "wd:id":"Q1325602"
+    },
+    "wof:country":"SO",
+    "wof:created":1459009259,
+    "wof:geomhash":"ea4cd6b699b87be7390855cc2bbefc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757785,
+            "locality_id":421180447,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":421180447,
+    "wof:lastmodified":1514505534,
+    "wof:name":"El Dere",
+    "wof:parent_id":1108757785,
+    "wof:placetype":"locality",
+    "wof:population":26562,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.18064,
+    3.84878,
+    47.18064,
+    3.84878
+],
+  "geometry": {"coordinates":[47.18064,3.84878],"type":"Point"}
+}

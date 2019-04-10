@@ -1,0 +1,70 @@
+{
+  "id": 1309685899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49821,1.68949,44.49821,1.68949",
+    "geom:latitude":1.68949,
+    "geom:longitude":44.49821,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jeerrow",
+    "gn:country_code":"SO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56311,
+    "gn:latitude":1.68949,
+    "gn:longitude":44.49821,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jeerrow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Jeerrow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56311
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"4c4c5dd85b47378d44db05c4eee92cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1309685899,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1309685899,
+    "wof:lastmodified":1537701253,
+    "wof:name":"Jeerrow",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49821,
+    1.68949,
+    44.49821,
+    1.68949
+],
+  "geometry": {"coordinates":[44.49821,1.68949],"type":"Point"}
+}

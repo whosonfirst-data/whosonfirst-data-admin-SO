@@ -1,0 +1,64 @@
+{
+  "id": 1209639489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7684,3.0077,43.7684,3.0077",
+    "geom:latitude":3.0077,
+    "geom:longitude":43.7684,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baanyale Banka",
+    "gn:country_code":"SO",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65189,
+    "gn:latitude":3.0077,
+    "gn:longitude":43.7684,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baanyale Banka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Baanyale Banka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65189
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"9fd9d82d5d60edddfc8d629ae63cac1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209639489
+        }
+    ],
+    "wof:id":1209639489,
+    "wof:lastmodified":1537701346,
+    "wof:name":"Baanyale Banka",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7684,
+    3.0077,
+    43.7684,
+    3.0077
+],
+  "geometry": {"coordinates":[43.7684,3.0077],"type":"Point"}
+}

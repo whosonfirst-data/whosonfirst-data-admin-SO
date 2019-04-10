@@ -1,0 +1,75 @@
+{
+  "id": 1209920249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8033,2.8932,43.8033,2.8932",
+    "geom:latitude":2.8932,
+    "geom:longitude":43.8033,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Caliyow Dooyo",
+    "gn:country_code":"SO",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63105,
+    "gn:latitude":2.8932,
+    "gn:longitude":43.8033,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Caliyow Dooyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Caliyow Dooyo"
+    ],
+    "name:und_x_variant":[
+        "Bulo Ado Dai\u00f2",
+        "Bulo Ali\u00f3 Daio",
+        "Caliyow Dooyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63105
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"08031e92de576d517eaee9a1567bf6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1209920249,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1209920249,
+    "wof:lastmodified":1537701319,
+    "wof:name":"Caliyow Dooyo",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8033,
+    2.8932,
+    43.8033,
+    2.8932
+],
+  "geometry": {"coordinates":[43.8033,2.8932],"type":"Point"}
+}

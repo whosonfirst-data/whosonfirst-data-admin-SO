@@ -1,0 +1,71 @@
+{
+  "id": 1226610095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78566,9.48417,43.78566,9.48417",
+    "geom:latitude":9.48417,
+    "geom:longitude":43.78566,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Goryo",
+    "gn:country_code":"SO",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58096,
+    "gn:latitude":9.48417,
+    "gn:longitude":43.78566,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Goryo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gor\u2019o",
+        "Goryo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58096
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"4a3fb2cc5c698f85811d2787146925c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1226610095,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1226610095,
+    "wof:lastmodified":1537701270,
+    "wof:name":"Goryo",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78566,
+    9.48417,
+    43.78566,
+    9.48417
+],
+  "geometry": {"coordinates":[43.78566,9.48417],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225845403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20157,2.86939,44.20157,2.86939",
+    "geom:latitude":2.86939,
+    "geom:longitude":44.20157,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kuunyo",
+    "gn:country_code":"SO",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55364,
+    "gn:latitude":2.86939,
+    "gn:longitude":44.20157,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kuunyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Kuunyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55364
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"90810dc755c1027e527d734c9c6029d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1225845403,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1225845403,
+    "wof:lastmodified":1537701243,
+    "wof:name":"Kuunyo",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20157,
+    2.86939,
+    44.20157,
+    2.86939
+],
+  "geometry": {"coordinates":[44.20157,2.86939],"type":"Point"}
+}

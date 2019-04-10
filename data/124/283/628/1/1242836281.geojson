@@ -1,0 +1,67 @@
+{
+  "id": 1242836281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86505,9.52046,43.86505,9.52046",
+    "geom:latitude":9.52046,
+    "geom:longitude":43.86505,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dhaboolaq",
+    "gn:country_code":"SO",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282928,
+    "gn:latitude":9.52046,
+    "gn:longitude":43.86505,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Dhaboolaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282928
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b51c883761c37d8aff918680d7e1af5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1242836281,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1242836281,
+    "wof:lastmodified":1536691343,
+    "wof:name":"Dhaboolaq",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86505,
+    9.52046,
+    43.86505,
+    9.52046
+],
+  "geometry": {"coordinates":[43.86505,9.52046],"type":"Point"}
+}

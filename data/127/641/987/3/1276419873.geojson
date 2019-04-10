@@ -1,0 +1,74 @@
+{
+  "id": 1276419873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.549,2.9091,45.549,2.9091",
+    "geom:latitude":2.9091,
+    "geom:longitude":45.549,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Axmed Cigoow",
+    "gn:country_code":"SO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65248,
+    "gn:latitude":2.9091,
+    "gn:longitude":45.549,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Axmed Cigoow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Axmed Cigoow"
+    ],
+    "name:und_x_variant":[
+        "Bulo Ahmed Igo",
+        "Axmed Cigoow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65248
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"0e7e22b97b829ed382780bc3985b6a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1276419873,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1276419873,
+    "wof:lastmodified":1537701348,
+    "wof:name":"Axmed Cigoow",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.549,
+    2.9091,
+    45.549,
+    2.9091
+],
+  "geometry": {"coordinates":[45.549,2.9091],"type":"Point"}
+}

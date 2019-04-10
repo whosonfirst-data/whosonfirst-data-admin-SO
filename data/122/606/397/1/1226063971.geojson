@@ -1,0 +1,67 @@
+{
+  "id": 1226063971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.59884,-0.16971,42.59884,-0.16971",
+    "geom:latitude":-0.16971,
+    "geom:longitude":42.59884,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mukumaani",
+    "gn:country_code":"SO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53674,
+    "gn:latitude":-0.16971,
+    "gn:longitude":42.59884,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mukumaani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53674
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"3962f74e91d69aa3bbdba5b801651945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757797,
+            "locality_id":1226063971,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1226063971,
+    "wof:lastmodified":1536699222,
+    "wof:name":"Mukumaani",
+    "wof:parent_id":1108757797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.59884,
+    -0.16971,
+    42.59884,
+    -0.16971
+],
+  "geometry": {"coordinates":[42.59884,-0.16971],"type":"Point"}
+}

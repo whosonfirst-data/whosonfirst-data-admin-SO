@@ -1,0 +1,73 @@
+{
+  "id": 1310203961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13333,5.96667,47.13333,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":47.13333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gaxabdho",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58848,
+    "gn:latitude":5.96667,
+    "gn:longitude":47.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gaxabdho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cahand\u00f3",
+        "Gah\u00e1ndo",
+        "Gaxabdho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58848
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ef6f30ec45151d224398bf7e71466c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757829,
+            "locality_id":1310203961,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":1310203961,
+    "wof:lastmodified":1537701277,
+    "wof:name":"Gaxabdho",
+    "wof:parent_id":1108757829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13333,
+    5.96667,
+    47.13333,
+    5.96667
+],
+  "geometry": {"coordinates":[47.13333,5.96667],"type":"Point"}
+}

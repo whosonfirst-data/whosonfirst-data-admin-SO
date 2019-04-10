@@ -1,0 +1,67 @@
+{
+  "id": 1326609487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.86667,2.88333,45.86667,2.88333",
+    "geom:latitude":2.88333,
+    "geom:longitude":45.86667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gomei",
+    "gn:country_code":"SO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58253,
+    "gn:latitude":2.88333,
+    "gn:longitude":45.86667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Gomei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58253
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5ac727e5b625075d80e0b06438e23908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1326609487,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1326609487,
+    "wof:lastmodified":1536871666,
+    "wof:name":"Gomei",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.86667,
+    2.88333,
+    45.86667,
+    2.88333
+],
+  "geometry": {"coordinates":[45.86667,2.88333],"type":"Point"}
+}

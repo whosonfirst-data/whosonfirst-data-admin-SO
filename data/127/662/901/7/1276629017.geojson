@@ -1,0 +1,70 @@
+{
+  "id": 1276629017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36742,10.18,43.36742,10.18",
+    "geom:latitude":10.18,
+    "geom:longitude":43.36742,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Xoorey",
+    "gn:country_code":"SO",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49769,
+    "gn:latitude":10.18,
+    "gn:longitude":43.36742,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xoorey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Xoorey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805623,
+        1108757847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49769
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a4c3f4619d6ef42ca7a763e0a73d8320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757847,
+            "locality_id":1276629017,
+            "region_id":1108805623
+        }
+    ],
+    "wof:id":1276629017,
+    "wof:lastmodified":1537701175,
+    "wof:name":"Xoorey",
+    "wof:parent_id":1108757847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36742,
+    10.18,
+    43.36742,
+    10.18
+],
+  "geometry": {"coordinates":[43.36742,10.18],"type":"Point"}
+}

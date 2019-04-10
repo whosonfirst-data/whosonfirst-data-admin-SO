@@ -1,0 +1,73 @@
+{
+  "id": 1293749233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1637,8.92952,46.1637,8.92952",
+    "geom:latitude":8.92952,
+    "geom:longitude":46.1637,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shiikh Aba Yoonis",
+    "gn:country_code":"SO",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51807,
+    "gn:latitude":8.92952,
+    "gn:longitude":46.1637,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shiikh Aba Yoonis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Shiikh Aba Yoonis"
+    ],
+    "name:und_x_variant":[
+        "Sheikh Aba Yunis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421194355,
+        1108757813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51807
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5dfe5a6d4fb371c6d2f15efca4245ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757813,
+            "locality_id":1293749233,
+            "region_id":421194355
+        }
+    ],
+    "wof:id":1293749233,
+    "wof:lastmodified":1537701200,
+    "wof:name":"Shiikh Aba Yoonis",
+    "wof:parent_id":1108757813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1637,
+    8.92952,
+    46.1637,
+    8.92952
+],
+  "geometry": {"coordinates":[46.1637,8.92952],"type":"Point"}
+}

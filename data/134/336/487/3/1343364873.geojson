@@ -1,0 +1,70 @@
+{
+  "id": 1343364873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8254,2.4121,42.8254,2.4121",
+    "geom:latitude":2.4121,
+    "geom:longitude":42.8254,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Caddey",
+    "gn:country_code":"SO",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63277,
+    "gn:latitude":2.4121,
+    "gn:longitude":42.8254,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Caddey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Caddey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63277
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"22ac26ec64232cf815ff177c0672119d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1343364873,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1343364873,
+    "wof:lastmodified":1537701321,
+    "wof:name":"Caddey",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8254,
+    2.4121,
+    42.8254,
+    2.4121
+],
+  "geometry": {"coordinates":[42.8254,2.4121],"type":"Point"}
+}

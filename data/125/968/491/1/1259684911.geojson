@@ -1,0 +1,67 @@
+{
+  "id": 1259684911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05,3.28333,44.05,3.28333",
+    "geom:latitude":3.28333,
+    "geom:longitude":44.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lolisc`e",
+    "gn:country_code":"SO",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54778,
+    "gn:latitude":3.28333,
+    "gn:longitude":44.05,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Lolisc\u2018e",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54778
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6ddfc76284691deabcfec70c347c50da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1259684911,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1259684911,
+    "wof:lastmodified":1537062173,
+    "wof:name":"Lolisc`e",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05,
+    3.28333,
+    44.05,
+    3.28333
+],
+  "geometry": {"coordinates":[44.05,3.28333],"type":"Point"}
+}

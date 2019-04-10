@@ -1,0 +1,70 @@
+{
+  "id": 1259483721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77334,2.83982,43.77334,2.83982",
+    "geom:latitude":2.83982,
+    "geom:longitude":43.77334,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Weelbisigle",
+    "gn:country_code":"SO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50438,
+    "gn:latitude":2.83982,
+    "gn:longitude":43.77334,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Weelbisigle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Weelbisigle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50438
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c5a5fc41e2a306a7baf0c1b25e3ee176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1259483721,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1259483721,
+    "wof:lastmodified":1537701182,
+    "wof:name":"Weelbisigle",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77334000000001,
+    2.83982,
+    43.77334000000001,
+    2.83982
+],
+  "geometry": {"coordinates":[43.77334000000001,2.83982],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293891097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.98333,10.5,50.98333,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":50.98333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Doganheieh",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60717,
+    "gn:latitude":10.5,
+    "gn:longitude":50.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Doganheieh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doganhej\u00e8h",
+        "Doganheieh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60717
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"00abfa8afed25d12c390f8eb65dc22e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1293891097,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1293891097,
+    "wof:lastmodified":1537701297,
+    "wof:name":"Doganheieh",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.98333,
+    10.5,
+    50.98333,
+    10.5
+],
+  "geometry": {"coordinates":[50.98333,10.5],"type":"Point"}
+}

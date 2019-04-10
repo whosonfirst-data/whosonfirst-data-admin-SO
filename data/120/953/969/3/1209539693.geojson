@@ -1,0 +1,64 @@
+{
+  "id": 1209539693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06021,2.99464,44.06021,2.99464",
+    "geom:latitude":2.99464,
+    "geom:longitude":44.06021,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Waama",
+    "gn:country_code":"SO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50809,
+    "gn:latitude":2.99464,
+    "gn:longitude":44.06021,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Waama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Waama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50809
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7ca398b129edc8c836bf9c5679888f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209539693
+        }
+    ],
+    "wof:id":1209539693,
+    "wof:lastmodified":1537701188,
+    "wof:name":"Waama",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06021,
+    2.99464,
+    44.06021,
+    2.99464
+],
+  "geometry": {"coordinates":[44.06021,2.99464],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243075243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.68333,10.48333,50.68333,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":50.68333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hammet",
+    "gn:country_code":"SO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57430,
+    "gn:latitude":10.48333,
+    "gn:longitude":50.68333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Hammet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57430
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"84a83689b71483afd7b90407d3f2482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1243075243,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1243075243,
+    "wof:lastmodified":1536842543,
+    "wof:name":"Hammet",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.68333,
+    10.48333,
+    50.68333,
+    10.48333
+],
+  "geometry": {"coordinates":[50.68333,10.48333],"type":"Point"}
+}

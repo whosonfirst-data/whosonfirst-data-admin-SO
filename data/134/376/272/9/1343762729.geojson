@@ -1,0 +1,70 @@
+{
+  "id": 1343762729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94346,2.96304,43.94346,2.96304",
+    "geom:latitude":2.96304,
+    "geom:longitude":43.94346,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dhumey",
+    "gn:country_code":"SO",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60999,
+    "gn:latitude":2.96304,
+    "gn:longitude":43.94346,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhumey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dhumey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60999
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5e6fd9264e3ec74a128c0b9957204218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1343762729,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1343762729,
+    "wof:lastmodified":1537701299,
+    "wof:name":"Dhumey",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94346,
+    2.96304,
+    43.94346,
+    2.96304
+],
+  "geometry": {"coordinates":[43.94346,2.96304],"type":"Point"}
+}

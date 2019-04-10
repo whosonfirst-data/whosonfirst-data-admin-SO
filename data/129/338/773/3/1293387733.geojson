@@ -1,0 +1,70 @@
+{
+  "id": 1293387733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.298,2.5144,42.298,2.5144",
+    "geom:latitude":2.5144,
+    "geom:longitude":42.298,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dag Qoono",
+    "gn:country_code":"SO",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62078,
+    "gn:latitude":2.5144,
+    "gn:longitude":42.298,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dag Qoono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dag Qoono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62078
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"28a9a1703e0705434ee9716c807274c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1293387733,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1293387733,
+    "wof:lastmodified":1537701307,
+    "wof:name":"Dag Qoono",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.298,
+    2.5144,
+    42.298,
+    2.5144
+],
+  "geometry": {"coordinates":[42.298,2.5144],"type":"Point"}
+}

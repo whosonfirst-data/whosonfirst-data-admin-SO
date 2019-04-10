@@ -1,0 +1,61 @@
+{
+  "id": 1209691219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73675,8.8597,45.73675,8.8597",
+    "geom:latitude":8.8597,
+    "geom:longitude":45.73675,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Beli Adaax",
+    "gn:country_code":"SO",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64451,
+    "gn:latitude":8.8597,
+    "gn:longitude":45.73675,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Beli Adaax",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64451
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6471c0e0e83d3bf82458d0548f6dab66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209691219
+        }
+    ],
+    "wof:id":1209691219,
+    "wof:lastmodified":1536279234,
+    "wof:name":"Beli Adaax",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73675,
+    8.8597,
+    45.73675,
+    8.8597
+],
+  "geometry": {"coordinates":[45.73675,8.8597],"type":"Point"}
+}

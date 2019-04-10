@@ -1,0 +1,70 @@
+{
+  "id": 1276841101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8075,1.2722,43.8075,1.2722",
+    "geom:latitude":1.2722,
+    "geom:longitude":43.8075,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kawaaloow",
+    "gn:country_code":"SO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":55747,
+    "gn:latitude":1.2722,
+    "gn:longitude":43.8075,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kawaaloow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Kawaaloow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55747
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c38f37d80b37dcd88119103a7deafd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757893,
+            "locality_id":1276841101,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1276841101,
+    "wof:lastmodified":1537701248,
+    "wof:name":"Kawaaloow",
+    "wof:parent_id":1108757893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8075,
+    1.2722,
+    43.8075,
+    1.2722
+],
+  "geometry": {"coordinates":[43.8075,1.2722],"type":"Point"}
+}

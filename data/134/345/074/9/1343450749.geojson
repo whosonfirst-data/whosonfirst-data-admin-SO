@@ -1,0 +1,67 @@
+{
+  "id": 1343450749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62217,-0.04165,42.62217,-0.04165",
+    "geom:latitude":-0.04165,
+    "geom:longitude":42.62217,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mukiyoow",
+    "gn:country_code":"SO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53681,
+    "gn:latitude":-0.04165,
+    "gn:longitude":42.62217,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mukiyoow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53681
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"73024f909e81c37148e8f75fcaaac6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757857,
+            "locality_id":1343450749,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1343450749,
+    "wof:lastmodified":1536760445,
+    "wof:name":"Mukiyoow",
+    "wof:parent_id":1108757857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62217,
+    -0.04165,
+    42.62217,
+    -0.04165
+],
+  "geometry": {"coordinates":[42.62217,-0.04165],"type":"Point"}
+}

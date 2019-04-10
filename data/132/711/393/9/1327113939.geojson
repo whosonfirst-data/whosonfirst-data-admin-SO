@@ -1,0 +1,70 @@
+{
+  "id": 1327113939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5908,3.2195,45.5908,3.2195",
+    "geom:latitude":3.2195,
+    "geom:longitude":45.5908,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Haan Gale",
+    "gn:country_code":"SO",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57648,
+    "gn:latitude":3.2195,
+    "gn:longitude":45.5908,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Haan Gale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Haan Gale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57648
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"92143a6f7436b31c95b3d0cc550a885b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1327113939,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1327113939,
+    "wof:lastmodified":1537701266,
+    "wof:name":"Haan Gale",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5908,
+    3.2195,
+    45.5908,
+    3.2195
+],
+  "geometry": {"coordinates":[45.5908,3.2195],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225915179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8233,2.5858,44.8233,2.5858",
+    "geom:latitude":2.5858,
+    "geom:longitude":44.8233,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Eeloole",
+    "gn:country_code":"SO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60247,
+    "gn:latitude":2.5858,
+    "gn:longitude":44.8233,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Eeloole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Eeloole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60247
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b0d4af9837a7169aec424a816bb7bfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1225915179,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1225915179,
+    "wof:lastmodified":1537701292,
+    "wof:name":"Eeloole",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8233,
+    2.5858,
+    44.8233,
+    2.5858
+],
+  "geometry": {"coordinates":[44.8233,2.5858],"type":"Point"}
+}

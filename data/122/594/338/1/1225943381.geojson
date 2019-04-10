@@ -1,0 +1,72 @@
+{
+  "id": 1225943381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.33333,4.41667,47.33333,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":47.33333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ceel Ableey",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62851,
+    "gn:latitude":4.41667,
+    "gn:longitude":47.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Ableey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018El Abl\u0113y",
+        "Ceel Ableey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62851
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e32048afe81c9d9802435e6bd4f44cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757785,
+            "locality_id":1225943381,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":1225943381,
+    "wof:lastmodified":1537701316,
+    "wof:name":"Ceel Ableey",
+    "wof:parent_id":1108757785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.33333,
+    4.41667,
+    47.33333,
+    4.41667
+],
+  "geometry": {"coordinates":[47.33333,4.41667],"type":"Point"}
+}

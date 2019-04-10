@@ -1,0 +1,71 @@
+{
+  "id": 1309772203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16004,7.96113,49.16004,7.96113",
+    "geom:latitude":7.96113,
+    "geom:longitude":49.16004,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"Eyl",
+    "gn:asciiname":"Xas Bahale",
+    "gn:country_code":"SO",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50008,
+    "gn:latitude":7.96113,
+    "gn:longitude":49.16004,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xas Bahale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Xas Bahale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677283,
+        1108757921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50008
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"dc7de3b07345041671dfb61fdd997e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757921,
+            "locality_id":1309772203,
+            "region_id":85677283
+        }
+    ],
+    "wof:id":1309772203,
+    "wof:lastmodified":1537701177,
+    "wof:name":"Xas Bahale",
+    "wof:parent_id":1108757921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16004,
+    7.96113,
+    49.16004,
+    7.96113
+],
+  "geometry": {"coordinates":[49.16004,7.96113],"type":"Point"}
+}

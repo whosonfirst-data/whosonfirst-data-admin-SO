@@ -1,0 +1,67 @@
+{
+  "id": 1327437609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.68033,2.21875,42.68033,2.21875",
+    "geom:latitude":2.21875,
+    "geom:longitude":42.68033,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lebiley",
+    "gn:country_code":"SO",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54901,
+    "gn:latitude":2.21875,
+    "gn:longitude":42.68033,
+    "gn:modification_date":"2008-05-23",
+    "gn:name":"Lebiley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54901
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"07fecd63e17ad2b513a69a307e06e3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1327437609,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1327437609,
+    "wof:lastmodified":1536673198,
+    "wof:name":"Lebiley",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.68033,
+    2.21875,
+    42.68033,
+    2.21875
+],
+  "geometry": {"coordinates":[42.68033,2.21875],"type":"Point"}
+}

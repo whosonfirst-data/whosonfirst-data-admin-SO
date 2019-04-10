@@ -1,0 +1,115 @@
+{
+  "id": 421196797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6176,4.68501,46.6176,4.68501",
+    "geom:latitude":4.68501,
+    "geom:longitude":46.6176,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "El Buur"
+    ],
+    "name:eng_x_preferred":[
+        "El Buur"
+    ],
+    "name:ita_x_preferred":[
+        "El Bur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d6\u30fc\u30eb"
+    ],
+    "name:por_x_preferred":[
+        "Ceelbuur"
+    ],
+    "name:ron_x_preferred":[
+        "Ceelbuur"
+    ],
+    "name:rum_x_preferred":[
+        "Ceelbuur"
+    ],
+    "name:som_x_preferred":[
+        "Ceel Buur"
+    ],
+    "name:tur_x_preferred":[
+        "El Buur"
+    ],
+    "name:unk_x_variant":[
+        "Ceelbuur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0631"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":62821,
+    "qs:gn_pop":9031,
+    "qs:name":"El Bur",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Galguduud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1298313,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1426674,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62821,
+        "gp:id":1426674,
+        "qs:id":1298313,
+        "wd:id":"Q2737496",
+        "wk:page":"El Buur"
+    },
+    "wof:country":"SO",
+    "wof:created":1459009893,
+    "wof:geomhash":"4d10ec9acf1202b256650be179e3aa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757827,
+            "locality_id":421196797,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":421196797,
+    "wof:lastmodified":1527716359,
+    "wof:name":"El Bur",
+    "wof:parent_id":1108757827,
+    "wof:placetype":"locality",
+    "wof:population":9031,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6176,
+    4.68501,
+    46.6176,
+    4.68501
+],
+  "geometry": {"coordinates":[46.6176,4.68501],"type":"Point"}
+}

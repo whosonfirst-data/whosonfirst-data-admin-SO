@@ -1,0 +1,70 @@
+{
+  "id": 1343981895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94845,2.89261,43.94845,2.89261",
+    "geom:latitude":2.89261,
+    "geom:longitude":43.94845,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aborko",
+    "gn:country_code":"SO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65947,
+    "gn:latitude":2.89261,
+    "gn:longitude":43.94845,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aborko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Aborko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65947
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"08e94cc6ff12f494fa55e4e3b124dfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1343981895,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1343981895,
+    "wof:lastmodified":1537701355,
+    "wof:name":"Aborko",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94845,
+    2.89261,
+    43.94845,
+    2.89261
+],
+  "geometry": {"coordinates":[43.94845,2.89261],"type":"Point"}
+}

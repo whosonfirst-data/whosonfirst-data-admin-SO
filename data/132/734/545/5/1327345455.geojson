@@ -1,0 +1,70 @@
+{
+  "id": 1327345455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0189,10.9938,50.0189,10.9938",
+    "geom:latitude":10.9938,
+    "geom:longitude":50.0189,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Qural",
+    "gn:country_code":"SO",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52744,
+    "gn:latitude":10.9938,
+    "gn:longitude":50.0189,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qural",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Qural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52744
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"27a6e9b513e0ea9f83ff2e6803f235c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757931,
+            "locality_id":1327345455,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1327345455,
+    "wof:lastmodified":1537701213,
+    "wof:name":"Qural",
+    "wof:parent_id":1108757931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0189,
+    10.9938,
+    50.0189,
+    10.9938
+],
+  "geometry": {"coordinates":[50.0189,10.9938],"type":"Point"}
+}

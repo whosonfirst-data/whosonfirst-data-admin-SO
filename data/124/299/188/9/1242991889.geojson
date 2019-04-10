@@ -1,0 +1,77 @@
+{
+  "id": 1242991889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7141,0.2837,41.7141,0.2837",
+    "geom:latitude":0.2837,
+    "geom:longitude":41.7141,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bilis Qooqaani",
+    "gn:country_code":"SO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64298,
+    "gn:latitude":0.2837,
+    "gn:longitude":41.7141,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bilis Qooqaani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Bilis Qooqaani"
+    ],
+    "name:und_x_variant":[
+        "Belesc Cogani",
+        "Beles Gogani",
+        "Beled-Sa Cacuni",
+        "Beles Gugami",
+        "Bilis Qooqaani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64298
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e5cfa2c038d132f684c9a922a85ca441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757773,
+            "locality_id":1242991889,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1242991889,
+    "wof:lastmodified":1537701335,
+    "wof:name":"Bilis Qooqaani",
+    "wof:parent_id":1108757773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7141,
+    0.2837,
+    41.7141,
+    0.2837
+],
+  "geometry": {"coordinates":[41.7141,0.2837],"type":"Point"}
+}

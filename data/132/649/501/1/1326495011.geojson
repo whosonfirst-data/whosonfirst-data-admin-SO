@@ -1,0 +1,67 @@
+{
+  "id": 1326495011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87648,9.55863,43.87648,9.55863",
+    "geom:latitude":9.55863,
+    "geom:longitude":43.87648,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Booli Diido",
+    "gn:country_code":"SO",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":64030,
+    "gn:latitude":9.55863,
+    "gn:longitude":43.87648,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Booli Diido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64030
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e0aa2e8f9cf7e774b0c3c4333e20e724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1326495011,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1326495011,
+    "wof:lastmodified":1537036196,
+    "wof:name":"Booli Diido",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87648,
+    9.55863,
+    43.87648,
+    9.55863
+],
+  "geometry": {"coordinates":[43.87648,9.55863],"type":"Point"}
+}

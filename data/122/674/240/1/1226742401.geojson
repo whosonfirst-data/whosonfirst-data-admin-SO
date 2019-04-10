@@ -1,0 +1,75 @@
+{
+  "id": 1226742401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.2461,2.5136,42.2461,2.5136",
+    "geom:latitude":2.5136,
+    "geom:longitude":42.2461,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Waamo Yarey",
+    "gn:country_code":"SO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50801,
+    "gn:latitude":2.5136,
+    "gn:longitude":42.2461,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Waamo Yarey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Waamo Yarey"
+    ],
+    "name:und_x_variant":[
+        "Uama",
+        "Uama Ierei",
+        "Waamo Yarey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50801
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cdcdbb3ef2e5f005146a082f7a3afa12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1226742401,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1226742401,
+    "wof:lastmodified":1537701188,
+    "wof:name":"Waamo Yarey",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.2461,
+    2.5136,
+    42.2461,
+    2.5136
+],
+  "geometry": {"coordinates":[42.2461,2.5136],"type":"Point"}
+}

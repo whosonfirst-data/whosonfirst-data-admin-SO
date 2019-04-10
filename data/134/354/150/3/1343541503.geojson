@@ -1,0 +1,74 @@
+{
+  "id": 1343541503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7429,11.0731,48.7429,11.0731",
+    "geom:latitude":11.0731,
+    "geom:longitude":48.7429,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Faaracood",
+    "gn:country_code":"SO",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59987,
+    "gn:latitude":11.0731,
+    "gn:longitude":48.7429,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Faaracood",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Faaracood"
+    ],
+    "name:und_x_variant":[
+        "Faro",
+        "Faaracood"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59987
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"85c66fea5b4911189d65a0a4367bd8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757793,
+            "locality_id":1343541503,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1343541503,
+    "wof:lastmodified":1537701289,
+    "wof:name":"Faaracood",
+    "wof:parent_id":1108757793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7429,
+    11.0731,
+    48.7429,
+    11.0731
+],
+  "geometry": {"coordinates":[48.7429,11.0731],"type":"Point"}
+}

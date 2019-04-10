@@ -1,0 +1,67 @@
+{
+  "id": 1209813215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.42423,3.077,41.42423,3.077",
+    "geom:latitude":3.077,
+    "geom:longitude":41.42423,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Degti Gedi",
+    "gn:country_code":"SO",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10221383,
+    "gn:latitude":3.077,
+    "gn:longitude":41.42423,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Degti Gedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10221383
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"508cfe36a104cb651efceb0d7a5f47d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757787,
+            "locality_id":1209813215,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1209813215,
+    "wof:lastmodified":1536385491,
+    "wof:name":"Degti Gedi",
+    "wof:parent_id":1108757787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.42423,
+    3.077,
+    41.42423,
+    3.077
+],
+  "geometry": {"coordinates":[41.42423,3.077],"type":"Point"}
+}

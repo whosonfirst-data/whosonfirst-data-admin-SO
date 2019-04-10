@@ -1,0 +1,73 @@
+{
+  "id": 1293707953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77667,0.20111,42.77667,0.20111",
+    "geom:latitude":0.20111,
+    "geom:longitude":42.77667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Beled Amiin",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64472,
+    "gn:latitude":0.20111,
+    "gn:longitude":42.77667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Beled Amiin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belet Amin",
+        "Beled Amin",
+        "Beled Amiin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64472
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"566a195eb791cf8f4e98daea98d96f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757857,
+            "locality_id":1293707953,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1293707953,
+    "wof:lastmodified":1537701337,
+    "wof:name":"Beled Amiin",
+    "wof:parent_id":1108757857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77667,
+    0.20111,
+    42.77667,
+    0.20111
+],
+  "geometry": {"coordinates":[42.77667,0.20111],"type":"Point"}
+}

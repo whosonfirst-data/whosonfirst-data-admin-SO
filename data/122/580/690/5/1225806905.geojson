@@ -1,0 +1,67 @@
+{
+  "id": 1225806905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27461,9.38879,44.27461,9.38879",
+    "geom:latitude":9.38879,
+    "geom:longitude":44.27461,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Xadhig Xadhig",
+    "gn:country_code":"SO",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50239,
+    "gn:latitude":9.38879,
+    "gn:longitude":44.27461,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Xadhig Xadhig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50239
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"85e4903a47e9725d29695375f307531a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1225806905,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1225806905,
+    "wof:lastmodified":1537066955,
+    "wof:name":"Xadhig Xadhig",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27461,
+    9.38879,
+    44.27461,
+    9.38879
+],
+  "geometry": {"coordinates":[44.27461,9.38879],"type":"Point"}
+}

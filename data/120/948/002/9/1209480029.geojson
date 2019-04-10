@@ -1,0 +1,61 @@
+{
+  "id": 1209480029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75735,9.56654,43.75735,9.56654",
+    "geom:latitude":9.56654,
+    "geom:longitude":43.75735,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gaban Hurudo",
+    "gn:country_code":"SO",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59557,
+    "gn:latitude":9.56654,
+    "gn:longitude":43.75735,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Gaban Hurudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59557
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"61f8ce2b4e65e9a13b5f4a000a0ae1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209480029
+        }
+    ],
+    "wof:id":1209480029,
+    "wof:lastmodified":1536285814,
+    "wof:name":"Gaban Hurudo",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75735,
+    9.56654,
+    43.75735,
+    9.56654
+],
+  "geometry": {"coordinates":[43.75735,9.56654],"type":"Point"}
+}

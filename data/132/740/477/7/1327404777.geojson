@@ -1,0 +1,67 @@
+{
+  "id": 1327404777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,2.15,44.55,2.15",
+    "geom:latitude":2.15,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bulo Fert Dole",
+    "gn:country_code":"SO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63886,
+    "gn:latitude":2.15,
+    "gn:longitude":44.55,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Bulo Fert Dole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63886
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d21bad835a453afb1db0d6c04b210425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1327404777,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1327404777,
+    "wof:lastmodified":1536721096,
+    "wof:name":"Bulo Fert Dole",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    2.15,
+    44.55,
+    2.15
+],
+  "geometry": {"coordinates":[44.55,2.15],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226729159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.538,2.8195,45.538,2.8195",
+    "geom:latitude":2.8195,
+    "geom:longitude":45.538,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Geedo Berkaan",
+    "gn:country_code":"SO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58764,
+    "gn:latitude":2.8195,
+    "gn:longitude":45.538,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Geedo Berkaan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Geedo Berkaan"
+    ],
+    "name:und_x_variant":[
+        "Ghed\u00f2 Bercan",
+        "Geedo Berkaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58764
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ce70fc2f76449e6560008c2d92f16d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1226729159,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1226729159,
+    "wof:lastmodified":1537701276,
+    "wof:name":"Geedo Berkaan",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.538,
+    2.8195,
+    45.538,
+    2.8195
+],
+  "geometry": {"coordinates":[45.538,2.8195],"type":"Point"}
+}

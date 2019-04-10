@@ -1,0 +1,70 @@
+{
+  "id": 1259589233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77311,2.99696,43.77311,2.99696",
+    "geom:latitude":2.99696,
+    "geom:longitude":43.77311,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baanyale Mubaarak",
+    "gn:country_code":"SO",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65187,
+    "gn:latitude":2.99696,
+    "gn:longitude":43.77311,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baanyale Mubaarak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Baanyale Mubaarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65187
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d3c819fb064dac28c2ee4096eadaa2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1259589233,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1259589233,
+    "wof:lastmodified":1537701346,
+    "wof:name":"Baanyale Mubaarak",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77311,
+    2.99696,
+    43.77311,
+    2.99696
+],
+  "geometry": {"coordinates":[43.77311,2.99696],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260275053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4636,4.0561,45.4636,4.0561",
+    "geom:latitude":4.0561,
+    "geom:longitude":45.4636,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dabayoodle",
+    "gn:country_code":"SO",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62266,
+    "gn:latitude":4.0561,
+    "gn:longitude":45.4636,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dabayoodle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dabayoodle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62266
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"08553436ac5f07044c47bcce3c6fe6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757825,
+            "locality_id":1260275053,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1260275053,
+    "wof:lastmodified":1537701308,
+    "wof:name":"Dabayoodle",
+    "wof:parent_id":1108757825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4636,
+    4.0561,
+    45.4636,
+    4.0561
+],
+  "geometry": {"coordinates":[45.4636,4.0561],"type":"Point"}
+}

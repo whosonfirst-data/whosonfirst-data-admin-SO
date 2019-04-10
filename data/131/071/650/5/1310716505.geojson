@@ -1,0 +1,67 @@
+{
+  "id": 1310716505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01667,1.1,44.01667,1.1",
+    "geom:latitude":1.1,
+    "geom:longitude":44.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mafoqi",
+    "gn:country_code":"SO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54519,
+    "gn:latitude":1.1,
+    "gn:longitude":44.01667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Mafoqi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54519
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ec152c0a5fcb7289e663bb0d546af879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757809,
+            "locality_id":1310716505,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1310716505,
+    "wof:lastmodified":1536609816,
+    "wof:name":"Mafoqi",
+    "wof:parent_id":1108757809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01667,
+    1.1,
+    44.01667,
+    1.1
+],
+  "geometry": {"coordinates":[44.01667,1.1],"type":"Point"}
+}

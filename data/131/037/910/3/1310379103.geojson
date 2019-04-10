@@ -1,0 +1,70 @@
+{
+  "id": 1310379103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0267,2.0429,45.0267,2.0429",
+    "geom:latitude":2.0429,
+    "geom:longitude":45.0267,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hantiwadaaq",
+    "gn:country_code":"SO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57386,
+    "gn:latitude":2.0429,
+    "gn:longitude":45.0267,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hantiwadaaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Hantiwadaaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57386
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"91c35e0d2dcfe6db577f02e204bef538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1310379103,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1310379103,
+    "wof:lastmodified":1537701264,
+    "wof:name":"Hantiwadaaq",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0267,
+    2.0429,
+    45.0267,
+    2.0429
+],
+  "geometry": {"coordinates":[45.0267,2.0429],"type":"Point"}
+}

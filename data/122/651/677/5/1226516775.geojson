@@ -1,0 +1,71 @@
+{
+  "id": 1226516775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06229,9.59271,44.06229,9.59271",
+    "geom:latitude":9.59271,
+    "geom:longitude":44.06229,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dalooldho",
+    "gn:country_code":"SO",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61993,
+    "gn:latitude":9.59271,
+    "gn:longitude":44.06229,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dalooldho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalordo",
+        "Dalooldho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61993
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6b42bc9fa9b7f89ac96960dda07ad3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1226516775,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1226516775,
+    "wof:lastmodified":1537701307,
+    "wof:name":"Dalooldho",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06229,
+    9.59271,
+    44.06229,
+    9.59271
+],
+  "geometry": {"coordinates":[44.06229,9.59271],"type":"Point"}
+}

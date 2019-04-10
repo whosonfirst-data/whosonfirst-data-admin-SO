@@ -1,0 +1,61 @@
+{
+  "id": 1209305215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75,0.5,42.75,0.5",
+    "geom:latitude":0.5,
+    "geom:longitude":42.75,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nassib Mohallim",
+    "gn:country_code":"SO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53521,
+    "gn:latitude":0.5,
+    "gn:longitude":42.75,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nassib Mohallim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53521
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5b2b2533220f7e7f5fe93287c0c9cd3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209305215
+        }
+    ],
+    "wof:id":1209305215,
+    "wof:lastmodified":1536291219,
+    "wof:name":"Nassib Mohallim",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75,
+    0.5,
+    42.75,
+    0.5
+],
+  "geometry": {"coordinates":[42.75,0.5],"type":"Point"}
+}

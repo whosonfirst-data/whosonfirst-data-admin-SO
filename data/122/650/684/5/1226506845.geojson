@@ -1,0 +1,71 @@
+{
+  "id": 1226506845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18333,10.3,43.18333,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":43.18333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jif",
+    "gn:country_code":"SO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56226,
+    "gn:latitude":10.3,
+    "gn:longitude":43.18333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jeff",
+        "Jif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805623,
+        1108757873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56226
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"011cc091f4d709c96a0da89cdc87e889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757873,
+            "locality_id":1226506845,
+            "region_id":1108805623
+        }
+    ],
+    "wof:id":1226506845,
+    "wof:lastmodified":1537701252,
+    "wof:name":"Jif",
+    "wof:parent_id":1108757873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18333,
+    10.3,
+    43.18333,
+    10.3
+],
+  "geometry": {"coordinates":[43.18333,10.3],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259362301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33995,2.83504,45.33995,2.83504",
+    "geom:latitude":2.83504,
+    "geom:longitude":45.33995,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bannaan",
+    "gn:country_code":"SO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64777,
+    "gn:latitude":2.83504,
+    "gn:longitude":45.33995,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bannaan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Bannaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64777
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6bbb3aad3c2df1abd0de45f45a40bcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1259362301,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1259362301,
+    "wof:lastmodified":1537701341,
+    "wof:name":"Bannaan",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33995,
+    2.83504,
+    45.33995,
+    2.83504
+],
+  "geometry": {"coordinates":[45.33995,2.83504],"type":"Point"}
+}

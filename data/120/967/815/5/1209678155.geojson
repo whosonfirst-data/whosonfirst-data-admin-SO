@@ -1,0 +1,64 @@
+{
+  "id": 1209678155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10599,10.16139,45.10599,10.16139",
+    "geom:latitude":10.16139,
+    "geom:longitude":45.10599,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Bixinduule",
+    "gn:country_code":"SO",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64211,
+    "gn:latitude":10.16139,
+    "gn:longitude":45.10599,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bixinduule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Bixinduule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64211
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b7e7613e2395fbe5bf5a4e31dbddfaf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209678155
+        }
+    ],
+    "wof:id":1209678155,
+    "wof:lastmodified":1537701334,
+    "wof:name":"Bixinduule",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10599000000001,
+    10.16139,
+    45.10599000000001,
+    10.16139
+],
+  "geometry": {"coordinates":[45.10599000000001,10.16139],"type":"Point"}
+}

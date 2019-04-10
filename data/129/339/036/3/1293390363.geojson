@@ -1,0 +1,70 @@
+{
+  "id": 1293390363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04517,2.57522,44.04517,2.57522",
+    "geom:latitude":2.57522,
+    "geom:longitude":44.04517,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shaamburow",
+    "gn:country_code":"SO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51977,
+    "gn:latitude":2.57522,
+    "gn:longitude":44.04517,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shaamburow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Shaamburow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51977
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5fdbb05e5d679c001187bccde1feba96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1293390363,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1293390363,
+    "wof:lastmodified":1537701203,
+    "wof:name":"Shaamburow",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04517,
+    2.57522,
+    44.04517,
+    2.57522
+],
+  "geometry": {"coordinates":[44.04517,2.57522],"type":"Point"}
+}

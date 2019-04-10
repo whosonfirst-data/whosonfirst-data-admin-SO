@@ -1,0 +1,70 @@
+{
+  "id": 1326801295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6453,1.7962,44.6453,1.7962",
+    "geom:latitude":1.7962,
+    "geom:longitude":44.6453,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maanjoor",
+    "gn:country_code":"SO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54688,
+    "gn:latitude":1.7962,
+    "gn:longitude":44.6453,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maanjoor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Maanjoor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54688
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"44eb68a2a1dd8a2418f666e658f30b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1326801295,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1326801295,
+    "wof:lastmodified":1537701235,
+    "wof:name":"Maanjoor",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6453,
+    1.7962,
+    44.6453,
+    1.7962
+],
+  "geometry": {"coordinates":[44.6453,1.7962],"type":"Point"}
+}

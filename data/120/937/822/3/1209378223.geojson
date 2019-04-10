@@ -1,0 +1,65 @@
+{
+  "id": 1209378223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4,7.98333,48.4,7.98333",
+    "geom:latitude":7.98333,
+    "geom:longitude":48.4,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ina Irman Ad",
+    "gn:country_code":"SO",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56598,
+    "gn:latitude":7.98333,
+    "gn:longitude":48.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ina Irman Ad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ina Erman Ad",
+        "Ina Irman Ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56598
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a6338971d7d8797c7ccc158dbc9ad155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209378223
+        }
+    ],
+    "wof:id":1209378223,
+    "wof:lastmodified":1537701256,
+    "wof:name":"Ina Irman Ad",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4,
+    7.98333,
+    48.4,
+    7.98333
+],
+  "geometry": {"coordinates":[48.4,7.98333],"type":"Point"}
+}

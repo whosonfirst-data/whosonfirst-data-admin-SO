@@ -1,0 +1,87 @@
+{
+  "id": 421166939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.05795,11.87037,51.05795,11.87037",
+    "geom:latitude":11.87037,
+    "geom:longitude":51.05795,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:som_x_preferred":[
+        "Bereeda"
+    ],
+    "name:unk_x_variant":[
+        "Bar\u0113d\u00e1"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":64412,
+    "qs:gn_pop":11262,
+    "qs:name":"Bereda",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Bari",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122082,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1425443,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64412,
+        "gp:id":1425443,
+        "qs:id":122082,
+        "wd:id":"Q2679483",
+        "wk:page":"Bareeda District"
+    },
+    "wof:country":"SO",
+    "wof:created":1459008708,
+    "wof:geomhash":"2e3edaff586bdbb03972a80191d489ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757803,
+            "locality_id":421166939,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":421166939,
+    "wof:lastmodified":1505340582,
+    "wof:name":"Bereda",
+    "wof:parent_id":1108757803,
+    "wof:placetype":"locality",
+    "wof:population":11262,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.05795,
+    11.87037,
+    51.05795,
+    11.87037
+],
+  "geometry": {"coordinates":[51.05795,11.87037],"type":"Point"}
+}

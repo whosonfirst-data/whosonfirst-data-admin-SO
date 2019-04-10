@@ -1,0 +1,70 @@
+{
+  "id": 1327313211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4916,2.2199,45.4916,2.2199",
+    "geom:latitude":2.2199,
+    "geom:longitude":45.4916,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kulaameny",
+    "gn:country_code":"SO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55488,
+    "gn:latitude":2.2199,
+    "gn:longitude":45.4916,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kulaameny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Kulaameny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55488
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b5e9b85d2de065aed2c05967ace2cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757777,
+            "locality_id":1327313211,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1327313211,
+    "wof:lastmodified":1537701244,
+    "wof:name":"Kulaameny",
+    "wof:parent_id":1108757777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4916,
+    2.2199,
+    45.4916,
+    2.2199
+],
+  "geometry": {"coordinates":[45.4916,2.2199],"type":"Point"}
+}

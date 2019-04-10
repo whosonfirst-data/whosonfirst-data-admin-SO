@@ -1,0 +1,70 @@
+{
+  "id": 1293672635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70668,1.77727,44.70668,1.77727",
+    "geom:latitude":1.77727,
+    "geom:longitude":44.70668,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buur Fuule",
+    "gn:country_code":"SO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63585,
+    "gn:latitude":1.77727,
+    "gn:longitude":44.70668,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Buur Fuule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Buur Fuule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63585
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"60d667054530d2f4664face7d4542f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757883,
+            "locality_id":1293672635,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1293672635,
+    "wof:lastmodified":1537701324,
+    "wof:name":"Buur Fuule",
+    "wof:parent_id":1108757883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70668,
+    1.77727,
+    44.70668,
+    1.77727
+],
+  "geometry": {"coordinates":[44.70668,1.77727],"type":"Point"}
+}

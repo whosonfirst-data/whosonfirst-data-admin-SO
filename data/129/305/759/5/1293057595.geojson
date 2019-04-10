@@ -1,0 +1,72 @@
+{
+  "id": 1293057595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.88333,8.63333,47.88333,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":47.88333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dermatile",
+    "gn:country_code":"SO",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61544,
+    "gn:latitude":8.63333,
+    "gn:longitude":47.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dermatile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dermatisle",
+        "Dermatileh",
+        "Dermatile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61544
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"906cdf40be137acb8451787d80873ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757867,
+            "locality_id":1293057595,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1293057595,
+    "wof:lastmodified":1537701303,
+    "wof:name":"Dermatile",
+    "wof:parent_id":1108757867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.88333,
+    8.63333,
+    47.88333,
+    8.63333
+],
+  "geometry": {"coordinates":[47.88333,8.63333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226832581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3151,1.4088,44.3151,1.4088",
+    "geom:latitude":1.4088,
+    "geom:longitude":44.3151,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yaaq Kunto",
+    "gn:country_code":"SO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49663,
+    "gn:latitude":1.4088,
+    "gn:longitude":44.3151,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaaq Kunto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Yaaq Kunto"
+    ],
+    "name:und_x_variant":[
+        "Bulollicunta",
+        "Bulo Iacunta",
+        "Yaaq Kunto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49663
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"bb0d0bf31853d848ab27cb71770bb9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757809,
+            "locality_id":1226832581,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1226832581,
+    "wof:lastmodified":1537701173,
+    "wof:name":"Yaaq Kunto",
+    "wof:parent_id":1108757809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3151,
+    1.4088,
+    44.3151,
+    1.4088
+],
+  "geometry": {"coordinates":[44.3151,1.4088],"type":"Point"}
+}

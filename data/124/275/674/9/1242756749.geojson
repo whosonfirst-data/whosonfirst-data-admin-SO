@@ -1,0 +1,70 @@
+{
+  "id": 1242756749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4514,1.7238,44.4514,1.7238",
+    "geom:latitude":1.7238,
+    "geom:longitude":44.4514,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wadajir",
+    "gn:country_code":"SO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":50758,
+    "gn:latitude":1.7238,
+    "gn:longitude":44.4514,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wadajir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Wadajir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50758
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"db1d9bfbfbbf73ddba786cc2f58d2cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1242756749,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1242756749,
+    "wof:lastmodified":1537701187,
+    "wof:name":"Wadajir",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4514,
+    1.7238,
+    44.4514,
+    1.7238
+],
+  "geometry": {"coordinates":[44.4514,1.7238],"type":"Point"}
+}

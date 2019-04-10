@@ -1,0 +1,79 @@
+{
+  "id": 1259495157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.08433,10.46948,49.08433,10.46948",
+    "geom:latitude":10.46948,
+    "geom:longitude":49.08433,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Laaso Dawaco",
+    "gn:country_code":"SO",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55247,
+    "gn:latitude":10.46948,
+    "gn:longitude":49.08433,
+    "gn:modification_date":"2018-04-03",
+    "gn:name":"Laaso Dawaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Laaso Dawaco"
+    ],
+    "name:und_x_variant":[
+        "Laz Dau\u00e0",
+        "Laasadawoco",
+        "Laso Daua\u00f2",
+        "Las Daua",
+        "Las Daw\u00e1\u2018o",
+        "Laas Dawaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55247,
+        "wk:page":"Laas_Dawaco"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d5773101fc33d9ed2fda86e35df559ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757801,
+            "locality_id":1259495157,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1259495157,
+    "wof:lastmodified":1537701241,
+    "wof:name":"Laaso Dawaco",
+    "wof:parent_id":1108757801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.08433,
+    10.46948,
+    49.08433,
+    10.46948
+],
+  "geometry": {"coordinates":[49.08433,10.46948],"type":"Point"}
+}

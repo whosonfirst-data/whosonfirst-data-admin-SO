@@ -1,0 +1,67 @@
+{
+  "id": 1327158403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.56496,1.90188,42.56496,1.90188",
+    "geom:latitude":1.90188,
+    "geom:longitude":42.56496,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Banaada",
+    "gn:country_code":"SO",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64836,
+    "gn:latitude":1.90188,
+    "gn:longitude":42.56496,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Banaada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64836
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"4ec89995c5de2ab05380faf1b58d1f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1327158403,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1327158403,
+    "wof:lastmodified":1537073373,
+    "wof:name":"Banaada",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.56496,
+    1.90188,
+    42.56496,
+    1.90188
+],
+  "geometry": {"coordinates":[42.56496,1.90188],"type":"Point"}
+}

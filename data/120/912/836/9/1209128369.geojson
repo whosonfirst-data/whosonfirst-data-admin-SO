@@ -1,0 +1,65 @@
+{
+  "id": 1209128369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74824,0.3249,42.74824,0.3249",
+    "geom:latitude":0.3249,
+    "geom:longitude":42.74824,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mabuungo",
+    "gn:country_code":"SO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54672,
+    "gn:latitude":0.3249,
+    "gn:longitude":42.74824,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mabuungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabungo",
+        "Mabuungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54672
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"50ebc89acd54dc7cf2b2ce522091ad09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209128369
+        }
+    ],
+    "wof:id":1209128369,
+    "wof:lastmodified":1537701235,
+    "wof:name":"Mabuungo",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74824,
+    0.3249,
+    42.74824,
+    0.3249
+],
+  "geometry": {"coordinates":[42.74824,0.3249],"type":"Point"}
+}

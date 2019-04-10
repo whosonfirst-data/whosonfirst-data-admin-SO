@@ -1,0 +1,70 @@
+{
+  "id": 1326854477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77425,2.44539,42.77425,2.44539",
+    "geom:latitude":2.44539,
+    "geom:longitude":42.77425,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Korow",
+    "gn:country_code":"SO",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6773484,
+    "gn:latitude":2.44539,
+    "gn:longitude":42.77425,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Korow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Korow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6773484
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b904b1318bfd9492ebcf426dca6a865f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1326854477,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1326854477,
+    "wof:lastmodified":1537701358,
+    "wof:name":"Korow",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77425,
+    2.44539,
+    42.77425,
+    2.44539
+],
+  "geometry": {"coordinates":[42.77425,2.44539],"type":"Point"}
+}

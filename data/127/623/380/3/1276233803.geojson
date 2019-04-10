@@ -1,0 +1,67 @@
+{
+  "id": 1276233803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,3.63333,43.75,3.63333",
+    "geom:latitude":3.63333,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bulo Haldid",
+    "gn:country_code":"SO",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63876,
+    "gn:latitude":3.63333,
+    "gn:longitude":43.75,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bulo Haldid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63876
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"da6c009c320d94c7bf36962d1c949023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1276233803,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1276233803,
+    "wof:lastmodified":1536912413,
+    "wof:name":"Bulo Haldid",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    3.63333,
+    43.75,
+    3.63333
+],
+  "geometry": {"coordinates":[43.75,3.63333],"type":"Point"}
+}

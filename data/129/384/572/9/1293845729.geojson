@@ -1,0 +1,67 @@
+{
+  "id": 1293845729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02917,9.67995,44.02917,9.67995",
+    "geom:latitude":9.67995,
+    "geom:longitude":44.02917,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Beeyo Doofar",
+    "gn:country_code":"SO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64484,
+    "gn:latitude":9.67995,
+    "gn:longitude":44.02917,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Beeyo Doofar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64484
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"23a8357ce0d7c8d772165485f9882918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1293845729,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1293845729,
+    "wof:lastmodified":1536768343,
+    "wof:name":"Beeyo Doofar",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02917,
+    9.67995,
+    44.02917,
+    9.67995
+],
+  "geometry": {"coordinates":[44.02917,9.67995],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209209485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75823,0.25496,42.75823,0.25496",
+    "geom:latitude":0.25496,
+    "geom:longitude":42.75823,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Makalaangow",
+    "gn:country_code":"SO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54434,
+    "gn:latitude":0.25496,
+    "gn:longitude":42.75823,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makalaangow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toro",
+        "Makalaangow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54434
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ac95ada1efdcaae29d04dd2f7b4dabed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209209485
+        }
+    ],
+    "wof:id":1209209485,
+    "wof:lastmodified":1537701233,
+    "wof:name":"Makalaangow",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75823,
+    0.25496,
+    42.75823,
+    0.25496
+],
+  "geometry": {"coordinates":[42.75823,0.25496],"type":"Point"}
+}

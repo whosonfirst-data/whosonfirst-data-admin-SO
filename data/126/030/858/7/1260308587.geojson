@@ -1,0 +1,77 @@
+{
+  "id": 1260308587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.22657,5.78901,47.22657,5.78901",
+    "geom:latitude":5.78901,
+    "geom:longitude":47.22657,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Baxdo",
+    "gn:country_code":"SO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64541,
+    "gn:latitude":5.78901,
+    "gn:longitude":47.22657,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baxdo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Baxdo"
+    ],
+    "name:und_x_variant":[
+        "El Uein Bahado",
+        "Bah\u00e4d\u00f3",
+        "El Uen Bahado",
+        "Bahado",
+        "Baxdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64541
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b4e7dc136feef80fb3a84d92d0f0b3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757829,
+            "locality_id":1260308587,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":1260308587,
+    "wof:lastmodified":1537701338,
+    "wof:name":"Baxdo",
+    "wof:parent_id":1108757829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.22657,
+    5.78901,
+    47.22657,
+    5.78901
+],
+  "geometry": {"coordinates":[47.22657,5.78901],"type":"Point"}
+}

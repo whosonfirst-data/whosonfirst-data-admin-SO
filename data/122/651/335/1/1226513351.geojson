@@ -1,0 +1,70 @@
+{
+  "id": 1226513351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8461,1.0519,43.8461,1.0519",
+    "geom:latitude":1.0519,
+    "geom:longitude":43.8461,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Aysuure",
+    "gn:country_code":"SO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65224,
+    "gn:latitude":1.0519,
+    "gn:longitude":43.8461,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aysuure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Aysuure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65224
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"632c99e6b4ca13f40066194298e5273f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757809,
+            "locality_id":1226513351,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1226513351,
+    "wof:lastmodified":1537701347,
+    "wof:name":"Aysuure",
+    "wof:parent_id":1108757809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8461,
+    1.0519,
+    43.8461,
+    1.0519
+],
+  "geometry": {"coordinates":[43.8461,1.0519],"type":"Point"}
+}

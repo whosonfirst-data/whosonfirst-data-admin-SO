@@ -1,0 +1,71 @@
+{
+  "id": 1343258565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67457,-0.04831,42.67457,-0.04831",
+    "geom:latitude":-0.04831,
+    "geom:longitude":42.67457,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niirey",
+    "gn:country_code":"SO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53505,
+    "gn:latitude":-0.04831,
+    "gn:longitude":42.67457,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Niirey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabdi Arbo",
+        "Niirey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53505
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ac45ed6d8d7f952d6ff107ee858ebf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757857,
+            "locality_id":1343258565,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1343258565,
+    "wof:lastmodified":1537701221,
+    "wof:name":"Niirey",
+    "wof:parent_id":1108757857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67457,
+    -0.04831,
+    42.67457,
+    -0.04831
+],
+  "geometry": {"coordinates":[42.67457,-0.04831],"type":"Point"}
+}

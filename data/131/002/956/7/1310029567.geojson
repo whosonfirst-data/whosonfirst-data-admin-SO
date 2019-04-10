@@ -1,0 +1,70 @@
+{
+  "id": 1310029567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95168,2.83661,43.95168,2.83661",
+    "geom:latitude":2.83661,
+    "geom:longitude":43.95168,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qalaqol",
+    "gn:country_code":"SO",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53196,
+    "gn:latitude":2.83661,
+    "gn:longitude":43.95168,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qalaqol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Qalaqol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53196
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f512a07f3c3ed0b33f00c3a095a8a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1310029567,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1310029567,
+    "wof:lastmodified":1537701218,
+    "wof:name":"Qalaqol",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95168,
+    2.83661,
+    43.95168,
+    2.83661
+],
+  "geometry": {"coordinates":[43.95168,2.83661],"type":"Point"}
+}

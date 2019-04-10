@@ -1,0 +1,72 @@
+{
+  "id": 1293386935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,4.61667,45.08333,4.61667",
+    "geom:latitude":4.61667,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bar Madeghe",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64633,
+    "gn:latitude":4.61667,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bar Madeghe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar Medeghe",
+        "Bar Madeghe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64633
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d052b733dfc634a3b8aba2897e959805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757833,
+            "locality_id":1293386935,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1293386935,
+    "wof:lastmodified":1537701339,
+    "wof:name":"Bar Madeghe",
+    "wof:parent_id":1108757833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    4.61667,
+    45.08333,
+    4.61667
+],
+  "geometry": {"coordinates":[45.08333,4.61667],"type":"Point"}
+}

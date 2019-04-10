@@ -1,0 +1,70 @@
+{
+  "id": 1360306571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5123,3.4996,45.5123,3.4996",
+    "geom:latitude":3.4996,
+    "geom:longitude":45.5123,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gabaariyole",
+    "gn:country_code":"SO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308797,
+    "gn:latitude":3.4996,
+    "gn:longitude":45.5123,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gabaariyole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Gabaariyole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308797
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"9dfb36f734cb7929e4c850318a2b8df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757863,
+            "locality_id":1360306571,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1360306571,
+    "wof:lastmodified":1537701360,
+    "wof:name":"Gabaariyole",
+    "wof:parent_id":1108757863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5123,
+    3.4996,
+    45.5123,
+    3.4996
+],
+  "geometry": {"coordinates":[45.5123,3.4996],"type":"Point"}
+}

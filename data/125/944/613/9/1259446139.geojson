@@ -1,0 +1,75 @@
+{
+  "id": 1259446139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.11667,8.73333,49.11667,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":49.11667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Biixiyo",
+    "gn:country_code":"SO",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64376,
+    "gn:latitude":8.73333,
+    "gn:longitude":49.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Biixiyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Biixiyo"
+    ],
+    "name:und_x_variant":[
+        "Biheio",
+        "Bihejo",
+        "Bihiyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677283,
+        1108757881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64376
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1c71a48fb5e5eb9518c8267a00fcab95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757881,
+            "locality_id":1259446139,
+            "region_id":85677283
+        }
+    ],
+    "wof:id":1259446139,
+    "wof:lastmodified":1537701335,
+    "wof:name":"Biixiyo",
+    "wof:parent_id":1108757881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.11667,
+    8.73333,
+    49.11667,
+    8.73333
+],
+  "geometry": {"coordinates":[49.11667,8.73333],"type":"Point"}
+}

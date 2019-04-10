@@ -1,0 +1,71 @@
+{
+  "id": 1293361417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06063,2.44016,45.06063,2.44016",
+    "geom:latitude":2.44016,
+    "geom:longitude":45.06063,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Galaangale",
+    "gn:country_code":"SO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59440,
+    "gn:latitude":2.44016,
+    "gn:longitude":45.06063,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Galaangale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Galaangale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59440,
+        "wk:page":"Galaangale"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a85bff3114e90cee2e9ae9ffdc20bc25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1293361417,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1293361417,
+    "wof:lastmodified":1537701283,
+    "wof:name":"Galaangale",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06063,
+    2.44016,
+    45.06063,
+    2.44016
+],
+  "geometry": {"coordinates":[45.06063,2.44016],"type":"Point"}
+}

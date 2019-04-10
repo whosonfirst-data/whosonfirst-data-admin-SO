@@ -1,0 +1,61 @@
+{
+  "id": 1209200059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19136,0.83726,43.19136,0.83726",
+    "geom:latitude":0.83726,
+    "geom:longitude":43.19136,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Daad Jerow",
+    "gn:country_code":"SO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62411,
+    "gn:latitude":0.83726,
+    "gn:longitude":43.19136,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Daad Jerow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62411
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d7c5a35665bb94eb934e86c90d7bf144",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209200059
+        }
+    ],
+    "wof:id":1209200059,
+    "wof:lastmodified":1536294642,
+    "wof:name":"Daad Jerow",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19136,
+    0.83726,
+    43.19136,
+    0.83726
+],
+  "geometry": {"coordinates":[43.19136,0.83726],"type":"Point"}
+}

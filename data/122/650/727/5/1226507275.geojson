@@ -1,0 +1,67 @@
+{
+  "id": 1226507275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46251,9.7558,43.46251,9.7558",
+    "geom:latitude":9.7558,
+    "geom:longitude":43.46251,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ilmadade",
+    "gn:country_code":"SO",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6282855,
+    "gn:latitude":9.7558,
+    "gn:longitude":43.46251,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Ilmadade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282855
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"3d4759ad2e6e4198bf1eb12df2ba2c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757917,
+            "locality_id":1226507275,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1226507275,
+    "wof:lastmodified":1537051443,
+    "wof:name":"Ilmadade",
+    "wof:parent_id":1108757917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46251,
+    9.7558,
+    43.46251,
+    9.7558
+],
+  "geometry": {"coordinates":[43.46251,9.7558],"type":"Point"}
+}

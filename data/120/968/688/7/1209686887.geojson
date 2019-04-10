@@ -1,0 +1,68 @@
+{
+  "id": 1209686887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96658,1.83458,44.96658,1.83458",
+    "geom:latitude":1.83458,
+    "geom:longitude":44.96658,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gandarshe",
+    "gn:country_code":"SO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59194,
+    "gn:latitude":1.83458,
+    "gn:longitude":44.96658,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gandarshe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Gandarshe"
+    ],
+    "name:und_x_variant":[
+        "Gonderscia",
+        "Gandarshe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59194
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"77e0e851e7cb827b43efa20a56a814e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209686887
+        }
+    ],
+    "wof:id":1209686887,
+    "wof:lastmodified":1537701280,
+    "wof:name":"Gandarshe",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96658,
+    1.83458,
+    44.96658,
+    1.83458
+],
+  "geometry": {"coordinates":[44.96658,1.83458],"type":"Point"}
+}

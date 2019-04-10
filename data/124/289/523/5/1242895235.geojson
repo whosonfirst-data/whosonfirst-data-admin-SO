@@ -1,0 +1,70 @@
+{
+  "id": 1242895235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3112,4.425,45.3112,4.425",
+    "geom:latitude":4.425,
+    "geom:longitude":45.3112,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Doolo Qoyan",
+    "gn:country_code":"SO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60633,
+    "gn:latitude":4.425,
+    "gn:longitude":45.3112,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Doolo Qoyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Doolo Qoyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60633
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"bd4b98ca319595070e8cb28d9eb1aa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757833,
+            "locality_id":1242895235,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1242895235,
+    "wof:lastmodified":1537701296,
+    "wof:name":"Doolo Qoyan",
+    "wof:parent_id":1108757833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3112,
+    4.425,
+    45.3112,
+    4.425
+],
+  "geometry": {"coordinates":[45.3112,4.425],"type":"Point"}
+}

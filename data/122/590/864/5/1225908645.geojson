@@ -1,0 +1,71 @@
+{
+  "id": 1225908645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28746,9.84296,43.28746,9.84296",
+    "geom:latitude":9.84296,
+    "geom:longitude":43.28746,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Walaalgo",
+    "gn:country_code":"SO",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50706,
+    "gn:latitude":9.84296,
+    "gn:longitude":43.28746,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Walaalgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ualal\u2019go",
+        "Walaalgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805623,
+        1108757873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50706
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"2c3b01c936ac02dcb5f43315488833ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757873,
+            "locality_id":1225908645,
+            "region_id":1108805623
+        }
+    ],
+    "wof:id":1225908645,
+    "wof:lastmodified":1537701186,
+    "wof:name":"Walaalgo",
+    "wof:parent_id":1108757873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28746,
+    9.84296,
+    43.28746,
+    9.84296
+],
+  "geometry": {"coordinates":[43.28746,9.84296],"type":"Point"}
+}

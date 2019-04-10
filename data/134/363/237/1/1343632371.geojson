@@ -1,0 +1,70 @@
+{
+  "id": 1343632371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6071,1.8263,44.6071,1.8263",
+    "geom:latitude":1.8263,
+    "geom:longitude":44.6071,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xaaji Xasan",
+    "gn:country_code":"SO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50325,
+    "gn:latitude":1.8263,
+    "gn:longitude":44.6071,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xaaji Xasan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Xaaji Xasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50325
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e9d13fedb0748c08da626712d79ed6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1343632371,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1343632371,
+    "wof:lastmodified":1537701180,
+    "wof:name":"Xaaji Xasan",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6071,
+    1.8263,
+    44.6071,
+    1.8263
+],
+  "geometry": {"coordinates":[44.6071,1.8263],"type":"Point"}
+}

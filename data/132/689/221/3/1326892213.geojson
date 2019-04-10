@@ -1,0 +1,73 @@
+{
+  "id": 1326892213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69311,9.95162,44.69311,9.95162",
+    "geom:latitude":9.95162,
+    "geom:longitude":44.69311,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Shiikh Abdaal",
+    "gn:country_code":"SO",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51806,
+    "gn:latitude":9.95162,
+    "gn:longitude":44.69311,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shiikh Abdaal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Shiikh Abdaal"
+    ],
+    "name:und_x_variant":[
+        "Sheikh Abdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51806
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"901bef4254dc4e3aba077acc6b87de2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1326892213,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1326892213,
+    "wof:lastmodified":1537701200,
+    "wof:name":"Shiikh Abdaal",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69311,
+    9.95162,
+    44.69311,
+    9.95162
+],
+  "geometry": {"coordinates":[44.69311,9.95162],"type":"Point"}
+}

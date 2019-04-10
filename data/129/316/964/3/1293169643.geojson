@@ -1,0 +1,70 @@
+{
+  "id": 1293169643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.02783,9.93643,46.02783,9.93643",
+    "geom:latitude":9.93643,
+    "geom:longitude":46.02783,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Fiqi Ayuub",
+    "gn:country_code":"SO",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59709,
+    "gn:latitude":9.93643,
+    "gn:longitude":46.02783,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fiqi Ayuub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Fiqi Ayuub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421194355,
+        1108757813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59709
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"852d517d11a066469bf95fedc06c4f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757813,
+            "locality_id":1293169643,
+            "region_id":421194355
+        }
+    ],
+    "wof:id":1293169643,
+    "wof:lastmodified":1537701286,
+    "wof:name":"Fiqi Ayuub",
+    "wof:parent_id":1108757813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.02783,
+    9.93643,
+    46.02783,
+    9.93643
+],
+  "geometry": {"coordinates":[46.02783,9.93643],"type":"Point"}
+}

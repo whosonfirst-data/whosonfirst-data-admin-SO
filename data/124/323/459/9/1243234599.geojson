@@ -1,0 +1,70 @@
+{
+  "id": 1243234599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8489,1.2986,43.8489,1.2986",
+    "geom:latitude":1.2986,
+    "geom:longitude":43.8489,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maftan",
+    "gn:country_code":"SO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54518,
+    "gn:latitude":1.2986,
+    "gn:longitude":43.8489,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maftan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Maftan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54518
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"0c197a4fe361c249b30b18b0d9e95358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757893,
+            "locality_id":1243234599,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1243234599,
+    "wof:lastmodified":1537701234,
+    "wof:name":"Maftan",
+    "wof:parent_id":1108757893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8489,
+    1.2986,
+    43.8489,
+    1.2986
+],
+  "geometry": {"coordinates":[43.8489,1.2986],"type":"Point"}
+}

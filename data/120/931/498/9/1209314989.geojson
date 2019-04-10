@@ -1,0 +1,64 @@
+{
+  "id": 1209314989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.535,3.0339,43.535,3.0339",
+    "geom:latitude":3.0339,
+    "geom:longitude":43.535,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gorer Weyn",
+    "gn:country_code":"SO",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":58126,
+    "gn:latitude":3.0339,
+    "gn:longitude":43.535,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gorer Weyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Gorer Weyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58126
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"80a0757718c707c7e00a35ddd7754f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209314989
+        }
+    ],
+    "wof:id":1209314989,
+    "wof:lastmodified":1537701270,
+    "wof:name":"Gorer Weyn",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.535,
+    3.0339,
+    43.535,
+    3.0339
+],
+  "geometry": {"coordinates":[43.535,3.0339],"type":"Point"}
+}

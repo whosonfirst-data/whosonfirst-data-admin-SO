@@ -1,0 +1,74 @@
+{
+  "id": 1293581689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5013,3.2477,42.5013,3.2477",
+    "geom:latitude":3.2477,
+    "geom:longitude":42.5013,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marre",
+    "gn:country_code":"SO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54186,
+    "gn:latitude":3.2477,
+    "gn:longitude":42.5013,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Marre"
+    ],
+    "name:und_x_variant":[
+        "Ilo Merere",
+        "Marre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54186
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"bd053ebeb6fd37cbdd3db5dfd4943286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757845,
+            "locality_id":1293581689,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1293581689,
+    "wof:lastmodified":1537701229,
+    "wof:name":"Marre",
+    "wof:parent_id":1108757845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5013,
+    3.2477,
+    42.5013,
+    3.2477
+],
+  "geometry": {"coordinates":[42.5013,3.2477],"type":"Point"}
+}

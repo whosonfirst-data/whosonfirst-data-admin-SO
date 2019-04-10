@@ -1,0 +1,67 @@
+{
+  "id": 1225918545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38297,9.18955,44.38297,9.18955",
+    "geom:latitude":9.18955,
+    "geom:longitude":44.38297,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Qori Jabley",
+    "gn:country_code":"SO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52924,
+    "gn:latitude":9.18955,
+    "gn:longitude":44.38297,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Qori Jabley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52924
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a284c2ba10f5322c6225c5fc1ddb6d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1225918545,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1225918545,
+    "wof:lastmodified":1536909093,
+    "wof:name":"Qori Jabley",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38297,
+    9.18955,
+    44.38297,
+    9.18955
+],
+  "geometry": {"coordinates":[44.38297,9.18955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192992117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84506,2.54936,44.84506,2.54936",
+    "geom:latitude":2.54936,
+    "geom:longitude":44.84506,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Heer Aw Shlikh Abikar",
+    "gn:country_code":"SO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57180,
+    "gn:latitude":2.54936,
+    "gn:longitude":44.84506,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Heer Aw Shlikh Abikar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Heer Aw Shlikh Abikar"
+    ],
+    "name:und_x_variant":[
+        "Heer Aw Shiikh Abikar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57180
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f6e2751ce3b7be70cb3280e43124b414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1192992117,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1192992117,
+    "wof:lastmodified":1537701262,
+    "wof:name":"Heer Aw Shlikh Abikar",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84506,
+    2.54936,
+    44.84506,
+    2.54936
+],
+  "geometry": {"coordinates":[44.84506,2.54936],"type":"Point"}
+}

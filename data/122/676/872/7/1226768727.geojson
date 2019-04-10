@@ -1,0 +1,67 @@
+{
+  "id": 1226768727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.45845,0.03362,42.45845,0.03362",
+    "geom:latitude":0.03362,
+    "geom:longitude":42.45845,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Golja",
+    "gn:country_code":"SO",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58293,
+    "gn:latitude":0.03362,
+    "gn:longitude":42.45845,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Golja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58293
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"aaacb679ef822efeb97cae701a14d23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757773,
+            "locality_id":1226768727,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1226768727,
+    "wof:lastmodified":1536682431,
+    "wof:name":"Golja",
+    "wof:parent_id":1108757773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.45845,
+    0.03362,
+    42.45845,
+    0.03362
+],
+  "geometry": {"coordinates":[42.45845,0.03362],"type":"Point"}
+}

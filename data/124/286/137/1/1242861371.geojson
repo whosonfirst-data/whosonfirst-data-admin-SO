@@ -1,0 +1,70 @@
+{
+  "id": 1242861371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.97415,10.90806,48.97415,10.90806",
+    "geom:latitude":10.90806,
+    "geom:longitude":48.97415,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Maraje",
+    "gn:country_code":"SO",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54305,
+    "gn:latitude":10.90806,
+    "gn:longitude":48.97415,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maraje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Maraje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54305
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c69426037cbf04472dcdbbc2dd569ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757793,
+            "locality_id":1242861371,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1242861371,
+    "wof:lastmodified":1537701231,
+    "wof:name":"Maraje",
+    "wof:parent_id":1108757793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.97415,
+    10.90806,
+    48.97415,
+    10.90806
+],
+  "geometry": {"coordinates":[48.97415,10.90806],"type":"Point"}
+}

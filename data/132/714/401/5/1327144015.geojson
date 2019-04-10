@@ -1,0 +1,67 @@
+{
+  "id": 1327144015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73333,3.86667,43.73333,3.86667",
+    "geom:latitude":3.86667,
+    "geom:longitude":43.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Caboi",
+    "gn:country_code":"SO",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60167,
+    "gn:latitude":3.86667,
+    "gn:longitude":43.73333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"El Caboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60167
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1a882a764f69e18ca620ae237cb20c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757901,
+            "locality_id":1327144015,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1327144015,
+    "wof:lastmodified":1537093907,
+    "wof:name":"El Caboi",
+    "wof:parent_id":1108757901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73333,
+    3.86667,
+    43.73333,
+    3.86667
+],
+  "geometry": {"coordinates":[43.73333,3.86667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243554935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6303,3.1777,43.6303,3.1777",
+    "geom:latitude":3.1777,
+    "geom:longitude":43.6303,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lanbuule",
+    "gn:country_code":"SO",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931847,
+    "gn:latitude":3.1777,
+    "gn:longitude":43.6303,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lanbuule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Lanbuule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931847
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a5bacf8bd03e4f408f1c321faece5e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1243554935,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1243554935,
+    "wof:lastmodified":1537701359,
+    "wof:name":"Lanbuule",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6303,
+    3.1777,
+    43.6303,
+    3.1777
+],
+  "geometry": {"coordinates":[43.6303,3.1777],"type":"Point"}
+}

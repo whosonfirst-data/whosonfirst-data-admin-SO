@@ -1,0 +1,70 @@
+{
+  "id": 1226466665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4355,3.0934,43.4355,3.0934",
+    "geom:latitude":3.0934,
+    "geom:longitude":43.4355,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tugeere",
+    "gn:country_code":"SO",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931863,
+    "gn:latitude":3.0934,
+    "gn:longitude":43.4355,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tugeere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Tugeere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931863
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7c019cffe7f12516729e4463cd78628f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1226466665,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1226466665,
+    "wof:lastmodified":1537701359,
+    "wof:name":"Tugeere",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4355,
+    3.0934,
+    43.4355,
+    3.0934
+],
+  "geometry": {"coordinates":[43.4355,3.0934],"type":"Point"}
+}

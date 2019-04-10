@@ -1,0 +1,71 @@
+{
+  "id": 1259568791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.72646,0.45372,42.72646,0.45372",
+    "geom:latitude":0.45372,
+    "geom:longitude":42.72646,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Miniasa",
+    "gn:country_code":"SO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53919,
+    "gn:latitude":0.45372,
+    "gn:longitude":42.72646,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Miniasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulo Muniassa",
+        "Miniasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53919
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a6ffec738a9000ad2d2fbc24383e59bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1259568791,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1259568791,
+    "wof:lastmodified":1537701226,
+    "wof:name":"Miniasa",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.72646,
+    0.45372,
+    42.72646,
+    0.45372
+],
+  "geometry": {"coordinates":[42.72646,0.45372],"type":"Point"}
+}

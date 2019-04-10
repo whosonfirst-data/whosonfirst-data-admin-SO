@@ -1,0 +1,70 @@
+{
+  "id": 1260149365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99382,9.48913,47.99382,9.48913",
+    "geom:latitude":9.48913,
+    "geom:longitude":47.99382,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sarmaanyo",
+    "gn:country_code":"SO",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52113,
+    "gn:latitude":9.48913,
+    "gn:longitude":47.99382,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sarmaanyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Sarmaanyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52113
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a0acde364235850f8abd0569f0e46f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757905,
+            "locality_id":1260149365,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1260149365,
+    "wof:lastmodified":1537701205,
+    "wof:name":"Sarmaanyo",
+    "wof:parent_id":1108757905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99382,
+    9.48913,
+    47.99382,
+    9.48913
+],
+  "geometry": {"coordinates":[47.99382,9.48913],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344154137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62917,0.98278,42.62917,0.98278",
+    "geom:latitude":0.98278,
+    "geom:longitude":42.62917,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bidi",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64384,
+    "gn:latitude":0.98278,
+    "gn:longitude":42.62917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidde",
+        "Bidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64384
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5af6adf83b4fb76bf69e410769defc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757841,
+            "locality_id":1344154137,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1344154137,
+    "wof:lastmodified":1537701336,
+    "wof:name":"Bidi",
+    "wof:parent_id":1108757841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62917,
+    0.98278,
+    42.62917,
+    0.98278
+],
+  "geometry": {"coordinates":[42.62917,0.98278],"type":"Point"}
+}

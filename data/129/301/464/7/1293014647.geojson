@@ -1,0 +1,70 @@
+{
+  "id": 1293014647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84317,3.96883,43.84317,3.96883",
+    "geom:latitude":3.96883,
+    "geom:longitude":43.84317,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biyoley",
+    "gn:country_code":"SO",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64170,
+    "gn:latitude":3.96883,
+    "gn:longitude":43.84317,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Biyoley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Biyoley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64170
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"945ee50a814d6c5baefea815bfee79b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757909,
+            "locality_id":1293014647,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1293014647,
+    "wof:lastmodified":1537701333,
+    "wof:name":"Biyoley",
+    "wof:parent_id":1108757909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84317,
+    3.96883,
+    43.84317,
+    3.96883
+],
+  "geometry": {"coordinates":[43.84317,3.96883],"type":"Point"}
+}

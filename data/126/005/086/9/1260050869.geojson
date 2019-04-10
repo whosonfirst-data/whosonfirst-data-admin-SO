@@ -1,0 +1,70 @@
+{
+  "id": 1260050869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48947,1.74487,44.48947,1.74487",
+    "geom:latitude":1.74487,
+    "geom:longitude":44.48947,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Baqdaad",
+    "gn:country_code":"SO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64734,
+    "gn:latitude":1.74487,
+    "gn:longitude":44.48947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baqdaad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Baqdaad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64734
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d94f83384e8b901ab87ef84b40767364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1260050869,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1260050869,
+    "wof:lastmodified":1537701340,
+    "wof:name":"Baqdaad",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48947,
+    1.74487,
+    44.48947,
+    1.74487
+],
+  "geometry": {"coordinates":[44.48947,1.74487],"type":"Point"}
+}

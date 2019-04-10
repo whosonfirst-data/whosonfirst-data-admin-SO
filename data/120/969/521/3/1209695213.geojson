@@ -1,0 +1,64 @@
+{
+  "id": 1209695213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5047,2.6266,45.5047,2.6266",
+    "geom:latitude":2.6266,
+    "geom:longitude":45.5047,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Balad Raxma",
+    "gn:country_code":"SO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64965,
+    "gn:latitude":2.6266,
+    "gn:longitude":45.5047,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Balad Raxma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Balad Raxma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64965
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"764e2b7d217cd46a1636299f45d47704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209695213
+        }
+    ],
+    "wof:id":1209695213,
+    "wof:lastmodified":1537701344,
+    "wof:name":"Balad Raxma",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5047,
+    2.6266,
+    45.5047,
+    2.6266
+],
+  "geometry": {"coordinates":[45.5047,2.6266],"type":"Point"}
+}

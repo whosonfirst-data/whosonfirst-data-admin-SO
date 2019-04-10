@@ -1,0 +1,72 @@
+{
+  "id": 1310515625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55,4.06667,43.55,4.06667",
+    "geom:latitude":4.06667,
+    "geom:longitude":43.55,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Urvein",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50885,
+    "gn:latitude":4.06667,
+    "gn:longitude":43.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Urvein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unsiga",
+        "Urvein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50885
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1b8c3c6ef336b61014441f8228f654cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757911,
+            "locality_id":1310515625,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1310515625,
+    "wof:lastmodified":1537701189,
+    "wof:name":"Urvein",
+    "wof:parent_id":1108757911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55,
+    4.06667,
+    43.55,
+    4.06667
+],
+  "geometry": {"coordinates":[43.55,4.06667],"type":"Point"}
+}

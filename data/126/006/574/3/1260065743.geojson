@@ -1,0 +1,67 @@
+{
+  "id": 1260065743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75883,0.50208,42.75883,0.50208",
+    "geom:latitude":0.50208,
+    "geom:longitude":42.75883,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Misra",
+    "gn:country_code":"SO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53867,
+    "gn:latitude":0.50208,
+    "gn:longitude":42.75883,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Misra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53867
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fb769985487f551ea4bd3dd4aa677a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1260065743,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1260065743,
+    "wof:lastmodified":1537012909,
+    "wof:name":"Misra",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75883,
+    0.50208,
+    42.75883,
+    0.50208
+],
+  "geometry": {"coordinates":[42.75883,0.50208],"type":"Point"}
+}

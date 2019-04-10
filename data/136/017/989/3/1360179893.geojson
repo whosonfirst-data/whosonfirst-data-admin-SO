@@ -1,0 +1,72 @@
+{
+  "id": 1360179893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.63333,2.48333,41.63333,2.48333",
+    "geom:latitude":2.48333,
+    "geom:longitude":41.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Golgolsceval",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58297,
+    "gn:latitude":2.48333,
+    "gn:longitude":41.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Golgolsceval",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golgosceval",
+        "Golgolsceval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58297
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e8e6386ea840749f460f741a8b3eb8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757787,
+            "locality_id":1360179893,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1360179893,
+    "wof:lastmodified":1537701272,
+    "wof:name":"Golgolsceval",
+    "wof:parent_id":1108757787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.63333,
+    2.48333,
+    41.63333,
+    2.48333
+],
+  "geometry": {"coordinates":[41.63333,2.48333],"type":"Point"}
+}

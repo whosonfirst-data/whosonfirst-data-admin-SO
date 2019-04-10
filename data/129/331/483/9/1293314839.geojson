@@ -1,0 +1,67 @@
+{
+  "id": 1293314839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23486,3.06014,42.23486,3.06014",
+    "geom:latitude":3.06014,
+    "geom:longitude":42.23486,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Qayla Dheere",
+    "gn:country_code":"SO",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53041,
+    "gn:latitude":3.06014,
+    "gn:longitude":42.23486,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Qayla Dheere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53041
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"be0880863609416cafbf8f5913764fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757845,
+            "locality_id":1293314839,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1293314839,
+    "wof:lastmodified":1537034498,
+    "wof:name":"Qayla Dheere",
+    "wof:parent_id":1108757845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23486,
+    3.06014,
+    42.23486,
+    3.06014
+],
+  "geometry": {"coordinates":[42.23486,3.06014],"type":"Point"}
+}

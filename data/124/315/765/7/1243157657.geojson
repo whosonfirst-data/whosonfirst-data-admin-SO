@@ -1,0 +1,71 @@
+{
+  "id": 1243157657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28333,0.81667,43.28333,0.81667",
+    "geom:latitude":0.81667,
+    "geom:longitude":43.28333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yaaqtoole",
+    "gn:country_code":"SO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49651,
+    "gn:latitude":0.81667,
+    "gn:longitude":43.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaaqtoole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iactole",
+        "Yaaqtoole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49651
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"ffc84c7feaa0f4794125b95df177df3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1243157657,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1243157657,
+    "wof:lastmodified":1537701173,
+    "wof:name":"Yaaqtoole",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28333,
+    0.81667,
+    43.28333,
+    0.81667
+],
+  "geometry": {"coordinates":[43.28333,0.81667],"type":"Point"}
+}

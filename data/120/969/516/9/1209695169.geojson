@@ -1,0 +1,64 @@
+{
+  "id": 1209695169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6967,3.0486,45.6967,3.0486",
+    "geom:latitude":3.0486,
+    "geom:longitude":45.6967,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kala Weyne",
+    "gn:country_code":"SO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55936,
+    "gn:latitude":3.0486,
+    "gn:longitude":45.6967,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kala Weyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Kala Weyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55936
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"00c7520e5dc3c6b6a0dea9cf929e356c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209695169
+        }
+    ],
+    "wof:id":1209695169,
+    "wof:lastmodified":1537701249,
+    "wof:name":"Kala Weyne",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6967,
+    3.0486,
+    45.6967,
+    3.0486
+],
+  "geometry": {"coordinates":[45.6967,3.0486],"type":"Point"}
+}

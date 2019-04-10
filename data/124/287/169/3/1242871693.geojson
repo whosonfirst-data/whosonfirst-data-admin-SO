@@ -1,0 +1,106 @@
+{
+  "id": 1242871693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.2843,2.3385,42.2843,2.3385",
+    "geom:latitude":2.3385,
+    "geom:longitude":42.2843,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bardera",
+    "gn:country_code":"SO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65171,
+    "gn:latitude":2.3385,
+    "gn:longitude":42.2843,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Bardera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bardeere"
+    ],
+    "name:dan_x_preferred":[
+        "Baardheere"
+    ],
+    "name:deu_x_preferred":[
+        "Baardheere"
+    ],
+    "name:eng_x_preferred":[
+        "Bardera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c7\u30e9"
+    ],
+    "name:pol_x_preferred":[
+        "Baardheere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0435\u0440\u0435"
+    ],
+    "name:som_x_preferred":[
+        "Baardheere"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0435\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "B\u0101rd\u0113re",
+        "Bardira",
+        "Bardera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u062f\u06cc\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u4ee3\u96f7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65171,
+        "wk:page":"Bardera"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6cd8427873c4bfa32b9144cdf63d6e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1242871693,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1242871693,
+    "wof:lastmodified":1537701346,
+    "wof:name":"Bardera",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.2843,
+    2.3385,
+    42.2843,
+    2.3385
+],
+  "geometry": {"coordinates":[42.2843,2.3385],"type":"Point"}
+}

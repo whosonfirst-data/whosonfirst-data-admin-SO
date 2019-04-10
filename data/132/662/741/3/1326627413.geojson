@@ -1,0 +1,73 @@
+{
+  "id": 1326627413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74727,0.60955,42.74727,0.60955",
+    "geom:latitude":0.60955,
+    "geom:longitude":42.74727,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Balley",
+    "gn:country_code":"SO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64923,
+    "gn:latitude":0.60955,
+    "gn:longitude":42.74727,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Balley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gallou",
+        "Baljey",
+        "Ballei",
+        "Balley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64923
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5f2b85750913b2f45597b5aeccd731f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1326627413,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1326627413,
+    "wof:lastmodified":1537701343,
+    "wof:name":"Balley",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74727,
+    0.60955,
+    42.74727,
+    0.60955
+],
+  "geometry": {"coordinates":[42.74727,0.60955],"type":"Point"}
+}

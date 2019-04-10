@@ -1,0 +1,131 @@
+{
+  "id": 421178405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56744,3.85375,45.56744,3.85375",
+    "geom:latitude":3.85375,
+    "geom:longitude":45.56744,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u043e\u0431\u0430\u0440\u0434\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Buulobarde"
+    ],
+    "name:dut_x_preferred":[
+        "Buloburde"
+    ],
+    "name:eng_x_preferred":[
+        "Buloburde"
+    ],
+    "name:epo_x_preferred":[
+        "Buuloburde"
+    ],
+    "name:ger_x_preferred":[
+        "Buulobarde"
+    ],
+    "name:ita_x_preferred":[
+        "Bulo Burti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ed\u30d6\u30eb\u30c7"
+    ],
+    "name:pol_x_preferred":[
+        "Buuloburde"
+    ],
+    "name:ron_x_preferred":[
+        "Buulaburte"
+    ],
+    "name:rum_x_preferred":[
+        "Buulaburte"
+    ],
+    "name:som_x_preferred":[
+        "Buulo Burde"
+    ],
+    "name:som_x_variant":[
+        "Buulobarde",
+        "Buuloburde"
+    ],
+    "name:spa_x_preferred":[
+        "Bulo Burti"
+    ],
+    "name:unk_x_variant":[
+        "Bulo Burti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0628\u0648\u0631\u062f"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":63689,
+    "qs:gn_pop":16928,
+    "qs:name":"Buulobarde",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Hiiraan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122074,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1425780,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63689,
+        "gp:id":1425780,
+        "qs:id":122074,
+        "wd:id":"Q1018265",
+        "wk:page":"Buloburde"
+    },
+    "wof:country":"SO",
+    "wof:created":1459009181,
+    "wof:geomhash":"8eec81d893b471783a7c0559c92d8bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757825,
+            "locality_id":421178405,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":421178405,
+    "wof:lastmodified":1527717726,
+    "wof:name":"Buulobarde",
+    "wof:parent_id":1108757825,
+    "wof:placetype":"locality",
+    "wof:population":16928,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56744,
+    3.85375,
+    45.56744,
+    3.85375
+],
+  "geometry": {"coordinates":[45.56744,3.85375],"type":"Point"}
+}

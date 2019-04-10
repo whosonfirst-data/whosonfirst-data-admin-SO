@@ -1,0 +1,70 @@
+{
+  "id": 1344264369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.37111,9.83056,49.37111,9.83056",
+    "geom:latitude":9.83056,
+    "geom:longitude":49.37111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xabaal Reer",
+    "gn:country_code":"SO",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50270,
+    "gn:latitude":9.83056,
+    "gn:longitude":49.37111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xabaal Reer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Xabaal Reer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50270
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fcae246cbb47a5e085e481b3d25d1317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757879,
+            "locality_id":1344264369,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1344264369,
+    "wof:lastmodified":1537701179,
+    "wof:name":"Xabaal Reer",
+    "wof:parent_id":1108757879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.37111,
+    9.83056,
+    49.37111,
+    9.83056
+],
+  "geometry": {"coordinates":[49.37111,9.83056],"type":"Point"}
+}

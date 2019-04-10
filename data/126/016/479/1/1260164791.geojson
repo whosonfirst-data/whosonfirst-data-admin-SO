@@ -1,0 +1,67 @@
+{
+  "id": 1260164791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36667,5.81667,48.36667,5.81667",
+    "geom:latitude":5.81667,
+    "geom:longitude":48.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Bogofier",
+    "gn:country_code":"SO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60171,
+    "gn:latitude":5.81667,
+    "gn:longitude":48.36667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"El Bogofier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677279,
+        1108757851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60171
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"68c113ad261f99523724cb03642fc339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757851,
+            "locality_id":1260164791,
+            "region_id":85677279
+        }
+    ],
+    "wof:id":1260164791,
+    "wof:lastmodified":1536872639,
+    "wof:name":"El Bogofier",
+    "wof:parent_id":1108757851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36667,
+    5.81667,
+    48.36667,
+    5.81667
+],
+  "geometry": {"coordinates":[48.36667,5.81667],"type":"Point"}
+}

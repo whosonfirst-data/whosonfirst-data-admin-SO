@@ -1,0 +1,70 @@
+{
+  "id": 1226332059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0432,-0.8007,42.0432,-0.8007",
+    "geom:latitude":-0.8007,
+    "geom:longitude":42.0432,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yaman",
+    "gn:country_code":"SO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49624,
+    "gn:latitude":-0.8007,
+    "gn:longitude":42.0432,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Yaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49624
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fc31fabd930737498c7d84939f1fef53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757797,
+            "locality_id":1226332059,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1226332059,
+    "wof:lastmodified":1537701172,
+    "wof:name":"Yaman",
+    "wof:parent_id":1108757797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0432,
+    -0.8007,
+    42.0432,
+    -0.8007
+],
+  "geometry": {"coordinates":[42.0432,-0.8007],"type":"Point"}
+}

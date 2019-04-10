@@ -1,0 +1,70 @@
+{
+  "id": 1276306627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09238,10.57212,44.09238,10.57212",
+    "geom:latitude":10.57212,
+    "geom:longitude":44.09238,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Hadeytaweyne",
+    "gn:country_code":"SO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045016,
+    "gn:latitude":10.57212,
+    "gn:longitude":44.09238,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hadeytaweyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Hadeytaweyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805623,
+        1108757847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045016
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1f016bed70c74492d97a2fcafa11eea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757847,
+            "locality_id":1276306627,
+            "region_id":1108805623
+        }
+    ],
+    "wof:id":1276306627,
+    "wof:lastmodified":1537701360,
+    "wof:name":"Hadeytaweyne",
+    "wof:parent_id":1108757847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09238,
+    10.57212,
+    44.09238,
+    10.57212
+],
+  "geometry": {"coordinates":[44.09238,10.57212],"type":"Point"}
+}

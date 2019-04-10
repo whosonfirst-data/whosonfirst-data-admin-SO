@@ -1,0 +1,75 @@
+{
+  "id": 1360258847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89746,2.04757,44.89746,2.04757",
+    "geom:latitude":2.04757,
+    "geom:longitude":44.89746,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bariirre",
+    "gn:country_code":"SO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64653,
+    "gn:latitude":2.04757,
+    "gn:longitude":44.89746,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bariirre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Bariirre"
+    ],
+    "name:und_x_variant":[
+        "Hariri",
+        "Barire",
+        "Bariirre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64653
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"379ee569fbfde5f9535f388d627899eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1360258847,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1360258847,
+    "wof:lastmodified":1537701339,
+    "wof:name":"Bariirre",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89746,
+    2.04757,
+    44.89746,
+    2.04757
+],
+  "geometry": {"coordinates":[44.89746,2.04757],"type":"Point"}
+}

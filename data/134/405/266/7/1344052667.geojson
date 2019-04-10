@@ -1,0 +1,71 @@
+{
+  "id": 1344052667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5677,1.16127,42.5677,1.16127",
+    "geom:latitude":1.16127,
+    "geom:longitude":42.5677,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Duqiyo Kuusow",
+    "gn:country_code":"SO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60380,
+    "gn:latitude":1.16127,
+    "gn:longitude":42.5677,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Duqiyo Kuusow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duguia Gussa",
+        "Duqiyo Kuusow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60380
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fc2a363dd14ddbafa1bfc6290ce92d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757841,
+            "locality_id":1344052667,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1344052667,
+    "wof:lastmodified":1537701294,
+    "wof:name":"Duqiyo Kuusow",
+    "wof:parent_id":1108757841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5677,
+    1.16127,
+    42.5677,
+    1.16127
+],
+  "geometry": {"coordinates":[42.5677,1.16127],"type":"Point"}
+}

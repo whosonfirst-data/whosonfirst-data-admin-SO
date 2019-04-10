@@ -1,0 +1,67 @@
+{
+  "id": 1243419069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73333,9.31667,43.73333,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":43.73333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Faraweine",
+    "gn:country_code":"SO",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59880,
+    "gn:latitude":9.31667,
+    "gn:longitude":43.73333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Faraweine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59880
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a25097942dce1335ea146f1347dc6665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1243419069,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1243419069,
+    "wof:lastmodified":1536843997,
+    "wof:name":"Faraweine",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73333,
+    9.31667,
+    43.73333,
+    9.31667
+],
+  "geometry": {"coordinates":[43.73333,9.31667],"type":"Point"}
+}

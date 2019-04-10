@@ -1,0 +1,73 @@
+{
+  "id": 890422927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.642,9.8259,50.642,9.8259",
+    "geom:latitude":9.8259,
+    "geom:longitude":50.642,
+    "gn:country":"SO",
+    "gn:fcode":"WTRH",
+    "gn:pop":1,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:som_x_preferred":[
+        "Dol Xamuj"
+    ],
+    "name:unk_x_variant":[
+        "Dola Hamud"
+    ],
+    "qs:name":"Dol Xamuj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60686,
+        "gp:id":1427994,
+        "qs:id":506181
+    },
+    "wof:country":"SO",
+    "wof:created":1469051472,
+    "wof:geomhash":"7eb414825e276e97b0732a4d17e1f56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757779,
+            "locality_id":890422927,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":890422927,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Dol Xamuj",
+    "wof:parent_id":1108757779,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.642,
+    9.8259,
+    50.642,
+    9.8259
+],
+  "geometry": {"coordinates":[50.642,9.8259],"type":"Point"}
+}

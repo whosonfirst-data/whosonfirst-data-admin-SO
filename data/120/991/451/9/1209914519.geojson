@@ -1,0 +1,70 @@
+{
+  "id": 1209914519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46659,2.91025,43.46659,2.91025",
+    "geom:latitude":2.91025,
+    "geom:longitude":43.46659,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Marreer Bugle",
+    "gn:country_code":"SO",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":54183,
+    "gn:latitude":2.91025,
+    "gn:longitude":43.46659,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marreer Bugle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Marreer Bugle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54183
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"abe04d5c8480efb0a1d633ccdd028e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1209914519,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1209914519,
+    "wof:lastmodified":1537701229,
+    "wof:name":"Marreer Bugle",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46659,
+    2.91025,
+    43.46659,
+    2.91025
+],
+  "geometry": {"coordinates":[43.46659,2.91025],"type":"Point"}
+}

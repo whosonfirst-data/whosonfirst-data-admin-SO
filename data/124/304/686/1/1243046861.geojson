@@ -1,0 +1,74 @@
+{
+  "id": 1243046861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9209,2.5546,44.9209,2.5546",
+    "geom:latitude":2.5546,
+    "geom:longitude":44.9209,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yaaq Dhoob",
+    "gn:country_code":"SO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":49670,
+    "gn:latitude":2.5546,
+    "gn:longitude":44.9209,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaaq Dhoob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Yaaq Dhoob"
+    ],
+    "name:und_x_variant":[
+        "Uacab",
+        "Yaaq Dhoob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49670
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d217d9edd23bdb2bb069ce5adcf27142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1243046861,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1243046861,
+    "wof:lastmodified":1537701173,
+    "wof:name":"Yaaq Dhoob",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9209,
+    2.5546,
+    44.9209,
+    2.5546
+],
+  "geometry": {"coordinates":[44.9209,2.5546],"type":"Point"}
+}

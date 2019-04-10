@@ -1,0 +1,67 @@
+{
+  "id": 1226264701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.48913,3.82927,42.48913,3.82927",
+    "geom:latitude":3.82927,
+    "geom:longitude":42.48913,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Garsoow",
+    "gn:country_code":"SO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9410017,
+    "gn:latitude":3.82927,
+    "gn:longitude":42.48913,
+    "gn:modification_date":"2014-09-03",
+    "gn:name":"Garsoow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9410017
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"4dfaa5fcf0d0aef9b98e3b1a86ff36a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757899,
+            "locality_id":1226264701,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1226264701,
+    "wof:lastmodified":1536906580,
+    "wof:name":"Garsoow",
+    "wof:parent_id":1108757899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.48913,
+    3.82927,
+    42.48913,
+    3.82927
+],
+  "geometry": {"coordinates":[42.48913,3.82927],"type":"Point"}
+}

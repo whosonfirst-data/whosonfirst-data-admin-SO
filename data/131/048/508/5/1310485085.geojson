@@ -1,0 +1,70 @@
+{
+  "id": 1310485085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0231,2.5681,45.0231,2.5681",
+    "geom:latitude":2.5681,
+    "geom:longitude":45.0231,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dhumay Uusle",
+    "gn:country_code":"SO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61000,
+    "gn:latitude":2.5681,
+    "gn:longitude":45.0231,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dhumay Uusle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dhumay Uusle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61000
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"62d8068d5cbee04d110e137bc2335928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1310485085,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1310485085,
+    "wof:lastmodified":1537701299,
+    "wof:name":"Dhumay Uusle",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0231,
+    2.5681,
+    45.0231,
+    2.5681
+],
+  "geometry": {"coordinates":[45.0231,2.5681],"type":"Point"}
+}

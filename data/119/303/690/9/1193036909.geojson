@@ -1,0 +1,64 @@
+{
+  "id": 1193036909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03998,-1.00006,42.03998,-1.00006",
+    "geom:latitude":-1.00006,
+    "geom:longitude":42.03998,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Juula",
+    "gn:country_code":"SO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56076,
+    "gn:latitude":-1.00006,
+    "gn:longitude":42.03998,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Juula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Juula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56076
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"892a4ddf1b2bb14f7f754200cd68b96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193036909,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193036909,
+    "wof:lastmodified":1537701250,
+    "wof:name":"Juula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03998,
+    -1.00006,
+    42.03998,
+    -1.00006
+],
+  "geometry": {"coordinates":[42.03998,-1.00006],"type":"Point"}
+}

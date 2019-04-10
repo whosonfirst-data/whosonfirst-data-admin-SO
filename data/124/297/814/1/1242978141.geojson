@@ -1,0 +1,67 @@
+{
+  "id": 1242978141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.23333,10.43333,51.23333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":51.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dhorzi",
+    "gn:country_code":"SO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61039,
+    "gn:latitude":10.43333,
+    "gn:longitude":51.23333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Dhorzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61039
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b31bc6d3c89a8cc4ac5b3c68a1ba06d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1242978141,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1242978141,
+    "wof:lastmodified":1536982911,
+    "wof:name":"Dhorzi",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.23333,
+    10.43333,
+    51.23333,
+    10.43333
+],
+  "geometry": {"coordinates":[51.23333,10.43333],"type":"Point"}
+}

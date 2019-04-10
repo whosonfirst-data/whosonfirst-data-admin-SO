@@ -1,0 +1,66 @@
+{
+  "id": 1360095495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93536,8.39614,47.93536,8.39614",
+    "geom:latitude":8.39614,
+    "geom:longitude":47.93536,
+    "gn:asciiname":"Boame",
+    "gn:country_code":"SO",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9180001,
+    "gn:latitude":8.39614,
+    "gn:longitude":47.93536,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Boame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9180001
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cc7b369cbc5049121d223cf3b7f8f501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757867,
+            "locality_id":1360095495,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1360095495,
+    "wof:lastmodified":1536931286,
+    "wof:name":"Boame",
+    "wof:parent_id":1108757867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93536,
+    8.39614,
+    47.93536,
+    8.39614
+],
+  "geometry": {"coordinates":[47.93536,8.39614],"type":"Point"}
+}

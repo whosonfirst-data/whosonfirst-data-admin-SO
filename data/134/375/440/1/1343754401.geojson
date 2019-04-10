@@ -1,0 +1,67 @@
+{
+  "id": 1343754401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35296,2.23599,42.35296,2.23599",
+    "geom:latitude":2.23599,
+    "geom:longitude":42.35296,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uusla",
+    "gn:country_code":"SO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50849,
+    "gn:latitude":2.23599,
+    "gn:longitude":42.35296,
+    "gn:modification_date":"2008-05-23",
+    "gn:name":"Uusla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50849
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a2f8a96763d1bbf3f76ef7be4d78e035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1343754401,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1343754401,
+    "wof:lastmodified":1536818807,
+    "wof:name":"Uusla",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35296,
+    2.23599,
+    42.35296,
+    2.23599
+],
+  "geometry": {"coordinates":[42.35296,2.23599],"type":"Point"}
+}

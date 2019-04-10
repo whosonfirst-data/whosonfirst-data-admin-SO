@@ -1,0 +1,67 @@
+{
+  "id": 1343723789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09727,9.84004,44.09727,9.84004",
+    "geom:latitude":9.84004,
+    "geom:longitude":44.09727,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Garbooley",
+    "gn:country_code":"SO",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58986,
+    "gn:latitude":9.84004,
+    "gn:longitude":44.09727,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Garbooley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58986
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"9c1c2c897c65bf504ee499fb6c698bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1343723789,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1343723789,
+    "wof:lastmodified":1536862527,
+    "wof:name":"Garbooley",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09727,
+    9.84004,
+    44.09727,
+    9.84004
+],
+  "geometry": {"coordinates":[44.09727,9.84004],"type":"Point"}
+}

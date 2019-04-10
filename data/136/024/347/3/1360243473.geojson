@@ -1,0 +1,67 @@
+{
+  "id": 1360243473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04056,8.10083,47.04056,8.10083",
+    "geom:latitude":8.10083,
+    "geom:longitude":47.04056,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Anagoys",
+    "gn:country_code":"SO",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6609560,
+    "gn:latitude":8.10083,
+    "gn:longitude":47.04056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Anagoys",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6609560
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a5d6343a39c2bca165a8d505d35e9729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757867,
+            "locality_id":1360243473,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1360243473,
+    "wof:lastmodified":1536717629,
+    "wof:name":"Anagoys",
+    "wof:parent_id":1108757867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04056,
+    8.10083,
+    47.04056,
+    8.10083
+],
+  "geometry": {"coordinates":[47.04056,8.10083],"type":"Point"}
+}

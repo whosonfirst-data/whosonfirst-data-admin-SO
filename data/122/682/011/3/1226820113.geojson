@@ -1,0 +1,70 @@
+{
+  "id": 1226820113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9707,2.679,44.9707,2.679",
+    "geom:latitude":2.679,
+    "geom:longitude":44.9707,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rii Xaanle",
+    "gn:country_code":"SO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52477,
+    "gn:latitude":2.679,
+    "gn:longitude":44.9707,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rii Xaanle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Rii Xaanle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52477
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"204c0cc573b3ee8609272b92d7ca92bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1226820113,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1226820113,
+    "wof:lastmodified":1537701210,
+    "wof:name":"Rii Xaanle",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9707,
+    2.679,
+    44.9707,
+    2.679
+],
+  "geometry": {"coordinates":[44.9707,2.679],"type":"Point"}
+}

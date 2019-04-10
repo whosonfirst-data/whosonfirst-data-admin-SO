@@ -1,0 +1,67 @@
+{
+  "id": 1293773657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71564,0.14644,42.71564,0.14644",
+    "geom:latitude":0.14644,
+    "geom:longitude":42.71564,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taxa Wuungu",
+    "gn:country_code":"SO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51306,
+    "gn:latitude":0.14644,
+    "gn:longitude":42.71564,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Taxa Wuungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51306
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"8b94eb234144a6de83f3c3d0d363463e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757857,
+            "locality_id":1293773657,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1293773657,
+    "wof:lastmodified":1536870489,
+    "wof:name":"Taxa Wuungu",
+    "wof:parent_id":1108757857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71564,
+    0.14644,
+    42.71564,
+    0.14644
+],
+  "geometry": {"coordinates":[42.71564,0.14644],"type":"Point"}
+}

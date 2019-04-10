@@ -1,0 +1,156 @@
+{
+  "id": 421205419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38611,5.535,46.38611,5.535",
+    "geom:latitude":5.535,
+    "geom:longitude":46.38611,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0633 \u0645\u0631\u064a\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Dhusa Mareb"
+    ],
+    "name:chi_x_preferred":[
+        "\u675c\u85a9\u99ac\u96f7\u535c"
+    ],
+    "name:deu_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:dut_x_preferred":[
+        "Dhuusa Marreeb"
+    ],
+    "name:eng_x_preferred":[
+        "Dusa Marreb"
+    ],
+    "name:fin_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:ger_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:ita_x_preferred":[
+        "Dusa Mareb"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30b5\u30de\u30ec\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub450\uc0ac\ub9c8\ub819"
+    ],
+    "name:nld_x_preferred":[
+        "Dhuusa Marreeb"
+    ],
+    "name:pol_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:por_x_preferred":[
+        "Dusa Mareb"
+    ],
+    "name:ron_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:rum_x_preferred":[
+        "Dhuusamarreeb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0441\u0430\u043c\u0430\u0440\u0435\u0431"
+    ],
+    "name:som_x_preferred":[
+        "Dhuusamareeb"
+    ],
+    "name:som_x_variant":[
+        "Dhuusamarreeb"
+    ],
+    "name:tur_x_preferred":[
+        "Dusamareb"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0441\u0430\u043c\u0430\u0440\u0435\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Dhuusa Mareeb"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06be\u0648\u0633\u0627 \u0645\u0627\u0631\u0628"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u85a9\u99ac\u96f7\u535c"
+    ],
+    "qs:gn_country":"SO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":60928,
+    "qs:gn_pop":9000,
+    "qs:name":"Dhuusamarreeb",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Galguduud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":263081,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1426454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":5.5375,
+    "wd:longitude":46.3875,
+    "wd:wordcount":171,
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60928,
+        "gp:id":1426454,
+        "qs:id":263081,
+        "wd:id":"Q634063",
+        "wk:page":"Dhusamareb"
+    },
+    "wof:country":"SO",
+    "wof:created":1459010224,
+    "wof:geomhash":"08e76633cbd2b1662ba51b56bdecdbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757831,
+            "locality_id":421205419,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":421205419,
+    "wof:lastmodified":1527716219,
+    "wof:name":"Dhuusamarreeb",
+    "wof:parent_id":1108757831,
+    "wof:placetype":"locality",
+    "wof:population":9000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38611,
+    5.535,
+    46.38611,
+    5.535
+],
+  "geometry": {"coordinates":[46.38611,5.535],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293887771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05,4.55,43.05,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":43.05,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Balli Adde",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64893,
+    "gn:latitude":4.55,
+    "gn:longitude":43.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Balli Adde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balli Ad",
+        "Balli Adde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64893
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"3ebc3c86c78efd77997a116514970c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757911,
+            "locality_id":1293887771,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1293887771,
+    "wof:lastmodified":1537701343,
+    "wof:name":"Balli Adde",
+    "wof:parent_id":1108757911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05,
+    4.55,
+    43.05,
+    4.55
+],
+  "geometry": {"coordinates":[43.05,4.55],"type":"Point"}
+}

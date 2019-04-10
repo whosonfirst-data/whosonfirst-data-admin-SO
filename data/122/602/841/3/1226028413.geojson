@@ -1,0 +1,68 @@
+{
+  "id": 1226028413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,7.48333,49.01667,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Heded",
+    "gn:country_code":"SO",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57206,
+    "gn:latitude":7.48333,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Heded",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677279,
+        1108757919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57206,
+        "wk:page":"Heded"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1d2b6b55e6ef1dc484358f53895b94ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757919,
+            "locality_id":1226028413,
+            "region_id":85677279
+        }
+    ],
+    "wof:id":1226028413,
+    "wof:lastmodified":1537573738,
+    "wof:name":"Heded",
+    "wof:parent_id":1108757919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    7.48333,
+    49.01667,
+    7.48333
+],
+  "geometry": {"coordinates":[49.01667,7.48333],"type":"Point"}
+}

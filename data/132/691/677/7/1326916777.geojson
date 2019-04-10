@@ -1,0 +1,70 @@
+{
+  "id": 1326916777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4834,3.3738,46.4834,3.3738",
+    "geom:latitude":3.3738,
+    "geom:longitude":46.4834,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Maxamed Saciid",
+    "gn:country_code":"SO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54093,
+    "gn:latitude":3.3738,
+    "gn:longitude":46.4834,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maxamed Saciid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Maxamed Saciid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54093
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5517087516051270b4b7a6e4a89d6c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757783,
+            "locality_id":1326916777,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1326916777,
+    "wof:lastmodified":1537701228,
+    "wof:name":"Maxamed Saciid",
+    "wof:parent_id":1108757783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4834,
+    3.3738,
+    46.4834,
+    3.3738
+],
+  "geometry": {"coordinates":[46.4834,3.3738],"type":"Point"}
+}

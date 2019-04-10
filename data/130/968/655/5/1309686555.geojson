@@ -1,0 +1,67 @@
+{
+  "id": 1309686555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57741,9.69288,43.57741,9.69288",
+    "geom:latitude":9.69288,
+    "geom:longitude":43.57741,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Lo'ka-Aroor",
+    "gn:country_code":"SO",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6282923,
+    "gn:latitude":9.69288,
+    "gn:longitude":43.57741,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Lo\u2019ka-Aroor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282923
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b82708dcf6badae33c6598732031c2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757917,
+            "locality_id":1309686555,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1309686555,
+    "wof:lastmodified":1536603032,
+    "wof:name":"Lo'ka-Aroor",
+    "wof:parent_id":1108757917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57741,
+    9.69288,
+    43.57741,
+    9.69288
+],
+  "geometry": {"coordinates":[43.57741,9.69288],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259557343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67568,1.64985,44.67568,1.64985",
+    "geom:latitude":1.64985,
+    "geom:longitude":44.67568,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Melled",
+    "gn:country_code":"SO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54012,
+    "gn:latitude":1.64985,
+    "gn:longitude":44.67568,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Melled",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Melled"
+    ],
+    "name:und_x_variant":[
+        "El Mellet",
+        "Mollet",
+        "Mellet",
+        "Melled"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54012
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"78dbc8e80e387c980196125f825f10ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757883,
+            "locality_id":1259557343,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1259557343,
+    "wof:lastmodified":1537701227,
+    "wof:name":"Melled",
+    "wof:parent_id":1108757883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67568,
+    1.64985,
+    44.67568,
+    1.64985
+],
+  "geometry": {"coordinates":[44.67568,1.64985],"type":"Point"}
+}

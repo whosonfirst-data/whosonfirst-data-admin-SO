@@ -1,0 +1,61 @@
+{
+  "id": 1209095317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38333,5.51667,48.38333,5.51667",
+    "geom:latitude":5.51667,
+    "geom:longitude":48.38333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Balli Galad",
+    "gn:country_code":"SO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64876,
+    "gn:latitude":5.51667,
+    "gn:longitude":48.38333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Balli Galad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64876
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f1b51110605d4939ac21c423150f6eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209095317
+        }
+    ],
+    "wof:id":1209095317,
+    "wof:lastmodified":1536297905,
+    "wof:name":"Balli Galad",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38333,
+    5.51667,
+    48.38333,
+    5.51667
+],
+  "geometry": {"coordinates":[48.38333,5.51667],"type":"Point"}
+}

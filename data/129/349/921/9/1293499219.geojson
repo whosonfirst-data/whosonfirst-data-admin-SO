@@ -1,0 +1,70 @@
+{
+  "id": 1293499219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44136,11.02791,50.44136,11.02791",
+    "geom:latitude":11.02791,
+    "geom:longitude":50.44136,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beeli-Wacatay",
+    "gn:country_code":"SO",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64524,
+    "gn:latitude":11.02791,
+    "gn:longitude":50.44136,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Beeli-Wacatay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Beeli-Wacatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64524
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cd6a7a6775a6daa0c62f02bb719b3fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1293499219,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1293499219,
+    "wof:lastmodified":1537701338,
+    "wof:name":"Beeli-Wacatay",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44136,
+    11.02791,
+    50.44136,
+    11.02791
+],
+  "geometry": {"coordinates":[50.44136,11.02791],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343858665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.58373,1.83625,42.58373,1.83625",
+    "geom:latitude":1.83625,
+    "geom:longitude":42.58373,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gaduudey",
+    "gn:country_code":"SO",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59472,
+    "gn:latitude":1.83625,
+    "gn:longitude":42.58373,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gaduudey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59472
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cc185cbb33bbd8d990d76471955e0fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1343858665,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1343858665,
+    "wof:lastmodified":1536669191,
+    "wof:name":"Gaduudey",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.58373,
+    1.83625,
+    42.58373,
+    1.83625
+],
+  "geometry": {"coordinates":[42.58373,1.83625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259669163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41704,1.8808,42.41704,1.8808",
+    "geom:latitude":1.8808,
+    "geom:longitude":42.41704,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Guumarey",
+    "gn:country_code":"SO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57681,
+    "gn:latitude":1.8808,
+    "gn:longitude":42.41704,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Guumarey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57681
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"2148a8419d9acd76ab6bb3abf8d89b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757933,
+            "locality_id":1259669163,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1259669163,
+    "wof:lastmodified":1537084502,
+    "wof:name":"Guumarey",
+    "wof:parent_id":1108757933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41704,
+    1.8808,
+    42.41704,
+    1.8808
+],
+  "geometry": {"coordinates":[42.41704,1.8808],"type":"Point"}
+}

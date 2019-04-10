@@ -1,0 +1,70 @@
+{
+  "id": 1259958661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72449,2.37773,44.72449,2.37773",
+    "geom:latitude":2.37773,
+    "geom:longitude":44.72449,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dha Dhacle",
+    "gn:country_code":"SO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":61460,
+    "gn:latitude":2.37773,
+    "gn:longitude":44.72449,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dha Dhacle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dha Dhacle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61460
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"849e4169422b3de542dd2136b5de9f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1259958661,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1259958661,
+    "wof:lastmodified":1537701303,
+    "wof:name":"Dha Dhacle",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72449,
+    2.37773,
+    44.72449,
+    2.37773
+],
+  "geometry": {"coordinates":[44.72449,2.37773],"type":"Point"}
+}

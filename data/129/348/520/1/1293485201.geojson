@@ -1,0 +1,72 @@
+{
+  "id": 1293485201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.58333,2.98333,42.58333,2.98333",
+    "geom:latitude":2.98333,
+    "geom:longitude":42.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ceel Burro",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62822,
+    "gn:latitude":2.98333,
+    "gn:longitude":42.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Burro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Burre",
+        "Ceel Burro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62822
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"df86b146457bcec8fa0ed5bf58729add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757845,
+            "locality_id":1293485201,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1293485201,
+    "wof:lastmodified":1537701315,
+    "wof:name":"Ceel Burro",
+    "wof:parent_id":1108757845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.58333,
+    2.98333,
+    42.58333,
+    2.98333
+],
+  "geometry": {"coordinates":[42.58333,2.98333],"type":"Point"}
+}

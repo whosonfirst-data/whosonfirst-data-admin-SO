@@ -1,0 +1,70 @@
+{
+  "id": 1309777035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01361,2.41826,45.01361,2.41826",
+    "geom:latitude":2.41826,
+    "geom:longitude":45.01361,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kuunyo Gaydhay",
+    "gn:country_code":"SO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":55361,
+    "gn:latitude":2.41826,
+    "gn:longitude":45.01361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kuunyo Gaydhay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Kuunyo Gaydhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":55361
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"646c27aead1cab755efefb2e1c7a3780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1309777035,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1309777035,
+    "wof:lastmodified":1537701242,
+    "wof:name":"Kuunyo Gaydhay",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01361,
+    2.41826,
+    45.01361,
+    2.41826
+],
+  "geometry": {"coordinates":[45.01361,2.41826],"type":"Point"}
+}

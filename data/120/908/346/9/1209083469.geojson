@@ -1,0 +1,64 @@
+{
+  "id": 1209083469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0122,10.1377,49.0122,10.1377",
+    "geom:latitude":10.1377,
+    "geom:longitude":49.0122,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qayaadsame",
+    "gn:country_code":"SO",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53068,
+    "gn:latitude":10.1377,
+    "gn:longitude":49.0122,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qayaadsame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Qayaadsame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53068
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7d5b21b2bebfda7b7b0d5cef65a7830e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209083469
+        }
+    ],
+    "wof:id":1209083469,
+    "wof:lastmodified":1537701216,
+    "wof:name":"Qayaadsame",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0122,
+    10.1377,
+    49.0122,
+    10.1377
+],
+  "geometry": {"coordinates":[49.0122,10.1377],"type":"Point"}
+}

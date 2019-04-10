@@ -1,0 +1,67 @@
+{
+  "id": 1344047035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.01667,-0.81667,41.01667,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":41.01667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sara",
+    "gn:country_code":"SO",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":52155,
+    "gn:latitude":-0.81667,
+    "gn:longitude":41.01667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52155
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a8845b44fb318fef71aa81b1c62b7c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757927,
+            "locality_id":1344047035,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1344047035,
+    "wof:lastmodified":1536894760,
+    "wof:name":"Sara",
+    "wof:parent_id":1108757927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.01667,
+    -0.81667,
+    41.01667,
+    -0.81667
+],
+  "geometry": {"coordinates":[41.01667,-0.81667],"type":"Point"}
+}

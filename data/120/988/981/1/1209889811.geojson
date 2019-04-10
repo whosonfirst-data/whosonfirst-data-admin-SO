@@ -1,0 +1,76 @@
+{
+  "id": 1209889811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83123,1.93455,44.83123,1.93455",
+    "geom:latitude":1.93455,
+    "geom:longitude":44.83123,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jawhar",
+    "gn:country_code":"SO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56336,
+    "gn:latitude":1.93455,
+    "gn:longitude":44.83123,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jawhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Jawhar"
+    ],
+    "name:und_x_variant":[
+        "Duca degli Abruzzi",
+        "Jowhar",
+        "Giohar",
+        "Jawhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56336
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b33252e9589cd6831f97f290ea70d0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1209889811,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1209889811,
+    "wof:lastmodified":1537701253,
+    "wof:name":"Jawhar",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83123,
+    1.93455,
+    44.83123,
+    1.93455
+],
+  "geometry": {"coordinates":[44.83123,1.93455],"type":"Point"}
+}

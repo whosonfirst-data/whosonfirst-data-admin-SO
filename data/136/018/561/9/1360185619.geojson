@@ -1,0 +1,70 @@
+{
+  "id": 1360185619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1111,2.8648,44.1111,2.8648",
+    "geom:latitude":2.8648,
+    "geom:longitude":44.1111,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gariire",
+    "gn:country_code":"SO",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58949,
+    "gn:latitude":2.8648,
+    "gn:longitude":44.1111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gariire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Gariire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58949
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d9ed633e298b6e19b0238f9a94a4de94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1360185619,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1360185619,
+    "wof:lastmodified":1537701278,
+    "wof:name":"Gariire",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1111,
+    2.8648,
+    44.1111,
+    2.8648
+],
+  "geometry": {"coordinates":[44.1111,2.8648],"type":"Point"}
+}

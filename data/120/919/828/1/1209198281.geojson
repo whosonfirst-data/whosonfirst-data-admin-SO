@@ -1,0 +1,67 @@
+{
+  "id": 1209198281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13888,6.57158,49.13888,6.57158",
+    "geom:latitude":6.57158,
+    "geom:longitude":49.13888,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ceel Dhanaane",
+    "gn:country_code":"SO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62796,
+    "gn:latitude":6.57158,
+    "gn:longitude":49.13888,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Dhanaane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Danan",
+        "El Danane",
+        "Ceel Dhahanaan",
+        "Ceel Dhanaane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62796
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1b645ba31a7fb134c7fe801a0a4efe31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209198281
+        }
+    ],
+    "wof:id":1209198281,
+    "wof:lastmodified":1537701314,
+    "wof:name":"Ceel Dhanaane",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13888,
+    6.57158,
+    49.13888,
+    6.57158
+],
+  "geometry": {"coordinates":[49.13888,6.57158],"type":"Point"}
+}

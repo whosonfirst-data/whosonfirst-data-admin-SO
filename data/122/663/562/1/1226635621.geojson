@@ -1,0 +1,72 @@
+{
+  "id": 1226635621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43333,-1.38333,41.43333,-1.38333",
+    "geom:latitude":-1.38333,
+    "geom:longitude":41.43333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Didir Lafcad",
+    "gn:country_code":"SO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60860,
+    "gn:latitude":-1.38333,
+    "gn:longitude":41.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Didir Lafcad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lafcad",
+        "Didir",
+        "Didir Lafcad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677287,
+        1108757927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60860
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"237434ce676dfb8f2717292d05346ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757927,
+            "locality_id":1226635621,
+            "region_id":85677287
+        }
+    ],
+    "wof:id":1226635621,
+    "wof:lastmodified":1537701298,
+    "wof:name":"Didir Lafcad",
+    "wof:parent_id":1108757927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43333,
+    -1.38333,
+    41.43333,
+    -1.38333
+],
+  "geometry": {"coordinates":[41.43333,-1.38333],"type":"Point"}
+}

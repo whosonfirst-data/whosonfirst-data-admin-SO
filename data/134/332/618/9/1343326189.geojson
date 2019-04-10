@@ -1,0 +1,71 @@
+{
+  "id": 1343326189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0702,10.6222,43.0702,10.6222",
+    "geom:latitude":10.6222,
+    "geom:longitude":43.0702,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jidhi",
+    "gn:country_code":"SO",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56243,
+    "gn:latitude":10.6222,
+    "gn:longitude":43.0702,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jidhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Jidhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805623,
+        1108757915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56243,
+        "wk:page":"Jidhi"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e3f5132e296c214e2197a490f2b7461e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757915,
+            "locality_id":1343326189,
+            "region_id":1108805623
+        }
+    ],
+    "wof:id":1343326189,
+    "wof:lastmodified":1537701252,
+    "wof:name":"Jidhi",
+    "wof:parent_id":1108757915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0702,
+    10.6222,
+    43.0702,
+    10.6222
+],
+  "geometry": {"coordinates":[43.0702,10.6222],"type":"Point"}
+}

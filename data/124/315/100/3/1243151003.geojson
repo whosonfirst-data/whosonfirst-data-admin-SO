@@ -1,0 +1,70 @@
+{
+  "id": 1243151003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.487,1.7377,44.487,1.7377",
+    "geom:latitude":1.7377,
+    "geom:longitude":44.487,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Axmed Gaas",
+    "gn:country_code":"SO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65245,
+    "gn:latitude":1.7377,
+    "gn:longitude":44.487,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Axmed Gaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Axmed Gaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65245
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fdae9c2ff05c61c519eabaebe6783dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1243151003,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1243151003,
+    "wof:lastmodified":1537701347,
+    "wof:name":"Axmed Gaas",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.487,
+    1.7377,
+    44.487,
+    1.7377
+],
+  "geometry": {"coordinates":[44.487,1.7377],"type":"Point"}
+}

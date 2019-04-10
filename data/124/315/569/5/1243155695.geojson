@@ -1,0 +1,70 @@
+{
+  "id": 1243155695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2499,2.33718,45.2499,2.33718",
+    "geom:latitude":2.33718,
+    "geom:longitude":45.2499,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Istanbuul",
+    "gn:country_code":"SO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56486,
+    "gn:latitude":2.33718,
+    "gn:longitude":45.2499,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Istanbuul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Istanbuul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56486
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"817275fab659ca31244e23f8d3d03df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1243155695,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1243155695,
+    "wof:lastmodified":1537701255,
+    "wof:name":"Istanbuul",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2499,
+    2.33718,
+    45.2499,
+    2.33718
+],
+  "geometry": {"coordinates":[45.2499,2.33718],"type":"Point"}
+}

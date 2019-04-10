@@ -1,0 +1,69 @@
+{
+  "id": 1209039531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8441,3.6208,43.8441,3.6208",
+    "geom:latitude":3.6208,
+    "geom:longitude":43.8441,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Galool",
+    "gn:country_code":"SO",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59314,
+    "gn:latitude":3.6208,
+    "gn:longitude":43.8441,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Galool",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Galool"
+    ],
+    "name:und_x_variant":[
+        "Golol Ier",
+        "Golol",
+        "Galool"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59314
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"55f684d352db6bad5b25cf64ff4e4baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209039531
+        }
+    ],
+    "wof:id":1209039531,
+    "wof:lastmodified":1537701282,
+    "wof:name":"Galool",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8441,
+    3.6208,
+    43.8441,
+    3.6208
+],
+  "geometry": {"coordinates":[43.8441,3.6208],"type":"Point"}
+}

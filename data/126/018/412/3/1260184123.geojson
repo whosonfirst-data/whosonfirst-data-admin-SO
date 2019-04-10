@@ -1,0 +1,68 @@
+{
+  "id": 1260184123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.21667,11.76667,51.21667,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":51.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Dibir",
+    "gn:country_code":"SO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60149,
+    "gn:latitude":11.76667,
+    "gn:longitude":51.21667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"El Dibir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60149,
+        "wk:page":"El_Dibir"
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"756a6252ca9a0df7ffd7cee5aebfb028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757803,
+            "locality_id":1260184123,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1260184123,
+    "wof:lastmodified":1537573743,
+    "wof:name":"El Dibir",
+    "wof:parent_id":1108757803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.21667,
+    11.76667,
+    51.21667,
+    11.76667
+],
+  "geometry": {"coordinates":[51.21667,11.76667],"type":"Point"}
+}

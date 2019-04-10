@@ -1,0 +1,72 @@
+{
+  "id": 1192995433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63333,9.66667,48.63333,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":48.63333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Laghodeh",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60095,
+    "gn:latitude":9.66667,
+    "gn:longitude":48.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"El Laghodeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Laghodey",
+        "El Laghodeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60095
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6e39b36bb6e925cbc6d1aab6e51f4cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757793,
+            "locality_id":1192995433,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1192995433,
+    "wof:lastmodified":1537701290,
+    "wof:name":"El Laghodeh",
+    "wof:parent_id":1108757793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63333,
+    9.66667,
+    48.63333,
+    9.66667
+],
+  "geometry": {"coordinates":[48.63333,9.66667],"type":"Point"}
+}

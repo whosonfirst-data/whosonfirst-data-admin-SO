@@ -1,0 +1,74 @@
+{
+  "id": 421170421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3679555,2.082652,45.3679555,2.082652",
+    "geom:latitude":2.082652,
+    "geom:longitude":45.367956,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Muqdisho",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":"Banaadir",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":565778,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":1428567,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677263,
+        1108757805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1428567,
+        "qs:id":565778
+    },
+    "wof:country":"SO",
+    "wof:created":1459008852,
+    "wof:geomhash":"2022f93f401ae04dded661e88681ed3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757805,
+            "locality_id":421170421,
+            "region_id":85677263
+        }
+    ],
+    "wof:id":421170421,
+    "wof:lastmodified":1494646388,
+    "wof:name":"Muqdisho",
+    "wof:parent_id":1108757805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3679555,
+    2.082652,
+    45.3679555,
+    2.082652
+],
+  "geometry": {"coordinates":[45.3679555,2.082652],"type":"Point"}
+}

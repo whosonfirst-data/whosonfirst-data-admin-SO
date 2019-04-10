@@ -1,0 +1,67 @@
+{
+  "id": 1293301743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4,2.1,45.4,2.1",
+    "geom:latitude":2.1,
+    "geom:longitude":45.4,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Colomat",
+    "gn:country_code":"SO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62560,
+    "gn:latitude":2.1,
+    "gn:longitude":45.4,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Colomat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677263,
+        1108757805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62560
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fc342eb37c7683508be2f7f7bb48a6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757805,
+            "locality_id":1293301743,
+            "region_id":85677263
+        }
+    ],
+    "wof:id":1293301743,
+    "wof:lastmodified":1537052465,
+    "wof:name":"Colomat",
+    "wof:parent_id":1108757805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4,
+    2.1,
+    45.4,
+    2.1
+],
+  "geometry": {"coordinates":[45.4,2.1],"type":"Point"}
+}

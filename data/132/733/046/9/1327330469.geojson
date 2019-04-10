@@ -1,0 +1,71 @@
+{
+  "id": 1327330469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19361,4.79639,45.19361,4.79639",
+    "geom:latitude":4.79639,
+    "geom:longitude":45.19361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Leebow",
+    "gn:country_code":"SO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54889,
+    "gn:latitude":4.79639,
+    "gn:longitude":45.19361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Leebow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lebou",
+        "Leebow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54889
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f47d3a547e3529fd36f324b9c354d572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757833,
+            "locality_id":1327330469,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1327330469,
+    "wof:lastmodified":1537701238,
+    "wof:name":"Leebow",
+    "wof:parent_id":1108757833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19361,
+    4.79639,
+    45.19361,
+    4.79639
+],
+  "geometry": {"coordinates":[45.19361,4.79639],"type":"Point"}
+}

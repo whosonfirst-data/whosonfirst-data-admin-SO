@@ -1,0 +1,71 @@
+{
+  "id": 1293451561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41255,9.70474,43.41255,9.70474",
+    "geom:latitude":9.70474,
+    "geom:longitude":43.41255,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Xuunshaley",
+    "gn:country_code":"SO",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49701,
+    "gn:latitude":9.70474,
+    "gn:longitude":43.41255,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xuunshaley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khunshaley",
+        "Xuunshaley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49701
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a355c5153290075cd1cf7f5fd9b4dc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757917,
+            "locality_id":1293451561,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1293451561,
+    "wof:lastmodified":1537701174,
+    "wof:name":"Xuunshaley",
+    "wof:parent_id":1108757917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41255,
+    9.70474,
+    43.41255,
+    9.70474
+],
+  "geometry": {"coordinates":[43.41255,9.70474],"type":"Point"}
+}

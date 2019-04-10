@@ -1,0 +1,77 @@
+{
+  "id": 1343536549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57975,9.17957,45.57975,9.17957",
+    "geom:latitude":9.17957,
+    "geom:longitude":45.57975,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ballay Hiile",
+    "gn:country_code":"SO",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64909,
+    "gn:latitude":9.17957,
+    "gn:longitude":45.57975,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ballay Hiile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ballay Hiile"
+    ],
+    "name:und_x_variant":[
+        "Bale Hile",
+        "Balhile",
+        "Baleh Hileh",
+        "Balhileh",
+        "Balleh Hile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421194355,
+        1108757813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64909
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"aa8ea936303caeac9fe80414aba22d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757813,
+            "locality_id":1343536549,
+            "region_id":421194355
+        }
+    ],
+    "wof:id":1343536549,
+    "wof:lastmodified":1537701343,
+    "wof:name":"Ballay Hiile",
+    "wof:parent_id":1108757813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57975,
+    9.17957,
+    45.57975,
+    9.17957
+],
+  "geometry": {"coordinates":[45.57975,9.17957],"type":"Point"}
+}

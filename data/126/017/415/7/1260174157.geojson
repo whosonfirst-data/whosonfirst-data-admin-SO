@@ -1,0 +1,77 @@
+{
+  "id": 1260174157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.2076,2.68144,42.2076,2.68144",
+    "geom:latitude":2.68144,
+    "geom:longitude":42.2076,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dag Mareer",
+    "gn:country_code":"SO",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62086,
+    "gn:latitude":2.68144,
+    "gn:longitude":42.2076,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dag Mareer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dag Mareer"
+    ],
+    "name:und_x_variant":[
+        "Mererta",
+        "Bulo Mererta",
+        "Bulo Merer",
+        "Buulo Mareer",
+        "Dag Mareer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62086
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fc9a69f08e5d3618b850e0f9b1cac20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1260174157,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1260174157,
+    "wof:lastmodified":1537701307,
+    "wof:name":"Dag Mareer",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.2076,
+    2.68144,
+    42.2076,
+    2.68144
+],
+  "geometry": {"coordinates":[42.2076,2.68144],"type":"Point"}
+}

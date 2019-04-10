@@ -1,0 +1,72 @@
+{
+  "id": 1226653513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.88333,8.41667,49.88333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":49.88333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cajin",
+    "gn:country_code":"SO",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63182,
+    "gn:latitude":8.41667,
+    "gn:longitude":49.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Cajin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ajin",
+        "Agin",
+        "Cajin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63182
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"525a5f49ef70dfb8a1c20cc4637275e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757879,
+            "locality_id":1226653513,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1226653513,
+    "wof:lastmodified":1537701320,
+    "wof:name":"Cajin",
+    "wof:parent_id":1108757879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.88333,
+    8.41667,
+    49.88333,
+    8.41667
+],
+  "geometry": {"coordinates":[49.88333,8.41667],"type":"Point"}
+}

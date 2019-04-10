@@ -1,0 +1,70 @@
+{
+  "id": 1343338693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.30373,10.76045,47.30373,10.76045",
+    "geom:latitude":10.76045,
+    "geom:longitude":47.30373,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Celaya",
+    "gn:country_code":"SO",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62679,
+    "gn:latitude":10.76045,
+    "gn:longitude":47.30373,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Celaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Celaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62679
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"60ef662497649e8fc666c3a376417b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757789,
+            "locality_id":1343338693,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1343338693,
+    "wof:lastmodified":1537701311,
+    "wof:name":"Celaya",
+    "wof:parent_id":1108757789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.30373,
+    10.76045,
+    47.30373,
+    10.76045
+],
+  "geometry": {"coordinates":[47.30373,10.76045],"type":"Point"}
+}

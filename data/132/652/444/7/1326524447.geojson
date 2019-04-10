@@ -1,0 +1,70 @@
+{
+  "id": 1326524447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.60694,3.42098,45.60694,3.42098",
+    "geom:latitude":3.42098,
+    "geom:longitude":45.60694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Damalle",
+    "gn:country_code":"SO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61965,
+    "gn:latitude":3.42098,
+    "gn:longitude":45.60694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Damalle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Damalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61965
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d9a8c656d261b90646a4872918be5a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757863,
+            "locality_id":1326524447,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1326524447,
+    "wof:lastmodified":1537701306,
+    "wof:name":"Damalle",
+    "wof:parent_id":1108757863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.60694,
+    3.42098,
+    45.60694,
+    3.42098
+],
+  "geometry": {"coordinates":[45.60694,3.42098],"type":"Point"}
+}

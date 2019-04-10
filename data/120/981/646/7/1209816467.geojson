@@ -1,0 +1,70 @@
+{
+  "id": 1209816467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25502,3.35353,43.25502,3.35353",
+    "geom:latitude":3.35353,
+    "geom:longitude":43.25502,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Idadlow",
+    "gn:country_code":"SO",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56747,
+    "gn:latitude":3.35353,
+    "gn:longitude":43.25502,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Idadlow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Idadlow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56747
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1eae6267ee25f2bf1d2089537c6f62e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1209816467,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1209816467,
+    "wof:lastmodified":1537701258,
+    "wof:name":"Idadlow",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25502,
+    3.35353,
+    43.25502,
+    3.35353
+],
+  "geometry": {"coordinates":[43.25502,3.35353],"type":"Point"}
+}

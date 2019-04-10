@@ -1,0 +1,67 @@
+{
+  "id": 1310225181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98883,0.87113,42.98883,0.87113",
+    "geom:latitude":0.87113,
+    "geom:longitude":42.98883,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dhisma",
+    "gn:country_code":"SO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61089,
+    "gn:latitude":0.87113,
+    "gn:longitude":42.98883,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Dhisma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61089
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"736f63a1362e894c0348cd1b4368a069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1310225181,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1310225181,
+    "wof:lastmodified":1536823027,
+    "wof:name":"Dhisma",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98883,
+    0.87113,
+    42.98883,
+    0.87113
+],
+  "geometry": {"coordinates":[42.98883,0.87113],"type":"Point"}
+}

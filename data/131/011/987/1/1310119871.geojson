@@ -1,0 +1,70 @@
+{
+  "id": 1310119871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3452,4.0658,43.3452,4.0658",
+    "geom:latitude":4.0658,
+    "geom:longitude":43.3452,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buur Caddey",
+    "gn:country_code":"SO",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63611,
+    "gn:latitude":4.0658,
+    "gn:longitude":43.3452,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Buur Caddey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Buur Caddey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63611
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"06678683b4ff8a27c298a3dafd3bba55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757911,
+            "locality_id":1310119871,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1310119871,
+    "wof:lastmodified":1537701324,
+    "wof:name":"Buur Caddey",
+    "wof:parent_id":1108757911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3452,
+    4.0658,
+    43.3452,
+    4.0658
+],
+  "geometry": {"coordinates":[43.3452,4.0658],"type":"Point"}
+}

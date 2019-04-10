@@ -1,0 +1,70 @@
+{
+  "id": 1259662621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5778,1.7454,44.5778,1.7454",
+    "geom:latitude":1.7454,
+    "geom:longitude":44.5778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Foosi",
+    "gn:country_code":"SO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59685,
+    "gn:latitude":1.7454,
+    "gn:longitude":44.5778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Foosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Foosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59685
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"df7008b8f98d84ede777e6e7f3bf85ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1259662621,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1259662621,
+    "wof:lastmodified":1537701286,
+    "wof:name":"Foosi",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5778,
+    1.7454,
+    44.5778,
+    1.7454
+],
+  "geometry": {"coordinates":[44.5778,1.7454],"type":"Point"}
+}

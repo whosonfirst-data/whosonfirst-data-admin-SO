@@ -1,0 +1,61 @@
+{
+  "id": 1209128111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.63333,3.45,41.63333,3.45",
+    "geom:latitude":3.45,
+    "geom:longitude":41.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gubbet Uasasa",
+    "gn:country_code":"SO",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57987,
+    "gn:latitude":3.45,
+    "gn:longitude":41.63333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Gubbet Uasasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57987
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"387b819c1ed48501b292177bef66e110",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209128111
+        }
+    ],
+    "wof:id":1209128111,
+    "wof:lastmodified":1536296892,
+    "wof:name":"Gubbet Uasasa",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.63333,
+    3.45,
+    41.63333,
+    3.45
+],
+  "geometry": {"coordinates":[41.63333,3.45],"type":"Point"}
+}

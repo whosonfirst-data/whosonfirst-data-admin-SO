@@ -1,0 +1,67 @@
+{
+  "id": 1343848841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06065,0.62872,43.06065,0.62872",
+    "geom:latitude":0.62872,
+    "geom:longitude":43.06065,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Biliq Tale",
+    "gn:country_code":"SO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":64302,
+    "gn:latitude":0.62872,
+    "gn:longitude":43.06065,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Biliq Tale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":64302
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b13790970833f0d17f24e729d96b321e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757859,
+            "locality_id":1343848841,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1343848841,
+    "wof:lastmodified":1536683340,
+    "wof:name":"Biliq Tale",
+    "wof:parent_id":1108757859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06065,
+    0.62872,
+    43.06065,
+    0.62872
+],
+  "geometry": {"coordinates":[43.06065,0.62872],"type":"Point"}
+}

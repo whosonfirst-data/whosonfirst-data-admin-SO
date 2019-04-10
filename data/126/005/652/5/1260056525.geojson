@@ -1,0 +1,70 @@
+{
+  "id": 1260056525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6547,2.8091,45.6547,2.8091",
+    "geom:latitude":2.8091,
+    "geom:longitude":45.6547,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Giir Weyne",
+    "gn:country_code":"SO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58535,
+    "gn:latitude":2.8091,
+    "gn:longitude":45.6547,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Giir Weyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Giir Weyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58535
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"720eced44cb161acadc4734a2578aa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1260056525,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1260056525,
+    "wof:lastmodified":1537701274,
+    "wof:name":"Giir Weyne",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6547,
+    2.8091,
+    45.6547,
+    2.8091
+],
+  "geometry": {"coordinates":[45.6547,2.8091],"type":"Point"}
+}

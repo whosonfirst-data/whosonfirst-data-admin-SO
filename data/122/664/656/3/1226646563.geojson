@@ -1,0 +1,74 @@
+{
+  "id": 1226646563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18925,1.9597,43.18925,1.9597",
+    "geom:latitude":1.9597,
+    "geom:longitude":43.18925,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yaaq Braawe",
+    "gn:country_code":"SO",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49678,
+    "gn:latitude":1.9597,
+    "gn:longitude":43.18925,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaaq Braawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iach Bravai",
+        "Yaaq Braawaay",
+        "J\u0101q Braw\u0101y",
+        "Yaaq-Baraawe",
+        "Yaaq Braawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49678
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a4a93210ea188905bfb2d3e79deffd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1226646563,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1226646563,
+    "wof:lastmodified":1537701173,
+    "wof:name":"Yaaq Braawe",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18925,
+    1.9597,
+    43.18925,
+    1.9597
+],
+  "geometry": {"coordinates":[43.18925,1.9597],"type":"Point"}
+}

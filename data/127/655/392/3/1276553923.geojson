@@ -1,0 +1,67 @@
+{
+  "id": 1276553923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67787,2.14883,42.67787,2.14883",
+    "geom:latitude":2.14883,
+    "geom:longitude":42.67787,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Buulo Guduud",
+    "gn:country_code":"SO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63666,
+    "gn:latitude":2.14883,
+    "gn:longitude":42.67787,
+    "gn:modification_date":"2008-05-23",
+    "gn:name":"Buulo Guduud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63666
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"d35af38604be676a84238f32b02dcba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757839,
+            "locality_id":1276553923,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1276553923,
+    "wof:lastmodified":1536979763,
+    "wof:name":"Buulo Guduud",
+    "wof:parent_id":1108757839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67787,
+    2.14883,
+    42.67787,
+    2.14883
+],
+  "geometry": {"coordinates":[42.67787,2.14883],"type":"Point"}
+}

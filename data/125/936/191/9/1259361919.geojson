@@ -1,0 +1,73 @@
+{
+  "id": 1259361919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6124,1.839,44.6124,1.839",
+    "geom:latitude":1.839,
+    "geom:longitude":44.6124,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Baanyaale",
+    "gn:country_code":"SO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65191,
+    "gn:latitude":1.839,
+    "gn:longitude":44.6124,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Baanyaale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Baanyaale"
+    ],
+    "name:und_x_variant":[
+        "Raxmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65191
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"eb8d204eed518cae66cefdab2de572e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757885,
+            "locality_id":1259361919,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1259361919,
+    "wof:lastmodified":1537701347,
+    "wof:name":"Baanyaale",
+    "wof:parent_id":1108757885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6124,
+    1.839,
+    44.6124,
+    1.839
+],
+  "geometry": {"coordinates":[44.6124,1.839],"type":"Point"}
+}

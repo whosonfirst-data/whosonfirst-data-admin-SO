@@ -1,0 +1,67 @@
+{
+  "id": 1209717481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2,11.61667,51.2,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":51.2,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mach",
+    "gn:country_code":"SO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54653,
+    "gn:latitude":11.61667,
+    "gn:longitude":51.2,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Mach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54653
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"63387a8ea8a25172cc50c9c96405d295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757803,
+            "locality_id":1209717481,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1209717481,
+    "wof:lastmodified":1536387903,
+    "wof:name":"Mach",
+    "wof:parent_id":1108757803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2,
+    11.61667,
+    51.2,
+    11.61667
+],
+  "geometry": {"coordinates":[51.2,11.61667],"type":"Point"}
+}

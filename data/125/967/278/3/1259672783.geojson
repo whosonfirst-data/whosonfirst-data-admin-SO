@@ -1,0 +1,73 @@
+{
+  "id": 1259672783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41667,5.45,48.41667,5.45",
+    "geom:latitude":5.45,
+    "geom:longitude":48.41667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ceelgaalaad",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62768,
+    "gn:latitude":5.45,
+    "gn:longitude":48.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceelgaalaad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Galad",
+        "Galad",
+        "Ceelgaalaad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677279,
+        1108757851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62768
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1e349d6f60f6af4fa92ddbb054fcd87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757851,
+            "locality_id":1259672783,
+            "region_id":85677279
+        }
+    ],
+    "wof:id":1259672783,
+    "wof:lastmodified":1537701313,
+    "wof:name":"Ceelgaalaad",
+    "wof:parent_id":1108757851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41667,
+    5.45,
+    48.41667,
+    5.45
+],
+  "geometry": {"coordinates":[48.41667,5.45],"type":"Point"}
+}

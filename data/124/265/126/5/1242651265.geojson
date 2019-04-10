@@ -1,0 +1,70 @@
+{
+  "id": 1242651265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3066,2.4489,45.3066,2.4489",
+    "geom:latitude":2.4489,
+    "geom:longitude":45.3066,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Aqal Saar",
+    "gn:country_code":"SO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65516,
+    "gn:latitude":2.4489,
+    "gn:longitude":45.3066,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aqal Saar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Aqal Saar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65516
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"66aed16a2cdac27f7f994bb965fb416a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1242651265,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1242651265,
+    "wof:lastmodified":1537701351,
+    "wof:name":"Aqal Saar",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3066,
+    2.4489,
+    45.3066,
+    2.4489
+],
+  "geometry": {"coordinates":[45.3066,2.4489],"type":"Point"}
+}

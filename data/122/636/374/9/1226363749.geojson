@@ -1,0 +1,67 @@
+{
+  "id": 1226363749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11667,3.36667,45.11667,3.36667",
+    "geom:latitude":3.36667,
+    "geom:longitude":45.11667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moro Bullei",
+    "gn:country_code":"SO",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":53753,
+    "gn:latitude":3.36667,
+    "gn:longitude":45.11667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Moro Bullei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677269,
+        1108757825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":53753
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7cec25fb56f3174b8edc3dfe8535fce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757825,
+            "locality_id":1226363749,
+            "region_id":85677269
+        }
+    ],
+    "wof:id":1226363749,
+    "wof:lastmodified":1536763990,
+    "wof:name":"Moro Bullei",
+    "wof:parent_id":1108757825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11667,
+    3.36667,
+    45.11667,
+    3.36667
+],
+  "geometry": {"coordinates":[45.11667,3.36667],"type":"Point"}
+}

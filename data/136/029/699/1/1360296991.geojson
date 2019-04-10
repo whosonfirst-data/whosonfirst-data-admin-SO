@@ -1,0 +1,67 @@
+{
+  "id": 1360296991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.06667,11.3,51.06667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":51.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eiroli",
+    "gn:country_code":"SO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60214,
+    "gn:latitude":11.3,
+    "gn:longitude":51.06667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Eiroli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60214
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"15479ca0606bf66ee88d47246b535b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1360296991,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1360296991,
+    "wof:lastmodified":1536638845,
+    "wof:name":"Eiroli",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.06667,
+    11.3,
+    51.06667,
+    11.3
+],
+  "geometry": {"coordinates":[51.06667,11.3],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242764795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,9.46667,47.28333,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Daarsi",
+    "gn:country_code":"SO",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61743,
+    "gn:latitude":9.46667,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Daarsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Daarsi"
+    ],
+    "name:und_x_variant":[
+        "Darso",
+        "Darsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805621,
+        1108757789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61743
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"af0276d0a68581c2ee13b75d06ce03d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757789,
+            "locality_id":1242764795,
+            "region_id":1108805621
+        }
+    ],
+    "wof:id":1242764795,
+    "wof:lastmodified":1537701305,
+    "wof:name":"Daarsi",
+    "wof:parent_id":1108757789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    9.46667,
+    47.28333,
+    9.46667
+],
+  "geometry": {"coordinates":[47.28333,9.46667],"type":"Point"}
+}

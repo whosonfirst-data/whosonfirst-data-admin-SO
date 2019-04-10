@@ -1,0 +1,75 @@
+{
+  "id": 1243460649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80822,2.96244,43.80822,2.96244",
+    "geom:latitude":2.96244,
+    "geom:longitude":43.80822,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"War Isho",
+    "gn:country_code":"SO",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50550,
+    "gn:latitude":2.96244,
+    "gn:longitude":43.80822,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"War Isho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "War Isho"
+    ],
+    "name:und_x_variant":[
+        "Uarisce",
+        "War-Iisho",
+        "War Isho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50550
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"32cc5228d41dd363930cd2efbe2bb2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1243460649,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1243460649,
+    "wof:lastmodified":1537701184,
+    "wof:name":"War Isho",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80822,
+    2.96244,
+    43.80822,
+    2.96244
+],
+  "geometry": {"coordinates":[43.80822,2.96244],"type":"Point"}
+}

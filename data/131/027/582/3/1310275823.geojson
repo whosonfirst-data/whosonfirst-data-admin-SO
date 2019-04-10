@@ -1,0 +1,70 @@
+{
+  "id": 1310275823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6136,1.6878,44.6136,1.6878",
+    "geom:latitude":1.6878,
+    "geom:longitude":44.6136,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Inkaar",
+    "gn:country_code":"SO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56574,
+    "gn:latitude":1.6878,
+    "gn:longitude":44.6136,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Inkaar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Inkaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56574
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f34384fd2f1436406d86c3782f302600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757883,
+            "locality_id":1310275823,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1310275823,
+    "wof:lastmodified":1537701256,
+    "wof:name":"Inkaar",
+    "wof:parent_id":1108757883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6136,
+    1.6878,
+    44.6136,
+    1.6878
+],
+  "geometry": {"coordinates":[44.6136,1.6878],"type":"Point"}
+}

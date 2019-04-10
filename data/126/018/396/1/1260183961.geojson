@@ -1,0 +1,74 @@
+{
+  "id": 1260183961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25832,10.92342,49.25832,10.92342",
+    "geom:latitude":10.92342,
+    "geom:longitude":49.25832,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yalaho",
+    "gn:country_code":"SO",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49630,
+    "gn:latitude":10.92342,
+    "gn:longitude":49.25832,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yalaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Yalaho"
+    ],
+    "name:und_x_variant":[
+        "Ielah\u00f2",
+        "Yalaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49630
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5d75015db16fd9abdf19843748b93e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757801,
+            "locality_id":1260183961,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1260183961,
+    "wof:lastmodified":1537701172,
+    "wof:name":"Yalaho",
+    "wof:parent_id":1108757801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25832,
+    10.92342,
+    49.25832,
+    10.92342
+],
+  "geometry": {"coordinates":[49.25832,10.92342],"type":"Point"}
+}

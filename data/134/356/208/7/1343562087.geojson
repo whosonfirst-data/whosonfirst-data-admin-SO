@@ -1,0 +1,75 @@
+{
+  "id": 1343562087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98249,2.54498,43.98249,2.54498",
+    "geom:latitude":2.54498,
+    "geom:longitude":43.98249,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sodori",
+    "gn:country_code":"SO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51555,
+    "gn:latitude":2.54498,
+    "gn:longitude":43.98249,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sodori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Sodori"
+    ],
+    "name:und_x_variant":[
+        "Soddoro",
+        "Soddero",
+        "Sodori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51555
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"b443b81c4e20b264f15d9e00bc16b62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1343562087,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1343562087,
+    "wof:lastmodified":1537701197,
+    "wof:name":"Sodori",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98249000000001,
+    2.54498,
+    43.98249000000001,
+    2.54498
+],
+  "geometry": {"coordinates":[43.98249000000001,2.54498],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209285365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17596,2.798,45.17596,2.798",
+    "geom:latitude":2.798,
+    "geom:longitude":45.17596,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Joofley",
+    "gn:country_code":"SO",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56093,
+    "gn:latitude":2.798,
+    "gn:longitude":45.17596,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Joofley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Joofley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56093
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"3a9e0a5cb79b0e9b688e9ab8a24a414d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209285365
+        }
+    ],
+    "wof:id":1209285365,
+    "wof:lastmodified":1537701250,
+    "wof:name":"Joofley",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17596,
+    2.798,
+    45.17596,
+    2.798
+],
+  "geometry": {"coordinates":[45.17596,2.798],"type":"Point"}
+}

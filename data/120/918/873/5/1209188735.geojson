@@ -1,0 +1,61 @@
+{
+  "id": 1209188735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90593,9.56096,43.90593,9.56096",
+    "geom:latitude":9.56096,
+    "geom:longitude":43.90593,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Malowle",
+    "gn:country_code":"SO",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282927,
+    "gn:latitude":9.56096,
+    "gn:longitude":43.90593,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Malowle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282927
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a6d143713b11fb46a55bfaffb1bdbcdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209188735
+        }
+    ],
+    "wof:id":1209188735,
+    "wof:lastmodified":1536295009,
+    "wof:name":"Malowle",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90593,
+    9.56096,
+    43.90593,
+    9.56096
+],
+  "geometry": {"coordinates":[43.90593,9.56096],"type":"Point"}
+}

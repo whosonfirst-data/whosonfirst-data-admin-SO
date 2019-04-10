@@ -1,0 +1,71 @@
+{
+  "id": 1209127405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8165,4.5109,44.8165,4.5109",
+    "geom:latitude":4.5109,
+    "geom:longitude":44.8165,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Buqkoosaar",
+    "gn:country_code":"SO",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63828,
+    "gn:latitude":4.5109,
+    "gn:longitude":44.8165,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Buqkoosaar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Buqkoosaar"
+    ],
+    "name:und_x_variant":[
+        "Bugda Cosar",
+        "B\u00faqda K\u014ds\u0101r",
+        "Buqda Koosaar",
+        "Bukkosar",
+        "Buqkoosaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63828
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"1ea96b603f04f662586899dbb6fec9c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209127405
+        }
+    ],
+    "wof:id":1209127405,
+    "wof:lastmodified":1537701330,
+    "wof:name":"Buqkoosaar",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8165,
+    4.5109,
+    44.8165,
+    4.5109
+],
+  "geometry": {"coordinates":[44.8165,4.5109],"type":"Point"}
+}

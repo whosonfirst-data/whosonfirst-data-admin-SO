@@ -1,0 +1,74 @@
+{
+  "id": 1259752007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43333,8.86667,47.43333,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":47.43333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"Laascaanood",
+    "gn:asciiname":"Tuursubag",
+    "gn:country_code":"SO",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51084,
+    "gn:latitude":8.86667,
+    "gn:longitude":47.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tuursubag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tursubag",
+        "Tursubuk",
+        "Tursubak",
+        "Tuursubag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        1108805619,
+        1108757905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51084
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"4919e39401505b22cfda490b523b505f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757905,
+            "locality_id":1259752007,
+            "region_id":1108805619
+        }
+    ],
+    "wof:id":1259752007,
+    "wof:lastmodified":1537701191,
+    "wof:name":"Tuursubag",
+    "wof:parent_id":1108757905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43333,
+    8.86667,
+    47.43333,
+    8.86667
+],
+  "geometry": {"coordinates":[47.43333,8.86667],"type":"Point"}
+}

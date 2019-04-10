@@ -1,0 +1,61 @@
+{
+  "id": 1209415475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43333,3.08333,43.43333,3.08333",
+    "geom:latitude":3.08333,
+    "geom:longitude":43.43333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tugeeral",
+    "gn:country_code":"SO",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51148,
+    "gn:latitude":3.08333,
+    "gn:longitude":43.43333,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Tugeeral",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51148
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"6e44561fe02a80fee432a4bd8aec6a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209415475
+        }
+    ],
+    "wof:id":1209415475,
+    "wof:lastmodified":1536287703,
+    "wof:name":"Tugeeral",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43333,
+    3.08333,
+    43.43333,
+    3.08333
+],
+  "geometry": {"coordinates":[43.43333,3.08333],"type":"Point"}
+}

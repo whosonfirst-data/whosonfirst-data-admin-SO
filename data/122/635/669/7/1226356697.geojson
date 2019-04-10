@@ -1,0 +1,70 @@
+{
+  "id": 1226356697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1716,3.97302,44.1716,3.97302",
+    "geom:latitude":3.97302,
+    "geom:longitude":44.1716,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gaal Madoobe",
+    "gn:country_code":"SO",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59606,
+    "gn:latitude":3.97302,
+    "gn:longitude":44.1716,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gaal Madoobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Gaal Madoobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59606
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"768b6c335fef047df2a323cd776a7491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757909,
+            "locality_id":1226356697,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1226356697,
+    "wof:lastmodified":1537701285,
+    "wof:name":"Gaal Madoobe",
+    "wof:parent_id":1108757909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1716,
+    3.97302,
+    44.1716,
+    3.97302
+],
+  "geometry": {"coordinates":[44.1716,3.97302],"type":"Point"}
+}

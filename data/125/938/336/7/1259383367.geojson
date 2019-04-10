@@ -1,0 +1,70 @@
+{
+  "id": 1259383367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20551,2.87415,44.20551,2.87415",
+    "geom:latitude":2.87415,
+    "geom:longitude":44.20551,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uqoonta",
+    "gn:country_code":"SO",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909213,
+    "gn:latitude":2.87415,
+    "gn:longitude":44.20551,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Uqoonta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Uqoonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909213
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"26dbb46c37741742a8648bb506abc5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1259383367,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1259383367,
+    "wof:lastmodified":1537701358,
+    "wof:name":"Uqoonta",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20551,
+    2.87415,
+    44.20551,
+    2.87415
+],
+  "geometry": {"coordinates":[44.20551,2.87415],"type":"Point"}
+}

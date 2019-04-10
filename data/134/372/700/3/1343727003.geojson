@@ -1,0 +1,67 @@
+{
+  "id": 1343727003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29361,9.80056,44.29361,9.80056",
+    "geom:latitude":9.80056,
+    "geom:longitude":44.29361,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Xunbaweyne",
+    "gn:country_code":"SO",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6263609,
+    "gn:latitude":9.80056,
+    "gn:longitude":44.29361,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Xunbaweyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6263609
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"5e274e7497a4e93c7bd72cc66d2108ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757849,
+            "locality_id":1343727003,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1343727003,
+    "wof:lastmodified":1536857975,
+    "wof:name":"Xunbaweyne",
+    "wof:parent_id":1108757849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29361,
+    9.80056,
+    44.29361,
+    9.80056
+],
+  "geometry": {"coordinates":[44.29361,9.80056],"type":"Point"}
+}

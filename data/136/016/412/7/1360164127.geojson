@@ -1,0 +1,74 @@
+{
+  "id": 1360164127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53634,2.80975,45.53634,2.80975",
+    "geom:latitude":2.80975,
+    "geom:longitude":45.53634,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Timirre",
+    "gn:country_code":"SO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51252,
+    "gn:latitude":2.80975,
+    "gn:longitude":45.53634,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Timirre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Timirre"
+    ],
+    "name:und_x_variant":[
+        "Temerr\u00e8",
+        "Timirre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677275,
+        1108757861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51252
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"20720e3e8b48d07f2566f5ebbe505121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757861,
+            "locality_id":1360164127,
+            "region_id":85677275
+        }
+    ],
+    "wof:id":1360164127,
+    "wof:lastmodified":1537701194,
+    "wof:name":"Timirre",
+    "wof:parent_id":1108757861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53634,
+    2.80975,
+    45.53634,
+    2.80975
+],
+  "geometry": {"coordinates":[45.53634,2.80975],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343483283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.299,2.53,42.299,2.53",
+    "geom:latitude":2.53,
+    "geom:longitude":42.299,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hilo Ari",
+    "gn:country_code":"SO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":57045,
+    "gn:latitude":2.53,
+    "gn:longitude":42.299,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hilo Ari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Hilo Ari"
+    ],
+    "name:und_x_variant":[
+        "Hale Erin",
+        "Heli Erin",
+        "Hilo Ari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57045
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f4895676f9c85610282edf40eb6f74a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1343483283,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1343483283,
+    "wof:lastmodified":1537701261,
+    "wof:name":"Hilo Ari",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.299,
+    2.53,
+    42.299,
+    2.53
+],
+  "geometry": {"coordinates":[42.299,2.53],"type":"Point"}
+}

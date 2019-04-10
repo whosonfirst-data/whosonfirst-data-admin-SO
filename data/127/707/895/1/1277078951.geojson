@@ -1,0 +1,72 @@
+{
+  "id": 1277078951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.54439,4.02607,47.54439,4.02607",
+    "geom:latitude":4.02607,
+    "geom:longitude":47.54439,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kabaxweyn",
+    "gn:country_code":"SO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":59552,
+    "gn:latitude":4.02607,
+    "gn:longitude":47.54439,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kabaxweyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gab\u00e0 Uein",
+        "Gaba Uen",
+        "Kabaxweyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":59552
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"eab7c4b2a803c7e0e5653ddc222b8821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757785,
+            "locality_id":1277078951,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":1277078951,
+    "wof:lastmodified":1537701284,
+    "wof:name":"Kabaxweyn",
+    "wof:parent_id":1108757785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.54439,
+    4.02607,
+    47.54439,
+    4.02607
+],
+  "geometry": {"coordinates":[47.54439,4.02607],"type":"Point"}
+}

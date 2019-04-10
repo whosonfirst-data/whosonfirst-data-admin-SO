@@ -1,0 +1,67 @@
+{
+  "id": 1293609201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55835,1.19273,42.55835,1.19273",
+    "geom:latitude":1.19273,
+    "geom:longitude":42.55835,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Soojiida",
+    "gn:country_code":"SO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51529,
+    "gn:latitude":1.19273,
+    "gn:longitude":42.55835,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Soojiida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51529
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e44b22e613443e2a7d326c663497505d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757841,
+            "locality_id":1293609201,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":1293609201,
+    "wof:lastmodified":1536609008,
+    "wof:name":"Soojiida",
+    "wof:parent_id":1108757841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55835,
+    1.19273,
+    42.55835,
+    1.19273
+],
+  "geometry": {"coordinates":[42.55835,1.19273],"type":"Point"}
+}

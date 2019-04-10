@@ -1,0 +1,67 @@
+{
+  "id": 1243225425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65524,9.70916,43.65524,9.70916",
+    "geom:latitude":9.70916,
+    "geom:longitude":43.65524,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Galooley",
+    "gn:country_code":"SO",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282909,
+    "gn:latitude":9.70916,
+    "gn:longitude":43.65524,
+    "gn:modification_date":"2009-03-16",
+    "gn:name":"Galooley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282909
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"22c0a1b600b84431d07905770bb39f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757917,
+            "locality_id":1243225425,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1243225425,
+    "wof:lastmodified":1536625410,
+    "wof:name":"Galooley",
+    "wof:parent_id":1108757917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65524,
+    9.70916,
+    43.65524,
+    9.70916
+],
+  "geometry": {"coordinates":[43.65524,9.70916],"type":"Point"}
+}

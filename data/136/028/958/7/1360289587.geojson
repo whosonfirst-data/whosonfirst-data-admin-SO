@@ -1,0 +1,73 @@
+{
+  "id": 1360289587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65,4.83333,43.65,4.83333",
+    "geom:latitude":4.83333,
+    "geom:longitude":43.65,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ceel Berde",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62829,
+    "gn:latitude":4.83333,
+    "gn:longitude":43.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Berde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Berde",
+        "El Berede",
+        "Ceel Berde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677241,
+        1108757823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62829
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7eb22d7c5ed1a244d7fb8bf20205856d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757823,
+            "locality_id":1360289587,
+            "region_id":85677241
+        }
+    ],
+    "wof:id":1360289587,
+    "wof:lastmodified":1537701315,
+    "wof:name":"Ceel Berde",
+    "wof:parent_id":1108757823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65,
+    4.83333,
+    43.65,
+    4.83333
+],
+  "geometry": {"coordinates":[43.65,4.83333],"type":"Point"}
+}

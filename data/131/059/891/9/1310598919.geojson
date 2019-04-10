@@ -1,0 +1,70 @@
+{
+  "id": 1310598919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.3141,2.4458,42.3141,2.4458",
+    "geom:latitude":2.4458,
+    "geom:longitude":42.3141,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Af Yar",
+    "gn:country_code":"SO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":65727,
+    "gn:latitude":2.4458,
+    "gn:longitude":42.3141,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Af Yar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Af Yar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65727
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"2be66ac5a108195a081aa2f29d77ee5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757775,
+            "locality_id":1310598919,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1310598919,
+    "wof:lastmodified":1537701353,
+    "wof:name":"Af Yar",
+    "wof:parent_id":1108757775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.3141,
+    2.4458,
+    42.3141,
+    2.4458
+],
+  "geometry": {"coordinates":[42.3141,2.4458],"type":"Point"}
+}

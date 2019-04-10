@@ -1,0 +1,67 @@
+{
+  "id": 1276526791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46667,1.15,43.46667,1.15",
+    "geom:latitude":1.15,
+    "geom:longitude":43.46667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Adelta",
+    "gn:country_code":"SO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65846,
+    "gn:latitude":1.15,
+    "gn:longitude":43.46667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Adelta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65846
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"767209672f699997dbe02b0ed5b6356b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757893,
+            "locality_id":1276526791,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1276526791,
+    "wof:lastmodified":1537016128,
+    "wof:name":"Adelta",
+    "wof:parent_id":1108757893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46667,
+    1.15,
+    43.46667,
+    1.15
+],
+  "geometry": {"coordinates":[43.46667,1.15],"type":"Point"}
+}

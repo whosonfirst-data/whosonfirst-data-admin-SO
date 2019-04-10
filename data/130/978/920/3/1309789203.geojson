@@ -1,0 +1,73 @@
+{
+  "id": 1309789203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85,1.06667,43.85,1.06667",
+    "geom:latitude":1.06667,
+    "geom:longitude":43.85,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dudduumo",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60511,
+    "gn:latitude":1.06667,
+    "gn:longitude":43.85,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dudduumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dudd\u016bmo",
+        "Duduma",
+        "Dudduumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60511
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"8891777085edb28a49552cb4938b640e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757809,
+            "locality_id":1309789203,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1309789203,
+    "wof:lastmodified":1537701295,
+    "wof:name":"Dudduumo",
+    "wof:parent_id":1108757809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85,
+    1.06667,
+    43.85,
+    1.06667
+],
+  "geometry": {"coordinates":[43.85,1.06667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243065351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.86744,3.03676,41.86744,3.03676",
+    "geom:latitude":3.03676,
+    "geom:longitude":41.86744,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ceel Cad",
+    "gn:country_code":"SO",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":62815,
+    "gn:latitude":3.03676,
+    "gn:longitude":41.86744,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ceel Cad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ceel Cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":62815
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c29db53bbd4300a0419edc68bea20a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757845,
+            "locality_id":1243065351,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1243065351,
+    "wof:lastmodified":1537701315,
+    "wof:name":"Ceel Cad",
+    "wof:parent_id":1108757845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.86744,
+    3.03676,
+    41.86744,
+    3.03676
+],
+  "geometry": {"coordinates":[41.86744,3.03676],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293024791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5551,3.0757,43.5551,3.0757",
+    "geom:latitude":3.0757,
+    "geom:longitude":43.5551,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ashagow",
+    "gn:country_code":"SO",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65381,
+    "gn:latitude":3.0757,
+    "gn:longitude":43.5551,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ashagow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ashagow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65381
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"8bcd8dcb3c2d7e3b465c7087347f1498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757837,
+            "locality_id":1293024791,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1293024791,
+    "wof:lastmodified":1537701350,
+    "wof:name":"Ashagow",
+    "wof:parent_id":1108757837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5551,
+    3.0757,
+    43.5551,
+    3.0757
+],
+  "geometry": {"coordinates":[43.5551,3.0757],"type":"Point"}
+}

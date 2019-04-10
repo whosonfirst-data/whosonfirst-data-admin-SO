@@ -1,0 +1,66 @@
+{
+  "id": 1259367477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88333,-0.03333,42.88333,-0.03333",
+    "geom:latitude":-0.03333,
+    "geom:longitude":42.88333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Lansciunle",
+    "gn:cc2":"SO",
+    "gn:country_code":"SO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":60092,
+    "gn:latitude":-0.03333,
+    "gn:longitude":42.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"El Lansciunle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lansciunle",
+        "El Lansciunle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":60092
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"e271389742ca69da87e83bea3a63427c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259367477,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259367477,
+    "wof:lastmodified":1537701290,
+    "wof:name":"El Lansciunle",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88333,
+    -0.03333,
+    42.88333,
+    -0.03333
+],
+  "geometry": {"coordinates":[42.88333,-0.03333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327212631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12164,2.50741,45.12164,2.50741",
+    "geom:latitude":2.50741,
+    "geom:longitude":45.12164,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"War Caanno",
+    "gn:country_code":"SO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50594,
+    "gn:latitude":2.50741,
+    "gn:longitude":45.12164,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"War Caanno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "War Caanno"
+    ],
+    "name:und_x_variant":[
+        "Gad Doolaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50594
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"0ccd3198f15ac57f6c510aa1d2bf4238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757807,
+            "locality_id":1327212631,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1327212631,
+    "wof:lastmodified":1537701185,
+    "wof:name":"War Caanno",
+    "wof:parent_id":1108757807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12164,
+    2.50741,
+    45.12164,
+    2.50741
+],
+  "geometry": {"coordinates":[45.12164,2.50741],"type":"Point"}
+}

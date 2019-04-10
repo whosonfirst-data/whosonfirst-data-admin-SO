@@ -1,0 +1,67 @@
+{
+  "id": 1225840173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56667,5.28333,47.56667,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":47.56667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Goble Hodan",
+    "gn:country_code":"SO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":58467,
+    "gn:latitude":5.28333,
+    "gn:longitude":47.56667,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Goble Hodan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677267,
+        1108757831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":58467
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"a4c2a49dd18626cf9031bda25193d116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757831,
+            "locality_id":1225840173,
+            "region_id":85677267
+        }
+    ],
+    "wof:id":1225840173,
+    "wof:lastmodified":1537020819,
+    "wof:name":"Goble Hodan",
+    "wof:parent_id":1108757831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56667,
+    5.28333,
+    47.56667,
+    5.28333
+],
+  "geometry": {"coordinates":[47.56667,5.28333],"type":"Point"}
+}

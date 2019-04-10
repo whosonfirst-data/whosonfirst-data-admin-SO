@@ -1,0 +1,71 @@
+{
+  "id": 1293119821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78259,-1.34,41.78259,-1.34",
+    "geom:latitude":-1.34,
+    "geom:longitude":41.78259,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sheeka Lasaay",
+    "gn:country_code":"SO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51862,
+    "gn:latitude":-1.34,
+    "gn:longitude":41.78259,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sheeka Lasaay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Sheeka Lasaay"
+    ],
+    "name:und_x_variant":[
+        "Ciacalassai",
+        "Isciaca Lassai",
+        "Sheeka Lassay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51862
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"7e5c9b0fcdd1082bf20935918560a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293119821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293119821,
+    "wof:lastmodified":1537701201,
+    "wof:name":"Sheeka Lasaay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78259,
+    -1.34,
+    41.78259,
+    -1.34
+],
+  "geometry": {"coordinates":[41.78259,-1.34],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260275763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0714,3.28693,43.0714,3.28693",
+    "geom:latitude":3.28693,
+    "geom:longitude":43.0714,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ceel Dheere",
+    "gn:country_code":"SO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931861,
+    "gn:latitude":3.28693,
+    "gn:longitude":43.0714,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ceel Dheere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Ceel Dheere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931861
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"11bb0362c7e2b5eb64739e8df226c630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757899,
+            "locality_id":1260275763,
+            "region_id":85677249
+        }
+    ],
+    "wof:id":1260275763,
+    "wof:lastmodified":1537701359,
+    "wof:name":"Ceel Dheere",
+    "wof:parent_id":1108757899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0714,
+    3.28693,
+    43.0714,
+    3.28693
+],
+  "geometry": {"coordinates":[43.0714,3.28693],"type":"Point"}
+}

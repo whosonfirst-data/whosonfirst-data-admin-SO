@@ -1,0 +1,70 @@
+{
+  "id": 1309776991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79664,2.39546,44.79664,2.39546",
+    "geom:latitude":2.39546,
+    "geom:longitude":44.79664,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mareerta",
+    "gn:country_code":"SO",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":54251,
+    "gn:latitude":2.39546,
+    "gn:longitude":44.79664,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mareerta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Mareerta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54251
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"2f0d6f48a11590727dcc7ea91436cd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1309776991,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1309776991,
+    "wof:lastmodified":1537701230,
+    "wof:name":"Mareerta",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79664,
+    2.39546,
+    44.79664,
+    2.39546
+],
+  "geometry": {"coordinates":[44.79664,2.39546],"type":"Point"}
+}

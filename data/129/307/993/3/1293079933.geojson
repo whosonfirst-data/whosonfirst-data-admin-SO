@@ -1,0 +1,70 @@
+{
+  "id": 1293079933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16944,2.76993,45.16944,2.76993",
+    "geom:latitude":2.76993,
+    "geom:longitude":45.16944,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Soohane",
+    "gn:country_code":"SO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":51531,
+    "gn:latitude":2.76993,
+    "gn:longitude":45.16944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Soohane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Soohane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677259,
+        1108757903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":51531
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"f1c8985ce9ff022222df3cd2e6d84bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757903,
+            "locality_id":1293079933,
+            "region_id":85677259
+        }
+    ],
+    "wof:id":1293079933,
+    "wof:lastmodified":1537701197,
+    "wof:name":"Soohane",
+    "wof:parent_id":1108757903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16944,
+    2.76993,
+    45.16944,
+    2.76993
+],
+  "geometry": {"coordinates":[45.16944,2.76993],"type":"Point"}
+}

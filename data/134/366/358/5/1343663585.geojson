@@ -1,0 +1,67 @@
+{
+  "id": 1343663585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.35,10.28333,50.35,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":50.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Darinne",
+    "gn:country_code":"SO",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":61780,
+    "gn:latitude":10.28333,
+    "gn:longitude":50.35,
+    "gn:modification_date":"1994-02-25",
+    "gn:name":"Darinne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677235,
+        1108757855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":61780
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"dd49772219b1c58031246a234eafb73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757855,
+            "locality_id":1343663585,
+            "region_id":85677235
+        }
+    ],
+    "wof:id":1343663585,
+    "wof:lastmodified":1536950780,
+    "wof:name":"Darinne",
+    "wof:parent_id":1108757855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.35,
+    10.28333,
+    50.35,
+    10.28333
+],
+  "geometry": {"coordinates":[50.35,10.28333],"type":"Point"}
+}

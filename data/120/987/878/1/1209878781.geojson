@@ -1,0 +1,71 @@
+{
+  "id": 1209878781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85414,8.65995,45.85414,8.65995",
+    "geom:latitude":8.65995,
+    "geom:longitude":45.85414,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Here",
+    "gn:country_code":"SO",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":57134,
+    "gn:latitude":8.65995,
+    "gn:longitude":45.85414,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Here",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khere",
+        "Here"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421194355,
+        1108757813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":57134
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cf7ef6d8eb6fb40585bed48340522a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757813,
+            "locality_id":1209878781,
+            "region_id":421194355
+        }
+    ],
+    "wof:id":1209878781,
+    "wof:lastmodified":1537701261,
+    "wof:name":"Here",
+    "wof:parent_id":1108757813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85414,
+    8.65995,
+    45.85414,
+    8.65995
+],
+  "geometry": {"coordinates":[45.85414,8.65995],"type":"Point"}
+}

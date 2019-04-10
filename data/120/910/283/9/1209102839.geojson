@@ -1,0 +1,65 @@
+{
+  "id": 1209102839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55669,1.15806,42.55669,1.15806",
+    "geom:latitude":1.15806,
+    "geom:longitude":42.55669,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bu Buule",
+    "gn:country_code":"SO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":63947,
+    "gn:latitude":1.15806,
+    "gn:longitude":42.55669,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bu Buule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bunle",
+        "Bu Buule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":63947
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"cc5054ccc1d1342fb1097810d1dce7b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632379,
+            "locality_id":1209102839
+        }
+    ],
+    "wof:id":1209102839,
+    "wof:lastmodified":1537701332,
+    "wof:name":"Bu Buule",
+    "wof:parent_id":85632379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55669,
+    1.15806,
+    42.55669,
+    1.15806
+],
+  "geometry": {"coordinates":[42.55669,1.15806],"type":"Point"}
+}

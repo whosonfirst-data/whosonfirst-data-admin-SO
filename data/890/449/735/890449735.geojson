@@ -1,0 +1,66 @@
+{
+  "id": 890449735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.44066,1.62794,42.44066,1.62794",
+    "geom:latitude":1.62794,
+    "geom:longitude":42.44066,
+    "gn:country":"SO",
+    "gn:fcode":"PPL",
+    "gn:pop":7893,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Saacow",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677253,
+        1108757933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":52381,
+        "gp:id":1428898,
+        "qs:id":57297
+    },
+    "wof:country":"SO",
+    "wof:created":1469052706,
+    "wof:geomhash":"4295ad82795a4a954b0f758e09e5d12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757933,
+            "locality_id":890449735,
+            "region_id":85677253
+        }
+    ],
+    "wof:id":890449735,
+    "wof:lastmodified":1505343630,
+    "wof:name":"Saacow",
+    "wof:parent_id":1108757933,
+    "wof:placetype":"locality",
+    "wof:population":7893,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.44066,
+    1.62794,
+    42.44066,
+    1.62794
+],
+  "geometry": {"coordinates":[42.44066,1.62794],"type":"Point"}
+}

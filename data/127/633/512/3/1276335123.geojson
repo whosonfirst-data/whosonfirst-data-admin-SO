@@ -1,0 +1,70 @@
+{
+  "id": 1276335123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10651,2.69302,44.10651,2.69302",
+    "geom:latitude":2.69302,
+    "geom:longitude":44.10651,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abaar Yoma",
+    "gn:country_code":"SO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66030,
+    "gn:latitude":2.69302,
+    "gn:longitude":44.10651,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Abaar Yoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Abaar Yoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677245,
+        1108757891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66030
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"c1b00023656079246f648a99e07d6fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757891,
+            "locality_id":1276335123,
+            "region_id":85677245
+        }
+    ],
+    "wof:id":1276335123,
+    "wof:lastmodified":1537701356,
+    "wof:name":"Abaar Yoma",
+    "wof:parent_id":1108757891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10651,
+    2.69302,
+    44.10651,
+    2.69302
+],
+  "geometry": {"coordinates":[44.10651,2.69302],"type":"Point"}
+}

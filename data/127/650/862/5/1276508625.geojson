@@ -1,0 +1,71 @@
+{
+  "id": 1276508625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34348,9.7177,43.34348,9.7177",
+    "geom:latitude":9.7177,
+    "geom:longitude":43.34348,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Waxaralis",
+    "gn:country_code":"SO",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":50468,
+    "gn:latitude":9.7177,
+    "gn:longitude":43.34348,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Waxaralis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uakharalis",
+        "Waxaralis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632733,
+        421176583,
+        1108757917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":50468
+    },
+    "wof:country":"SO",
+    "wof:geomhash":"fc9b9a3692df30d2258a9bedb967e615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632733,
+            "county_id":1108757917,
+            "locality_id":1276508625,
+            "region_id":421176583
+        }
+    ],
+    "wof:id":1276508625,
+    "wof:lastmodified":1537701182,
+    "wof:name":"Waxaralis",
+    "wof:parent_id":1108757917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-so",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34348,
+    9.7177,
+    43.34348,
+    9.7177
+],
+  "geometry": {"coordinates":[43.34348,9.7177],"type":"Point"}
+}
