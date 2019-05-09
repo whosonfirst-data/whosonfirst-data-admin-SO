@@ -10,6 +10,12 @@
     "geom:latitude":1.935267,
     "geom:longitude":44.448959,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Qoryooley District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.915557,
     "lbl:longitude":44.480589,
     "meso:adm1_en":"Shabelle Hoose",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757885,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718692,
     "wof:name":"Qoryooley",
     "wof:parent_id":85677259,
     "wof:placetype":"county",

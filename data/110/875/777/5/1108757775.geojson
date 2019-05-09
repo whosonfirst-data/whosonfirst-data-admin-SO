@@ -10,6 +10,12 @@
     "geom:latitude":2.101398,
     "geom:longitude":41.70577,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Baardheere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.029926,
     "lbl:longitude":41.371565,
     "meso:adm1_en":"Gedo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757775,
-    "wof:lastmodified":1536615723,
+    "wof:lastmodified":1553718690,
     "wof:name":"Baardheere",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

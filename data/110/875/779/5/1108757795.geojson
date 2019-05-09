@@ -10,6 +10,12 @@
     "geom:latitude":4.793216,
     "geom:longitude":47.833681,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Xarardheere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.816073,
     "lbl:longitude":47.841145,
     "meso:adm1_en":"Mudug",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757795,
-    "wof:lastmodified":1536615724,
+    "wof:lastmodified":1553718690,
     "wof:name":"Xarardheere",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

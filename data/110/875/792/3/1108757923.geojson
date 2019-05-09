@@ -10,6 +10,12 @@
     "geom:latitude":2.815078,
     "geom:longitude":42.840253,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Qansax Dheere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.817169,
     "lbl:longitude":42.840253,
     "meso:adm1_en":"Bay",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757923,
-    "wof:lastmodified":1536615728,
+    "wof:lastmodified":1553718693,
     "wof:name":"Qansax Dheere",
     "wof:parent_id":85677245,
     "wof:placetype":"county",

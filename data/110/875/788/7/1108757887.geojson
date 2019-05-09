@@ -10,6 +10,12 @@
     "geom:latitude":1.6748,
     "geom:longitude":44.066103,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Kurtunwaarey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.660228,
     "lbl:longitude":44.066123,
     "meso:adm1_en":"Shabelle Hoose",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757887,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718692,
     "wof:name":"Kurtunwaarey",
     "wof:parent_id":85677259,
     "wof:placetype":"county",

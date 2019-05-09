@@ -10,6 +10,12 @@
     "geom:latitude":3.265937,
     "geom:longitude":43.639346,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Baydhaba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.226572,
     "lbl:longitude":43.578704,
     "meso:adm1_en":"Bay",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757837,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Baydhaba",
     "wof:parent_id":85677245,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.933782,
     "geom:longitude":47.68208,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Gaalkacyo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.137137,
     "lbl:longitude":47.916501,
     "meso:adm1_en":"Mudug",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757815,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718690,
     "wof:name":"Gaalkacyo",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

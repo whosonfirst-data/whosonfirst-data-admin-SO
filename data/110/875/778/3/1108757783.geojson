@@ -10,6 +10,12 @@
     "geom:latitude":3.090775,
     "geom:longitude":46.26315,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Cadale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.117859,
     "lbl:longitude":46.255421,
     "meso:adm1_en":"Shabelle Dhexe",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757783,
-    "wof:lastmodified":1536615723,
+    "wof:lastmodified":1553718690,
     "wof:name":"Cadale",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

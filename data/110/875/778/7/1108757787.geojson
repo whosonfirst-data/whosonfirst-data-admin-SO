@@ -10,6 +10,12 @@
     "geom:latitude":2.679094,
     "geom:longitude":41.44484,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceel Waaq District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.67495,
     "lbl:longitude":41.435522,
     "meso:adm1_en":"Gedo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757787,
-    "wof:lastmodified":1536615724,
+    "wof:lastmodified":1553718690,
     "wof:name":"Ceel Waaq",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

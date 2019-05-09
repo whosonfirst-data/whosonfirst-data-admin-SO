@@ -10,6 +10,12 @@
     "geom:latitude":0.644501,
     "geom:longitude":43.0567,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Jilib District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.63903,
     "lbl:longitude":43.065271,
     "meso:adm1_en":"Juba Dhexe",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757859,
-    "wof:lastmodified":1536615726,
+    "wof:lastmodified":1553718691,
     "wof:name":"Jilib",
     "wof:parent_id":85677253,
     "wof:placetype":"county",

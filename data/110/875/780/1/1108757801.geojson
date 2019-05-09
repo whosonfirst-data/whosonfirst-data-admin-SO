@@ -10,6 +10,12 @@
     "geom:latitude":10.922333,
     "geom:longitude":49.399378,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Bossaso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.932845,
     "lbl:longitude":49.399411,
     "meso:adm1_en":"Bari",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757801,
-    "wof:lastmodified":1536615724,
+    "wof:lastmodified":1553718690,
     "wof:name":"Bossaso",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.124194,
     "geom:longitude":42.803067,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Jamaame District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.130338,
     "lbl:longitude":42.780586,
     "meso:adm1_en":"Juba Hoose",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757857,
-    "wof:lastmodified":1536615726,
+    "wof:lastmodified":1553718691,
     "wof:name":"Jamaame",
     "wof:parent_id":85677287,
     "wof:placetype":"county",

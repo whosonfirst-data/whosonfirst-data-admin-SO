@@ -10,6 +10,12 @@
     "geom:latitude":4.760423,
     "geom:longitude":46.841316,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceel Buur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.760201,
     "lbl:longitude":46.841307,
     "meso:adm1_en":"Galgaduud",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757827,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Ceel Buur",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

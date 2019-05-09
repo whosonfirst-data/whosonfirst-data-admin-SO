@@ -10,6 +10,12 @@
     "geom:latitude":4.672414,
     "geom:longitude":44.002249,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceel Barde District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.698878,
     "lbl:longitude":44.064744,
     "meso:adm1_en":"Bakool",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757823,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Ceel Barde",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

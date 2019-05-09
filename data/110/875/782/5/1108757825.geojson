@@ -10,6 +10,12 @@
     "geom:latitude":3.900639,
     "geom:longitude":45.532394,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Bulo Burto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.939616,
     "lbl:longitude":45.548113,
     "meso:adm1_en":"Hiraan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757825,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Bulo Burto",
     "wof:parent_id":85677269,
     "wof:placetype":"county",

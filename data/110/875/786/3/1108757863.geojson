@@ -10,6 +10,12 @@
     "geom:latitude":3.403749,
     "geom:longitude":45.612717,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Jalalaqsi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.393654,
     "lbl:longitude":45.604113,
     "meso:adm1_en":"Hiraan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757863,
-    "wof:lastmodified":1536615726,
+    "wof:lastmodified":1553718692,
     "wof:name":"Jalalaqsi",
     "wof:parent_id":85677269,
     "wof:placetype":"county",

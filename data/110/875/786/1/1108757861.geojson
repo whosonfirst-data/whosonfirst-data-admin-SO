@@ -10,6 +10,12 @@
     "geom:latitude":2.993306,
     "geom:longitude":45.568166,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Jowhar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.97683,
     "lbl:longitude":45.604023,
     "meso:adm1_en":"Shabelle Dhexe",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757861,
-    "wof:lastmodified":1536615726,
+    "wof:lastmodified":1553718692,
     "wof:name":"Jowhar",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

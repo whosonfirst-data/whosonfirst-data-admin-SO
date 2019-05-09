@@ -10,6 +10,12 @@
     "geom:latitude":3.835358,
     "geom:longitude":44.5292,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Tayeeglow District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.840342,
     "lbl:longitude":44.54293,
     "meso:adm1_en":"Bakool",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757897,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718693,
     "wof:name":"Tayeeglow",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

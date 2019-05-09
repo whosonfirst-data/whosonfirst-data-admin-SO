@@ -10,6 +10,12 @@
     "geom:latitude":6.131398,
     "geom:longitude":47.036439,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Cadaado District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.109656,
     "lbl:longitude":47.026067,
     "meso:adm1_en":"Galgaduud",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757829,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Cadaado",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

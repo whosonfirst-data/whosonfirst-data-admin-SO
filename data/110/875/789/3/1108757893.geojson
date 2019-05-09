@@ -10,6 +10,12 @@
     "geom:latitude":1.383572,
     "geom:longitude":43.519833,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Sablaale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.390421,
     "lbl:longitude":43.519789,
     "meso:adm1_en":"Shabelle Hoose",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757893,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718692,
     "wof:name":"Sablaale",
     "wof:parent_id":85677259,
     "wof:placetype":"county",

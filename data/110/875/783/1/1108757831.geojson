@@ -10,6 +10,12 @@
     "geom:latitude":5.440949,
     "geom:longitude":46.684474,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Dhuusamarreeb District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.501748,
     "lbl:longitude":46.762603,
     "meso:adm1_en":"Galgaduud",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757831,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Dhuusamarreeb",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

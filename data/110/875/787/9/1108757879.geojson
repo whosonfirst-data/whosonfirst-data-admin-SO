@@ -10,6 +10,12 @@
     "geom:latitude":9.502567,
     "geom:longitude":49.507468,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Qardho District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.497748,
     "lbl:longitude":49.569911,
     "meso:adm1_en":"Bari",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757879,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718692,
     "wof:name":"Qardho",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

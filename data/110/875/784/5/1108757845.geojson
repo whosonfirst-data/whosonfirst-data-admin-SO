@@ -10,6 +10,12 @@
     "geom:latitude":3.205833,
     "geom:longitude":42.359062,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Garbahaarey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.206701,
     "lbl:longitude":42.291109,
     "meso:adm1_en":"Gedo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757845,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Garbahaarey",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

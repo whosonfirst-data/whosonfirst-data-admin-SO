@@ -10,6 +10,12 @@
     "geom:latitude":8.470265,
     "geom:longitude":48.786582,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Garoowe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.439774,
     "lbl:longitude":48.796023,
     "meso:adm1_en":"Nugaal",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757881,
-    "wof:lastmodified":1536615727,
+    "wof:lastmodified":1553718692,
     "wof:name":"Garoowe",
     "wof:parent_id":85677283,
     "wof:placetype":"county",

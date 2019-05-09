@@ -10,6 +10,12 @@
     "geom:latitude":4.051872,
     "geom:longitude":47.048384,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Ceel Dheer District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.033625,
     "lbl:longitude":47.03739,
     "meso:adm1_en":"Galgaduud",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757785,
-    "wof:lastmodified":1536615724,
+    "wof:lastmodified":1553718690,
     "wof:name":"Ceel Dheer",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.802108,
     "geom:longitude":48.401765,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Burtinle District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.794687,
     "lbl:longitude":48.401738,
     "meso:adm1_en":"Nugaal",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757921,
-    "wof:lastmodified":1536615728,
+    "wof:lastmodified":1553718693,
     "wof:name":"Burtinle",
     "wof:parent_id":85677283,
     "wof:placetype":"county",

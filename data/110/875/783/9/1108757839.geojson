@@ -10,6 +10,12 @@
     "geom:latitude":2.102073,
     "geom:longitude":42.901818,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Diinsoor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.170478,
     "lbl:longitude":42.840182,
     "meso:adm1_en":"Bay",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757839,
-    "wof:lastmodified":1536615725,
+    "wof:lastmodified":1553718691,
     "wof:name":"Diinsoor",
     "wof:parent_id":85677245,
     "wof:placetype":"county",

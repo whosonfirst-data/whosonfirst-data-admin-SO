@@ -10,6 +10,12 @@
     "geom:latitude":2.488654,
     "geom:longitude":45.659396,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Balcad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.493641,
     "lbl:longitude":45.651816,
     "meso:adm1_en":"Shabelle Dhexe",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757777,
-    "wof:lastmodified":1536615723,
+    "wof:lastmodified":1553718689,
     "wof:name":"Balcad",
     "wof:parent_id":85677275,
     "wof:placetype":"county",
