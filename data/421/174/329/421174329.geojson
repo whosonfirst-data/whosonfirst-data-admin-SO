@@ -13,22 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u5eab\u8212\u73ed"
-    ],
     "name:deu_x_preferred":[
-        "Iskushuban"
-    ],
-    "name:dut_x_preferred":[
         "Iskushuban"
     ],
     "name:eng_x_preferred":[
         "Iskushuban"
     ],
-    "name:fre_x_preferred":[
-        "Iskushuban"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Iskushuban"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +45,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u06a9\u0648\u0634\u0648\u0628\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u5eab\u8212\u73ed"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421174329,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561844139,
     "wof:name":"Iskushuban",
     "wof:parent_id":1108757855,
     "wof:placetype":"locality",

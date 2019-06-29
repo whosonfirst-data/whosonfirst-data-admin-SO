@@ -23,20 +23,11 @@
     "name:deu_x_preferred":[
         "Buurhakaba"
     ],
-    "name:dut_x_preferred":[
-        "Burhakaba"
-    ],
     "name:eng_x_preferred":[
         "Burhakaba"
     ],
     "name:fra_x_preferred":[
         "Buur Hakaba"
-    ],
-    "name:fre_x_preferred":[
-        "Buur Hakaba"
-    ],
-    "name:ger_x_preferred":[
-        "Buurhakaba"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0942\u0930\u094d\u0939\u0915\u092c\u093e"
@@ -50,6 +41,9 @@
     "name:kor_x_preferred":[
         "\ubd80\ub974\ud558\uce74\ubc14"
     ],
+    "name:nld_x_preferred":[
+        "Burhakaba"
+    ],
     "name:pol_x_preferred":[
         "Buur Gaabo"
     ],
@@ -57,9 +51,6 @@
         "Buurhakaba"
     ],
     "name:ron_x_preferred":[
-        "Buurhakaba"
-    ],
-    "name:rum_x_preferred":[
         "Buurhakaba"
     ],
     "name:rus_x_preferred":[
@@ -217,7 +208,7 @@
         }
     ],
     "wof:id":421188185,
-    "wof:lastmodified":1527716299,
+    "wof:lastmodified":1561844139,
     "wof:name":"Buurhakaba",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

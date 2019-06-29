@@ -26,8 +26,11 @@
     "name:dan_x_preferred":[
         "Gardo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qardho"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Qardho"
@@ -35,14 +38,8 @@
     "name:fin_x_preferred":[
         "Qardho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Qardho"
-    ],
-    "name:ger_x_preferred":[
-        "Qardho"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03ac\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0aa7\u0acb"
@@ -74,7 +71,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0930\u094d\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Qardho"
+    ],
+    "name:nld_x_preferred":[
         "Qardho"
     ],
     "name:nob_x_preferred":[
@@ -86,7 +86,7 @@
     "name:por_x_preferred":[
         "Qardho"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Qardho"
     ],
     "name:rus_x_preferred":[
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":1141907255,
-    "wof:lastmodified":1514505573,
+    "wof:lastmodified":1561844143,
     "wof:name":"Qardho",
     "wof:parent_id":1108757879,
     "wof:placetype":"locality",

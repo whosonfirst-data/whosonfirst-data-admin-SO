@@ -28,8 +28,8 @@
     "name:deu_x_preferred":[
         "Afgooye"
     ],
-    "name:dut_x_preferred":[
-        "Afgooye"
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03b3\u03ba\u03cc\u03b3\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Afgooye"
@@ -39,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Afgooye"
-    ],
-    "name:fre_x_preferred":[
-        "Afgooye"
-    ],
-    "name:ger_x_preferred":[
-        "Afgooye"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c6\u03b3\u03ba\u03cc\u03b3\u03b9\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aab\u0ac7\u0a97\u0ac9\u0aaf"
@@ -79,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u090d\u092b\u0917\u094b\u092f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Afgooye"
+    ],
+    "name:nld_x_preferred":[
         "Afgooye"
     ],
     "name:nob_x_preferred":[
@@ -92,9 +86,6 @@
         "Afgooye"
     ],
     "name:ron_x_preferred":[
-        "Afgooye"
-    ],
-    "name:rum_x_preferred":[
         "Afgooye"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +175,7 @@
         }
     ],
     "wof:id":421199053,
-    "wof:lastmodified":1527716411,
+    "wof:lastmodified":1561844139,
     "wof:name":"Afgooye",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

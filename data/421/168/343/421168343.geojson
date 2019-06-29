@@ -20,16 +20,10 @@
     "name:deu_x_preferred":[
         "Luuq"
     ],
-    "name:dut_x_preferred":[
-        "Luuq"
-    ],
     "name:eng_x_preferred":[
         "Luuq"
     ],
-    "name:fre_x_preferred":[
-        "Luuq"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Luuq"
     ],
     "name:hin_x_preferred":[
@@ -44,6 +38,9 @@
     "name:kor_x_preferred":[
         "\ub8e8\ud06c"
     ],
+    "name:nld_x_preferred":[
+        "Luuq"
+    ],
     "name:pol_x_preferred":[
         "Luuq"
     ],
@@ -51,9 +48,6 @@
         "Luuq"
     ],
     "name:ron_x_preferred":[
-        "Luuq"
-    ],
-    "name:rum_x_preferred":[
         "Luuq"
     ],
     "name:rus_x_preferred":[
@@ -211,7 +205,7 @@
         }
     ],
     "wof:id":421168343,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1561844139,
     "wof:name":"Luuq",
     "wof:parent_id":1108757899,
     "wof:placetype":"locality",
