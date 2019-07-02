@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Mogadisjoe"
     ],
-    "name:alb_x_preferred":[
-        "Mogadishu"
-    ],
     "name:amh_x_preferred":[
         "\u121e\u1243\u12f2\u123e"
     ],
@@ -40,17 +37,11 @@
     "name:arg_x_preferred":[
         "Mogadixo"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0563\u0561\u0564\u056b\u0577\u0578"
-    ],
     "name:ast_x_preferred":[
         "Mogadixu"
     ],
     "name:aze_x_preferred":[
         "Moqadi\u015fo"
-    ],
-    "name:baq_x_preferred":[
-        "Muqdisho"
     ],
     "name:bcl_x_preferred":[
         "Mogadishu"
@@ -85,26 +76,23 @@
     "name:ces_x_preferred":[
         "Mogadi\u0161u"
     ],
+    "name:ces_x_variant":[
+        "Mogadi\u0161o"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u6469\u52a0\u8fea\u4f11"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06c6\u06af\u0627\u062f\u06cc\u0634\u06c6"
     ],
-    "name:cze_x_preferred":[
-        "Mogadi\u0161o"
+    "name:cym_x_preferred":[
+        "Mogadishu"
     ],
     "name:dan_x_preferred":[
         "Mogadishu"
     ],
     "name:deu_x_preferred":[
         "Mogadischu"
-    ],
-    "name:dut_x_preferred":[
-        "Mogadishu"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03ba\u03bd\u03c4\u03af\u03c3\u03bf"
@@ -139,20 +127,11 @@
     "name:fra_x_preferred":[
         "Mogadiscio"
     ],
-    "name:fre_x_preferred":[
-        "Mogadiscio"
-    ],
     "name:frr_x_preferred":[
         "Mogadischu"
     ],
     "name:fry_x_preferred":[
         "Mogadisj\u00fb"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d2\u10d0\u10d3\u10d8\u10e8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Mogadischu"
     ],
     "name:gla_x_preferred":[
         "Mogadishu"
@@ -162,9 +141,6 @@
     ],
     "name:glg_x_preferred":[
         "Mogadixo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03b3\u03ba\u03b1\u03bd\u03c4\u03af\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a97\u0aa6\u0abf\u0ab6\u0ac1"
@@ -195,9 +171,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0563\u0561\u0564\u056b\u0577\u0578"
-    ],
-    "name:ice_x_preferred":[
-        "M\u00f3gadisj\u00fa"
     ],
     "name:ido_x_preferred":[
         "Mogadishu"
@@ -271,17 +244,11 @@
     "name:ltz_x_preferred":[
         "Mogadischu"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u0443"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d17\u0d3e\u0d26\u0d3f\u0d37\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0917\u093e\u0926\u093f\u0936\u0942"
-    ],
-    "name:may_x_preferred":[
-        "Mogadishu"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u0443"
@@ -291,6 +258,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Mogadishu"
     ],
     "name:nan_x_preferred":[
         "Mogadishu"
@@ -322,9 +292,6 @@
     "name:pap_x_preferred":[
         "Mogadishu"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06af\u0627\u062f\u06cc\u0634\u0648"
-    ],
     "name:pms_x_preferred":[
         "Mogadiss"
     ],
@@ -340,7 +307,7 @@
     "name:que_x_preferred":[
         "Mugadishu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mogadishu"
     ],
     "name:rus_x_preferred":[
@@ -358,9 +325,6 @@
     "name:slk_x_variant":[
         "Mogadi\u0161o"
     ],
-    "name:slo_x_preferred":[
-        "Mogadi\u0161o"
-    ],
     "name:slv_x_preferred":[
         "Mogadi\u0161"
     ],
@@ -372,6 +336,9 @@
     ],
     "name:spa_x_preferred":[
         "Mogadiscio"
+    ],
+    "name:sqi_x_preferred":[
+        "Mogadishu"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u0443"
@@ -396,9 +363,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e01\u0e32\u0e14\u0e34\u0e0a\u0e39"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f7c\u0f0b\u0f42\u0f0b\u0f51\u0f72\u0f0b\u0f64\u0f74\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Mogadi\u015fu"
@@ -431,9 +395,6 @@
         "Mogadishu"
     ],
     "name:war_x_preferred":[
-        "Mogadishu"
-    ],
-    "name:wel_x_preferred":[
         "Mogadishu"
     ],
     "name:wol_x_preferred":[
@@ -589,7 +550,7 @@
         }
     ],
     "wof:id":890449737,
-    "wof:lastmodified":1552519486,
+    "wof:lastmodified":1561844140,
     "wof:name":"Mogadishu",
     "wof:parent_id":1108757805,
     "wof:placetype":"locality",

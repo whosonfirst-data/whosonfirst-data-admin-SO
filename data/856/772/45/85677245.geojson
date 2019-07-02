@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.569857,
-    "geom:area_square_m":44092568444.746208,
+    "geom:area_square_m":44092568444.746719,
     "geom:bbox":"42.4008232203,1.46148943945,44.6908379882,3.92192041205",
     "geom:latitude":2.654661,
     "geom:longitude":43.56683,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Bay"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Bay"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Baay"
     ],
     "name:deu_x_preferred":[
         "Bay"
     ],
-    "name:dut_x_preferred":[
-        "Bay"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bay"
@@ -68,18 +62,6 @@
     ],
     "name:fra_x_preferred":[
         "Bay"
-    ],
-    "name:fre_x_preferred":[
-        "Bay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7"
@@ -117,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bay"
     ],
     "name:nld_x_preferred":[
@@ -133,9 +115,6 @@
         "Bay"
     ],
     "name:ron_x_preferred":[
-        "Bay"
-    ],
-    "name:rum_x_preferred":[
         "Bay"
     ],
     "name:rus_x_preferred":[
@@ -306,7 +285,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561844129,
     "wof:name":"Bay",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

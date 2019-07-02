@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0628\u064a\u0644\u064a \u0627\u0644\u0633\u0641\u0644\u0649"
     ],
-    "name:baq_x_preferred":[
-        "Shabeellaha Hoose"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09af\u09bc\u09be\u09b0 \u09b6\u09c7\u09ac\u09be\u09b0\u09c7\u09b2"
     ],
@@ -39,14 +36,14 @@
     "name:cat_x_preferred":[
         "Shabeellaha Hoose"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0b\u8b1d\u8c9d\u5229\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Shabeellaha Hoose"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shabeellaha Hoose"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bf\u03c5\u03b5\u03c1 \u03a3\u03ad\u03bc\u03c0\u03b5\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Shabeellaha Hoose"
@@ -59,23 +56,14 @@
     "name:epo_x_preferred":[
         "Shabeellaha Hoose"
     ],
+    "name:eus_x_preferred":[
+        "Shabeellaha Hoose"
+    ],
     "name:fin_x_preferred":[
         "Shabeellaha Hoose"
     ],
     "name:fra_x_preferred":[
         "Shabeellaha Hoose"
-    ],
-    "name:fre_x_preferred":[
-        "Shabeellaha Hoose"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d5\u10d4\u10db\u10dd \u10e8\u10d0\u10d1\u10d4\u10da\u10d4\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shabeellaha Hoose"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03cc\u03bf\u03c5\u03b5\u03c1 \u03a3\u03ad\u03bc\u03c0\u03b5\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab5\u0ab0 \u0ab6\u0ac7\u0aac\u0ac7\u0ab2"
@@ -98,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0ccb\u0caf\u0cb0\u0ccd \u0cb6\u0cc6\u0cac\u0cc6\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10e8\u10d0\u10d1\u10d4\u10da\u10d4\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0e4\ubca8\ub77c\ud558\ud638\uc138 \uc8fc"
     ],
@@ -110,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u0905\u0930 \u0936\u0947\u092c\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lower Shebelle"
+    ],
+    "name:nld_x_preferred":[
+        "Shabeellaha Hoose"
     ],
     "name:nob_x_preferred":[
         "Nedre Shebelle"
@@ -122,7 +116,7 @@
     "name:por_x_preferred":[
         "Shabeellaha Hoose"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shabeellaha Hoose"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1 Shebelle"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8b1d\u8c9d\u5229\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -292,7 +289,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1553550552,
+    "wof:lastmodified":1561844128,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

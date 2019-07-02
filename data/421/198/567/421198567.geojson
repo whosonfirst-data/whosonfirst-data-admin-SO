@@ -16,26 +16,23 @@
     "name:deu_x_preferred":[
         "Jalalaqsi"
     ],
-    "name:dut_x_preferred":[
-        "Jalalaqsi"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bb\u03b1\u03bb\u03b1\u03b3\u03ba\u03c3\u03af\u03c2"
     ],
     "name:eng_x_preferred":[
         "Jalalaqsi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jalalaqsi"
-    ],
-    "name:ger_x_preferred":[
-        "Jalalaqsi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bb\u03b1\u03bb\u03b1\u03b3\u03ba\u03c3\u03af\u03c2"
     ],
     "name:ita_x_preferred":[
         "Gialalassi"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30e9\u30af\u30b7"
+    ],
+    "name:nld_x_preferred":[
+        "Jalalaqsi"
     ],
     "name:nno_x_preferred":[
         "Jalalaqsi"
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":421198567,
-    "wof:lastmodified":1527716347,
+    "wof:lastmodified":1561844139,
     "wof:name":"Gialalassi",
     "wof:parent_id":1108757863,
     "wof:placetype":"locality",

@@ -14,17 +14,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buur Gaabo"
     ],
     "name:eng_x_preferred":[
         "Buur Gaabo"
     ],
-    "name:ger_x_preferred":[
-        "Buur Gaabo"
-    ],
     "name:ita_x_preferred":[
         "Burgao"
+    ],
+    "name:nld_x_preferred":[
+        "Buur Gaabo"
     ],
     "name:som_x_preferred":[
         "Buur Gaabo"
@@ -173,7 +173,7 @@
         }
     ],
     "wof:id":421168611,
-    "wof:lastmodified":1514505533,
+    "wof:lastmodified":1561844139,
     "wof:name":"Buur Gaabo",
     "wof:parent_id":1108757927,
     "wof:placetype":"locality",

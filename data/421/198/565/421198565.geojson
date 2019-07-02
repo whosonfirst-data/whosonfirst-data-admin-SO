@@ -32,20 +32,14 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u043b\u044c\u043a\u0430\u0439\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u52d2\u5361\u7d04"
-    ],
-    "name:cze_x_preferred":[
-        "Gaalkayo"
-    ],
     "name:dan_x_preferred":[
         "Gaalkacyo"
     ],
     "name:deu_x_preferred":[
         "Gaalkacyo"
     ],
-    "name:dut_x_preferred":[
-        "Galcaio"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bb\u03ba\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Gaalkacyo"
@@ -62,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Gaal Kacyo"
-    ],
-    "name:fre_x_preferred":[
-        "Gaal Kacyo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d9\u10d0\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Gaalkacyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bb\u03ba\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0ab2\u0a95\u0abe\u0aaf\u0acb"
@@ -114,11 +96,14 @@
     "name:mar_x_preferred":[
         "\u0917\u0901\u0932\u094d\u0915\u093e\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Galkayo"
     ],
     "name:nld_x_preferred":[
         "Galkayo"
+    ],
+    "name:nld_x_variant":[
+        "Galcaio"
     ],
     "name:nob_x_preferred":[
         "Galkacyo"
@@ -130,9 +115,6 @@
         "Gaalkacyo"
     ],
     "name:ron_x_preferred":[
-        "Gaalkacyo"
-    ],
-    "name:rum_x_preferred":[
         "Gaalkacyo"
     ],
     "name:rus_x_preferred":[
@@ -319,7 +301,7 @@
         }
     ],
     "wof:id":421198565,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1561844139,
     "wof:name":"Gaalkacyo",
     "wof:parent_id":1108757815,
     "wof:placetype":"locality",

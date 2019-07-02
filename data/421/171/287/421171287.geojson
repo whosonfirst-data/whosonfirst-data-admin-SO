@@ -14,14 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Bayla"
+    "name:deu_x_preferred":[
+        "Bandarbeyla"
     ],
     "name:eng_x_preferred":[
         "Bayla"
     ],
-    "name:ger_x_preferred":[
-        "Bandarbeyla"
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0628\u06cc\u0644\u0627"
     ],
     "name:ita_x_preferred":[
         "Bender Beila"
@@ -29,13 +29,13 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30e9"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u062f\u0631 \u0628\u06cc\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Bayla"
     ],
     "name:pol_x_preferred":[
         "Bandar Beyla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bandar Beyla"
     ],
     "name:som_x_preferred":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":421171287,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1561844140,
     "wof:name":"Bender Beyla",
     "wof:parent_id":1108757779,
     "wof:placetype":"locality",

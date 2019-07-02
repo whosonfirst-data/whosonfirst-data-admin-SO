@@ -19,17 +19,11 @@
     "name:deu_x_preferred":[
         "Buulobarde"
     ],
-    "name:dut_x_preferred":[
-        "Buloburde"
-    ],
     "name:eng_x_preferred":[
         "Buloburde"
     ],
     "name:epo_x_preferred":[
         "Buuloburde"
-    ],
-    "name:ger_x_preferred":[
-        "Buulobarde"
     ],
     "name:ita_x_preferred":[
         "Bulo Burti"
@@ -37,13 +31,13 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ed\u30d6\u30eb\u30c7"
     ],
+    "name:nld_x_preferred":[
+        "Buloburde"
+    ],
     "name:pol_x_preferred":[
         "Buuloburde"
     ],
     "name:ron_x_preferred":[
-        "Buulaburte"
-    ],
-    "name:rum_x_preferred":[
         "Buulaburte"
     ],
     "name:som_x_preferred":[
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":421178405,
-    "wof:lastmodified":1527717726,
+    "wof:lastmodified":1561844140,
     "wof:name":"Buulobarde",
     "wof:parent_id":1108757825,
     "wof:placetype":"locality",

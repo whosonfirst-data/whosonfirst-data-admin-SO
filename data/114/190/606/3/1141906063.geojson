@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Xuddur"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u675c\u723e"
-    ],
     "name:dan_x_preferred":[
         "Hudur"
     ],
-    "name:dut_x_preferred":[
-        "Xuddur"
+    "name:deu_x_preferred":[
+        "Huddur"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Hudur"
@@ -41,14 +41,8 @@
     "name:fin_x_preferred":[
         "Xuddur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hudur"
-    ],
-    "name:ger_x_preferred":[
-        "Huddur"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aa1\u0ac1\u0ab0"
@@ -80,8 +74,11 @@
     "name:mar_x_preferred":[
         "\u0939\u0941\u0921\u0942\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hudur"
+    ],
+    "name:nld_x_preferred":[
+        "Xuddur"
     ],
     "name:nob_x_preferred":[
         "Hudur"
@@ -92,7 +89,7 @@
     "name:por_x_preferred":[
         "Xuddur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Xuddur"
     ],
     "name:rus_x_preferred":[
@@ -130,6 +127,9 @@
     ],
     "name:vie_x_preferred":[
         "Hudur"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u675c\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1141906063,
-    "wof:lastmodified":1553816734,
+    "wof:lastmodified":1561844144,
     "wof:name":"Hudur",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",

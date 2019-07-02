@@ -19,22 +19,13 @@
     "name:cat_x_preferred":[
         "Dhusa Mareb"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u85a9\u99ac\u96f7\u535c"
-    ],
     "name:deu_x_preferred":[
         "Dhuusamarreeb"
-    ],
-    "name:dut_x_preferred":[
-        "Dhuusa Marreeb"
     ],
     "name:eng_x_preferred":[
         "Dusa Marreb"
     ],
     "name:fin_x_preferred":[
-        "Dhuusamarreeb"
-    ],
-    "name:ger_x_preferred":[
         "Dhuusamarreeb"
     ],
     "name:ita_x_preferred":[
@@ -56,9 +47,6 @@
         "Dusa Mareb"
     ],
     "name:ron_x_preferred":[
-        "Dhuusamarreeb"
-    ],
-    "name:rum_x_preferred":[
         "Dhuusamarreeb"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":421205419,
-    "wof:lastmodified":1527716219,
+    "wof:lastmodified":1561844139,
     "wof:name":"Dhuusamarreeb",
     "wof:parent_id":1108757831,
     "wof:placetype":"locality",
