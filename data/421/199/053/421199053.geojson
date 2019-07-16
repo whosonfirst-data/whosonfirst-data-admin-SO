@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Afgooye"
     ],
+    "name:ceb_x_preferred":[
+        "Afgooye"
+    ],
     "name:dan_x_preferred":[
         "Afgooye"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Afgooye"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0641\u06af\u0648\u06cc\u0647"
     ],
     "name:fin_x_preferred":[
         "Afgooye"
@@ -100,6 +106,9 @@
     "name:spa_x_preferred":[
         "Afgooye"
     ],
+    "name:swa_x_preferred":[
+        "Afgooye"
+    ],
     "name:swe_x_preferred":[
         "Afgooye"
     ],
@@ -126,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Afgooye"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5f17\u6208\u8036"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPLA2",
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":421199053,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280568,
     "wof:name":"Afgooye",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

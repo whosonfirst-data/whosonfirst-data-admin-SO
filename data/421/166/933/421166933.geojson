@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09cd\u09b0\u09bf\u0993\u09b2\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Qoryooley"
+    ],
     "name:dan_x_preferred":[
         "Qoryooley"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fin_x_preferred":[
         "Qoryoley"
+    ],
+    "name:fra_x_preferred":[
+        "Qoryooley"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a93\u0ab0\u0acb\u0ab2\u0ac0"
@@ -79,6 +85,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u044c\u043e\u043b\u0435\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0440\u0443\u043b\u0435\u0439"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0dd2\u0d94\u0dbd\u0dda"
     ],
@@ -86,6 +95,9 @@
         "Qoryooley"
     ],
     "name:spa_x_preferred":[
+        "Qoryooley"
+    ],
+    "name:swa_x_preferred":[
         "Qoryooley"
     ],
     "name:swe_x_preferred":[
@@ -114,6 +126,9 @@
     ],
     "name:vie_x_preferred":[
         "Qoryoley"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u91cc\u7531\u96f7"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPLA2",
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":421166933,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280558,
     "wof:name":"Qoryooley",
     "wof:parent_id":1108757885,
     "wof:placetype":"locality",

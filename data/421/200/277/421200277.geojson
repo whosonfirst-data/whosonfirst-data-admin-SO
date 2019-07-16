@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0419\u0435\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Yeed"
+    ],
     "name:eng_x_preferred":[
         "Yeed"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u062f"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u5fb7"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421200277,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280569,
     "wof:name":"Yeed",
     "wof:parent_id":1108757911,
     "wof:placetype":"locality",

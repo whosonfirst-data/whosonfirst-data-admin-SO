@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Jowhar"
     ],
+    "name:ceb_x_preferred":[
+        "Jawhar"
+    ],
     "name:ces_x_preferred":[
         "Jowhar"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Giohar"
+    ],
+    "name:eng_x_variant":[
+        "Jowhar"
     ],
     "name:epo_x_preferred":[
         "Jawhar"
@@ -128,6 +134,9 @@
     ],
     "name:spa_x_preferred":[
         "Jowhar"
+    ],
+    "name:swa_x_preferred":[
+        "Jawhar"
     ],
     "name:swe_x_preferred":[
         "Jowhar"
@@ -304,7 +313,7 @@
         }
     ],
     "wof:id":421203857,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280561,
     "wof:name":"Jawhar",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

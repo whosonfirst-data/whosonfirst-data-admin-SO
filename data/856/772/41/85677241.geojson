@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Bakool"
     ],
+    "name:ceb_x_preferred":[
+        "Gobolka Bakool"
+    ],
     "name:dan_x_preferred":[
         "Bakool"
     ],
@@ -282,7 +285,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561844130,
+    "wof:lastmodified":1563280204,
     "wof:name":"Bakool",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u063a\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u062c\u0627\u0644"
+    ],
+    "name:bar_x_preferred":[
+        "Nugaal"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u0997\u09be\u09b2"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Nugaal"
+    ],
+    "name:ceb_x_preferred":[
+        "Gobolka Nugaal"
     ],
     "name:dan_x_preferred":[
         "Nugaal"
@@ -124,6 +133,9 @@
     "name:som_x_preferred":[
         "Gobolka Nugaal"
     ],
+    "name:som_x_variant":[
+        "Nugaal"
+    ],
     "name:spa_x_preferred":[
         "Nugaal"
     ],
@@ -153,6 +165,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u063a\u0627\u0644\u060c \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u0648\u063a\u0627\u0644"
     ],
     "name:vie_x_preferred":[
         "Nugal"
@@ -286,7 +301,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561844130,
+    "wof:lastmodified":1563280205,
     "wof:name":"Nugaal",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

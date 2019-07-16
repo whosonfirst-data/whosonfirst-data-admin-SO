@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0631"
+    ],
     "name:eng_x_preferred":[
         "El Buur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0631"
     ],
     "name:ita_x_preferred":[
         "El Bur"
@@ -33,6 +39,9 @@
     ],
     "name:som_x_preferred":[
         "Ceel Buur"
+    ],
+    "name:som_x_variant":[
+        "Ceelbuur"
     ],
     "name:tur_x_preferred":[
         "El Buur"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421196797,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280566,
     "wof:name":"El Bur",
     "wof:parent_id":1108757827,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tayeeglow"
+    ],
     "name:eng_x_preferred":[
         "Tiyeglow"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u06d2\u06af\u0644\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u8036\u683c\u6d1b"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421196801,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280567,
     "wof:name":"Tigieglo",
     "wof:parent_id":1108757897,
     "wof:placetype":"locality",
