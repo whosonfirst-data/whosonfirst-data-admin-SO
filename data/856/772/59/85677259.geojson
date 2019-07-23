@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Shabeellaha Hoose"
     ],
+    "name:ceb_x_preferred":[
+        "Gobolka Shabeellaha Hoose"
+    ],
     "name:dan_x_preferred":[
         "Shabeellaha Hoose"
     ],
@@ -289,7 +292,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561844128,
+    "wof:lastmodified":1563280196,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

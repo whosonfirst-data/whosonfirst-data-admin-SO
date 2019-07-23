@@ -12,6 +12,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0648\u0635\u0627\u0635\u0648"
+    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional de Bender Qassim"
     ],
@@ -27,11 +30,20 @@
     "name:ita_x_preferred":[
         "Aeroporto internazionale di Bosaso"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b5\u30bd"
+    ],
     "name:kor_x_preferred":[
         "\ubca4\ub370\ub974 \uce74\uc2ec \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bosaso"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Bosaso"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Bender Qassim"
     ],
     "name:som_x_preferred":[
         "Garoonka Diyaaradaha ee Bender Qaasim"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":102555563,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563280119,
     "wof:name":"Bosaso Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

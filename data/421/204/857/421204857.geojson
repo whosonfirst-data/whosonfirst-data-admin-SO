@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09b2\u09bf\u09ac"
     ],
+    "name:ceb_x_preferred":[
+        "Jilib"
+    ],
     "name:dan_x_preferred":[
         "Jilib"
     ],
@@ -97,6 +100,9 @@
     "name:spa_x_preferred":[
         "Jilib"
     ],
+    "name:swa_x_preferred":[
+        "Jilib"
+    ],
     "name:swe_x_preferred":[
         "Jilib"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Jilib"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e7e\u5229\u535a"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":421204857,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280561,
     "wof:name":"Jilib",
     "wof:parent_id":1108757859,
     "wof:placetype":"locality",

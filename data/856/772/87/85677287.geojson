@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Jubbada Hoose"
     ],
+    "name:ceb_x_preferred":[
+        "Gobolka Jubbada Hoose"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed D\u017euba"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab5\u0ab0 \u0a9c\u0ac1\u0aac\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05d1\u05d4 \u05ea\u05d7\u05ea\u05d9\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u0928\u093f\u091a\u0932\u093e \u091c\u0941\u092c\u093e"
@@ -124,6 +130,9 @@
     ],
     "name:som_x_preferred":[
         "Gobolka Jubbada Hoose"
+    ],
+    "name:som_x_variant":[
+        "Jubbada Hoose"
     ],
     "name:spa_x_preferred":[
         "Jubbada Hoose"
@@ -283,7 +292,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561844129,
+    "wof:lastmodified":1563280200,
     "wof:name":"Jubbada Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

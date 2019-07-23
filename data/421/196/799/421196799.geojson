@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Harardhere"
     ],
+    "name:ceb_x_preferred":[
+        "Xarardheere"
+    ],
     "name:deu_x_preferred":[
         "Harardheere"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421196799,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280566,
     "wof:name":"Harardera",
     "wof:parent_id":1108757795,
     "wof:placetype":"locality",

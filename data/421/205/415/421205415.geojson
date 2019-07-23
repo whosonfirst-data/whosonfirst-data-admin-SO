@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Baidoa"
     ],
+    "name:ceb_x_preferred":[
+        "Baidoa"
+    ],
+    "name:ces_x_preferred":[
+        "Baidoa"
+    ],
     "name:dan_x_preferred":[
         "Baidoa"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:est_x_preferred":[
         "Baydhabo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Baidoa"
@@ -123,6 +132,9 @@
         "Baydhabo"
     ],
     "name:spa_x_preferred":[
+        "Baidoa"
+    ],
+    "name:swa_x_preferred":[
         "Baidoa"
     ],
     "name:swe_x_preferred":[
@@ -297,7 +309,7 @@
         }
     ],
     "wof:id":421205415,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280562,
     "wof:name":"Baydhabo",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

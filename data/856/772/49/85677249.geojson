@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Gedo"
     ],
+    "name:ceb_x_preferred":[
+        "Gobolka Gedo"
+    ],
     "name:dan_x_preferred":[
         "Geedo"
     ],
@@ -288,7 +291,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1561844130,
+    "wof:lastmodified":1563280205,
     "wof:name":"Gedo",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

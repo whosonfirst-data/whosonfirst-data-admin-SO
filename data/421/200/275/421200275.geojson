@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u063a\u0627\u0644"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u0433\u0430\u043b"
     ],
     "name:cat_x_preferred":[
         "Baargaal"
+    ],
+    "name:ceb_x_preferred":[
+        "Bargaal"
     ],
     "name:deu_x_preferred":[
         "Bargaal"
@@ -42,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Bargal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u52a0\u52d2"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421200275,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280569,
     "wof:name":"Bargaal",
     "wof:parent_id":1108757855,
     "wof:placetype":"locality",

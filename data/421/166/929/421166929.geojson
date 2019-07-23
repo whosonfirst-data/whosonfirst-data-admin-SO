@@ -23,11 +23,20 @@
     "name:cat_x_preferred":[
         "Garbahaarreey"
     ],
+    "name:ceb_x_preferred":[
+        "Garbahaarrey"
+    ],
+    "name:dan_x_preferred":[
+        "Garbahaareey"
+    ],
     "name:deu_x_preferred":[
         "Garbahaarrey"
     ],
     "name:eng_x_preferred":[
         "Garbahaareey"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0628\u0647\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Garbahaarrey"
@@ -50,6 +59,9 @@
     "name:pol_x_preferred":[
         "Garbahaarey"
     ],
+    "name:pol_x_variant":[
+        "Garbaharey"
+    ],
     "name:por_x_preferred":[
         "Garbahaarey"
     ],
@@ -63,6 +75,9 @@
         "Garbahaarey"
     ],
     "name:spa_x_preferred":[
+        "Garbahaareey"
+    ],
+    "name:swe_x_preferred":[
         "Garbahaareey"
     ],
     "name:tur_x_preferred":[
@@ -222,7 +237,7 @@
         }
     ],
     "wof:id":421166929,
-    "wof:lastmodified":1561844139,
+    "wof:lastmodified":1563280559,
     "wof:name":"Garbahaarrey",
     "wof:parent_id":1108757845,
     "wof:placetype":"locality",
