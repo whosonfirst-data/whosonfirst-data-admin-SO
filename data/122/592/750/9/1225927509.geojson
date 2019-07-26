@@ -28,6 +28,9 @@
     "name:som_x_preferred":[
         "Muuto"
     ],
+    "name:ukr_x_preferred":[
+        "Muuto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225927509,
-    "wof:lastmodified":1537701222,
+    "wof:lastmodified":1564125637,
     "wof:name":"Muuto",
     "wof:parent_id":1108757883,
     "wof:placetype":"locality",

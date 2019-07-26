@@ -25,6 +25,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Geesaley"
+    ],
     "name:som_x_preferred":[
         "Geesaley"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1277076129,
-    "wof:lastmodified":1537701275,
+    "wof:lastmodified":1564125193,
     "wof:name":"Geesaley",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

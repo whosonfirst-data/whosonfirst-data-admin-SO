@@ -25,10 +25,31 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Doolow"
+    ],
+    "name:ita_x_preferred":[
+        "Dolo"
+    ],
+    "name:por_x_preferred":[
+        "Doolow"
+    ],
+    "name:ron_x_preferred":[
+        "Doolow"
+    ],
+    "name:som_x_preferred":[
+        "Doolow"
+    ],
+    "name:swa_x_preferred":[
+        "Doolow"
+    ],
     "name:und_x_variant":[
         "D\u014dlow",
         "Dolo",
         "Doolow"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1225842655,
-    "wof:lastmodified":1537701296,
+    "wof:lastmodified":1564125713,
     "wof:name":"Doolow",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

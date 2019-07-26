@@ -25,13 +25,28 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Janaale"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0627\u0644\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Genale"
+    ],
     "name:som_x_preferred":[
         "Jannaale"
+    ],
+    "name:som_x_variant":[
+        "Janaale"
     ],
     "name:und_x_variant":[
         "Genale",
         "Janaale",
         "Jannaale"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0627\u0644\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1209694711,
-    "wof:lastmodified":1537701253,
+    "wof:lastmodified":1564125308,
     "wof:name":"Jannaale",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

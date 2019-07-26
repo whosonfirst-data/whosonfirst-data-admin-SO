@@ -33,8 +33,41 @@
     "mps:longitude":43.065271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "Jilib"
+    ],
+    "name:deu_x_preferred":[
+        "Jilib"
+    ],
     "name:eng_x_preferred":[
         "Jilib"
+    ],
+    "name:ita_x_preferred":[
+        "Gelib"
+    ],
+    "name:pol_x_preferred":[
+        "Jilib"
+    ],
+    "name:ron_x_preferred":[
+        "Jilib"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043b\u0438\u0431"
+    ],
+    "name:som_x_preferred":[
+        "Jilib"
+    ],
+    "name:spa_x_preferred":[
+        "Jilib"
+    ],
+    "name:swa_x_preferred":[
+        "Jilib"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0628"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +102,7 @@
         }
     ],
     "wof:id":1108757859,
-    "wof:lastmodified":1553718691,
+    "wof:lastmodified":1564125387,
     "wof:name":"Jilib",
     "wof:parent_id":85677253,
     "wof:placetype":"county",

@@ -36,6 +36,12 @@
     "name:eng_x_preferred":[
         "Sakow"
     ],
+    "name:som_x_preferred":[
+        "Saakow"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06a9\u0648\u0648"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108757933,
-    "wof:lastmodified":1553718693,
+    "wof:lastmodified":1564125392,
     "wof:name":"Saakow",
     "wof:parent_id":85677253,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Carbis"
+    ],
     "name:som_x_preferred":[
         "Carbis"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310188699,
-    "wof:lastmodified":1537701318,
+    "wof:lastmodified":1564125429,
     "wof:name":"Carbis",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

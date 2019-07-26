@@ -25,11 +25,62 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0434\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Xuddur"
+    ],
+    "name:ceb_x_preferred":[
+        "Xuddur"
+    ],
+    "name:deu_x_preferred":[
+        "Huddur"
+    ],
     "name:eng_x_preferred":[
         "Oddur"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u062f\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Xuddur"
+    ],
+    "name:ita_x_preferred":[
+        "Oddur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30c9\u30a5\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\ub450\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Hudur"
+    ],
+    "name:pol_x_preferred":[
+        "Xuddur"
+    ],
+    "name:por_x_preferred":[
+        "Xuddur"
+    ],
+    "name:ron_x_preferred":[
+        "Xuddur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0434\u0434\u0443\u0440"
+    ],
     "name:som_x_preferred":[
         "Xuddur"
+    ],
+    "name:som_x_variant":[
+        "Xudur"
+    ],
+    "name:swa_x_preferred":[
+        "Xuddur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0434\u0434\u0443\u0440"
     ],
     "name:und_x_variant":[
         "H\u00faddur Hadama",
@@ -37,6 +88,12 @@
         "Hudur",
         "Xudur",
         "H\u00faddur Haddama"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0636\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u675c\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -63,7 +120,7 @@
         }
     ],
     "wof:id":1243463999,
-    "wof:lastmodified":1537701175,
+    "wof:lastmodified":1564125538,
     "wof:name":"Xuddur",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",

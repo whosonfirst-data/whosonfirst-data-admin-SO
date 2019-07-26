@@ -28,6 +28,12 @@
     "name:som_x_preferred":[
         "Garadag"
     ],
+    "name:som_x_variant":[
+        "Gar adag"
+    ],
+    "name:srn_x_preferred":[
+        "Garadag"
+    ],
     "name:und_x_variant":[
         "Qaradag",
         "Garadac",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293187921,
-    "wof:lastmodified":1537701280,
+    "wof:lastmodified":1564125169,
     "wof:name":"Garadag",
     "wof:parent_id":1108757819,
     "wof:placetype":"locality",

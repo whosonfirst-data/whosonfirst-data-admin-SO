@@ -36,6 +36,24 @@
     "name:eng_x_preferred":[
         "Burtinle"
     ],
+    "name:ita_x_preferred":[
+        "Burtinle"
+    ],
+    "name:pol_x_preferred":[
+        "Burtinle"
+    ],
+    "name:por_x_preferred":[
+        "Burtinle"
+    ],
+    "name:ron_x_preferred":[
+        "Burtinle"
+    ],
+    "name:som_x_preferred":[
+        "Burtinle"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u062a\u06cc\u0646\u0644"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1108757921,
-    "wof:lastmodified":1553718693,
+    "wof:lastmodified":1564125393,
     "wof:name":"Burtinle",
     "wof:parent_id":85677283,
     "wof:placetype":"county",

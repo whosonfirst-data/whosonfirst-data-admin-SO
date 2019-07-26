@@ -25,8 +25,35 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaambooni"
+    ],
+    "name:fra_x_preferred":[
+        "Ras Kamboni"
+    ],
+    "name:ita_x_preferred":[
+        "Ras Chiambone"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30ab\u30f3\u30dc\u30cb"
+    ],
+    "name:ron_x_preferred":[
+        "Ras Kamboni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441-\u041a\u0430\u043c\u0431\u043e\u043d\u0438"
+    ],
     "name:som_x_preferred":[
         "Kaambooni"
+    ],
+    "name:som_x_variant":[
+        "Ras kambooni"
+    ],
+    "name:spa_x_preferred":[
+        "Ras Kamboni"
+    ],
+    "name:swe_x_preferred":[
+        "Ras Kamboni"
     ],
     "name:und_x_variant":[
         "Raas-Kaambooni",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1209710155,
-    "wof:lastmodified":1537701250,
+    "wof:lastmodified":1564125293,
     "wof:name":"Kaambooni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

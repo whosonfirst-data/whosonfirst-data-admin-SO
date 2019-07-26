@@ -28,6 +28,9 @@
     "name:som_x_preferred":[
         "Laaso Dawaco"
     ],
+    "name:som_x_variant":[
+        "Laaso dawoco"
+    ],
     "name:und_x_variant":[
         "Laz Dau\u00e0",
         "Laasadawoco",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259495157,
-    "wof:lastmodified":1537701241,
+    "wof:lastmodified":1564125610,
     "wof:name":"Laaso Dawaco",
     "wof:parent_id":1108757801,
     "wof:placetype":"locality",

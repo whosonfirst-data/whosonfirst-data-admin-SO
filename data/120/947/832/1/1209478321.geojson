@@ -25,6 +25,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Naar"
+    ],
     "name:som_x_preferred":[
         "Naar"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209478321,
-    "wof:lastmodified":1537701222,
+    "wof:lastmodified":1564125293,
     "wof:name":"Naar",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

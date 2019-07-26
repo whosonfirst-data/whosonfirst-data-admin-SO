@@ -25,6 +25,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Dhaboolaq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276618925,
-    "wof:lastmodified":1536893152,
+    "wof:lastmodified":1564125224,
     "wof:name":"Dhaboolaq",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

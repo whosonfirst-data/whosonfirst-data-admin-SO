@@ -25,7 +25,25 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yaka"
+    ],
+    "name:deu_x_preferred":[
+        "Yaka"
+    ],
+    "name:fra_x_preferred":[
+        "Yaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Yaka"
+    ],
+    "name:ita_x_preferred":[
+        "Yaka"
+    ],
     "name:som_x_preferred":[
+        "Yaka"
+    ],
+    "name:swe_x_preferred":[
         "Yaka"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1309723615,
-    "wof:lastmodified":1537701172,
+    "wof:lastmodified":1564125502,
     "wof:name":"Yaka",
     "wof:parent_id":1108757879,
     "wof:placetype":"locality",

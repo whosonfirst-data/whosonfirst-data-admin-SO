@@ -33,8 +33,83 @@
     "mps:longitude":45.604023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0647\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u043e\u0443\u0445\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Jowhar"
+    ],
+    "name:ceb_x_preferred":[
+        "Jawhar"
+    ],
+    "name:dan_x_preferred":[
+        "Jowhaar"
+    ],
+    "name:deu_x_preferred":[
+        "Jowhar"
+    ],
     "name:eng_x_preferred":[
         "Jowhar"
+    ],
+    "name:epo_x_preferred":[
+        "Jawhar"
+    ],
+    "name:est_x_preferred":[
+        "Jowhar"
+    ],
+    "name:fin_x_preferred":[
+        "Jowhar"
+    ],
+    "name:fra_x_preferred":[
+        "Jowhar"
+    ],
+    "name:ita_x_preferred":[
+        "Giohar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30cf\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc870\ud558\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Jowhar"
+    ],
+    "name:pol_x_preferred":[
+        "Jawhar"
+    ],
+    "name:por_x_preferred":[
+        "Jowhar"
+    ],
+    "name:ron_x_preferred":[
+        "Jowhar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u0443\u0445\u0430\u0440"
+    ],
+    "name:som_x_preferred":[
+        "Jowhar"
+    ],
+    "name:swa_x_preferred":[
+        "Jawhar"
+    ],
+    "name:swe_x_preferred":[
+        "Jowhar"
+    ],
+    "name:tur_x_preferred":[
+        "Cevher"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u043e\u0443\u0445\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u06c1\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u54c8\u5c14"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +144,7 @@
         }
     ],
     "wof:id":1108757861,
-    "wof:lastmodified":1553718692,
+    "wof:lastmodified":1564125395,
     "wof:name":"Jowhar",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

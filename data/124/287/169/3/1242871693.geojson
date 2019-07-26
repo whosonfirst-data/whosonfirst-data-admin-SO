@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Bardeere"
     ],
+    "name:cat_x_variant":[
+        "Bardera"
+    ],
     "name:dan_x_preferred":[
         "Baardheere"
     ],
@@ -37,16 +40,37 @@
     "name:eng_x_preferred":[
         "Bardera"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u062f\u06cc\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Bardera"
+    ],
+    "name:ita_x_preferred":[
+        "Bardera"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30eb\u30c7\u30e9"
     ],
+    "name:lit_x_preferred":[
+        "Barder\u0117"
+    ],
     "name:pol_x_preferred":[
         "Baardheere"
+    ],
+    "name:por_x_preferred":[
+        "Bardera"
+    ],
+    "name:ron_x_preferred":[
+        "Bardera"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0435\u0440\u0435"
     ],
     "name:som_x_preferred":[
+        "Baardheere"
+    ],
+    "name:swa_x_preferred":[
         "Baardheere"
     ],
     "name:ukr_x_preferred":[
@@ -87,7 +111,7 @@
         }
     ],
     "wof:id":1242871693,
-    "wof:lastmodified":1537701346,
+    "wof:lastmodified":1564125520,
     "wof:name":"Bardera",
     "wof:parent_id":1108757775,
     "wof:placetype":"locality",

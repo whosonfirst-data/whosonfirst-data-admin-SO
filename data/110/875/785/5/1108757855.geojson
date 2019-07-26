@@ -33,8 +33,35 @@
     "mps:longitude":50.443842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Iskushuban"
+    ],
+    "name:deu_x_preferred":[
+        "Iskushuban"
+    ],
     "name:eng_x_preferred":[
         "Iskhushuban"
+    ],
+    "name:fra_x_preferred":[
+        "Iskushuban"
+    ],
+    "name:ita_x_preferred":[
+        "Scusciuban"
+    ],
+    "name:nld_x_preferred":[
+        "Iskushuban"
+    ],
+    "name:pol_x_preferred":[
+        "Iskushuban"
+    ],
+    "name:som_x_preferred":[
+        "Iskushuban"
+    ],
+    "name:spa_x_preferred":[
+        "Isku\u0161uban"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u06a9\u0648\u0634\u0648\u0628\u0627\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1108757855,
-    "wof:lastmodified":1553718692,
+    "wof:lastmodified":1564125388,
     "wof:name":"Iskushuban",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

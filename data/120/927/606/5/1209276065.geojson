@@ -25,6 +25,30 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:ces_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:deu_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628\u0633\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:pol_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:ron_x_preferred":[
+        "Arabsiyo"
+    ],
+    "name:som_x_preferred":[
+        "Arabsiyo"
+    ],
     "name:und_x_variant":[
         "Arapsio",
         "Arabsiyo"
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209276065,
-    "wof:lastmodified":1537701351,
+    "wof:lastmodified":1564125315,
     "wof:name":"Arabsiyo",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

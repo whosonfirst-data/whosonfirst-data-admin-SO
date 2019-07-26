@@ -25,6 +25,21 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jariban"
+    ],
+    "name:ita_x_preferred":[
+        "Geriban"
+    ],
+    "name:nld_x_preferred":[
+        "Jariban"
+    ],
+    "name:pol_x_preferred":[
+        "Jaribaan"
+    ],
+    "name:ron_x_preferred":[
+        "Jariban"
+    ],
     "name:som_x_preferred":[
         "Jirriiban"
     ],
@@ -32,6 +47,9 @@
         "Geriban",
         "Jariban",
         "Jirriiban"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u06cc\u0628\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1360069201,
-    "wof:lastmodified":1537701251,
+    "wof:lastmodified":1564125467,
     "wof:name":"Jirriiban",
     "wof:parent_id":1108757919,
     "wof:placetype":"locality",

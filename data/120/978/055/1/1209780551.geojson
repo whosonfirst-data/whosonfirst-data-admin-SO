@@ -25,6 +25,15 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tog Wajaale"
+    ],
+    "name:som_x_preferred":[
+        "Wajaale"
+    ],
+    "name:swe_x_preferred":[
+        "Wajaale"
+    ],
     "name:und_x_variant":[
         "Tug Wajale Post",
         "Tug Wajale",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1209780551,
-    "wof:lastmodified":1537701193,
+    "wof:lastmodified":1564125291,
     "wof:name":"Tog Wajaale",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

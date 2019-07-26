@@ -28,6 +28,9 @@
     "name:som_x_preferred":[
         "Qoorlugud"
     ],
+    "name:som_x_variant":[
+        "Qorilugud"
+    ],
     "name:und_x_variant":[
         "Balleh Qorilugud"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226308597,
-    "wof:lastmodified":1537701215,
+    "wof:lastmodified":1564125699,
     "wof:name":"Qoorlugud",
     "wof:parent_id":1108757843,
     "wof:placetype":"locality",
