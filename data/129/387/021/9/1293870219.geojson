@@ -25,6 +25,18 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Warsheikh"
+    ],
+    "name:ita_x_preferred":[
+        "Uarsceik"
+    ],
+    "name:por_x_preferred":[
+        "Warsheekh"
+    ],
+    "name:ron_x_preferred":[
+        "Warsheikh"
+    ],
     "name:som_x_preferred":[
         "Warshiikh"
     ],
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293870219,
-    "wof:lastmodified":1537701183,
+    "wof:lastmodified":1564125176,
     "wof:name":"Warshiikh",
     "wof:parent_id":1108757777,
     "wof:placetype":"locality",

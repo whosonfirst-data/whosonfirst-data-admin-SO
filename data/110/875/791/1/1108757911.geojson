@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271249,
-    "geom:area_square_m":3344830006.625781,
+    "geom:area_square_m":3344830006.625684,
     "geom:bbox":"42.8804342792,3.94671429829,43.6276750114,4.63667541399",
     "geom:latitude":4.244535,
     "geom:longitude":43.210544,
@@ -27,6 +27,9 @@
     "mps:longitude":43.185294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0631\u0628 \u062f\u0647\u0648\u0631"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108757911,
-    "wof:lastmodified":1512517041,
+    "wof:lastmodified":1564125386,
     "wof:name":"Rab Dhuure",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

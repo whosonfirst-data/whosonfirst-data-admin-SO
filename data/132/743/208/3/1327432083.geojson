@@ -25,8 +25,74 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Kurta"
+    ],
+    "name:deu_x_preferred":[
+        "Kurta"
+    ],
+    "name:fra_x_preferred":[
+        "Kurta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0aad\u0acd\u0aad\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0930\u094d\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kurta"
+    ],
+    "name:ind_x_preferred":[
+        "Kurta"
+    ],
+    "name:ita_x_preferred":[
+        "Kurta"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0941\u0930\u094d\u0924\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0941\u0930\u094d\u0925\u093e \u0938\u0941\u0930\u0941\u0935\u093e\u0932"
+    ],
+    "name:nld_x_preferred":[
+        "Kurta"
+    ],
+    "name:nno_x_preferred":[
+        "Kurta"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a41\u0a5c\u0a24\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Kurta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u0430"
+    ],
     "name:som_x_preferred":[
         "Kurta"
+    ],
+    "name:spa_x_preferred":[
+        "Kurta"
+    ],
+    "name:swe_x_preferred":[
+        "Kurta"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c41\u0c30\u0c4d\u0c24\u0c3e"
+    ],
+    "name:tur_x_preferred":[
+        "Kurta"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10e2\u10d0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +117,7 @@
         }
     ],
     "wof:id":1327432083,
-    "wof:lastmodified":1537701243,
+    "wof:lastmodified":1564125024,
     "wof:name":"Kurta",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

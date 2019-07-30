@@ -25,7 +25,25 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hafun"
+    ],
+    "name:est_x_preferred":[
+        "Xaafuun"
+    ],
+    "name:ita_x_preferred":[
+        "Hafun"
+    ],
+    "name:por_x_preferred":[
+        "Hafun"
+    ],
+    "name:ron_x_preferred":[
+        "Hafun"
+    ],
     "name:som_x_preferred":[
+        "Xaafuun"
+    ],
+    "name:swa_x_preferred":[
         "Xaafuun"
     ],
     "name:und_x_variant":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276125995,
-    "wof:lastmodified":1537701181,
+    "wof:lastmodified":1564125240,
     "wof:name":"Xaafuun",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

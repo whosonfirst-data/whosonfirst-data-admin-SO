@@ -25,6 +25,12 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Tiin"
+    ],
+    "name:spa_x_preferred":[
+        "Tiin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276629425,
-    "wof:lastmodified":1536878568,
+    "wof:lastmodified":1564125254,
     "wof:name":"Tiin",
     "wof:parent_id":1108757917,
     "wof:placetype":"locality",

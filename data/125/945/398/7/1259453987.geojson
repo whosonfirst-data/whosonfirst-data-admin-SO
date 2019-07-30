@@ -26,6 +26,15 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tassin"
+    ],
+    "name:fra_x_preferred":[
+        "Tassin"
+    ],
+    "name:ita_x_preferred":[
+        "Tassin"
+    ],
     "name:und_x_variant":[
         "Tassir",
         "Tassin"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259453987,
-    "wof:lastmodified":1537701195,
+    "wof:lastmodified":1564125629,
     "wof:name":"Tassin",
     "wof:parent_id":1108757809,
     "wof:placetype":"locality",

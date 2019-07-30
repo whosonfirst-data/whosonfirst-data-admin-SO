@@ -25,6 +25,18 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u064a\u0631\u0627\u062f\u0644\u064a"
+    ],
+    "name:por_x_preferred":[
+        "Bandiiradley"
+    ],
+    "name:ron_x_preferred":[
+        "Bandiiradley"
+    ],
+    "name:som_x_preferred":[
+        "Bandiiradley"
+    ],
     "name:und_x_variant":[
         "Balli Ad",
         "Balli Cad",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326625647,
-    "wof:lastmodified":1537701341,
+    "wof:lastmodified":1564125017,
     "wof:name":"Bandiiradley",
     "wof:parent_id":1108757815,
     "wof:placetype":"locality",

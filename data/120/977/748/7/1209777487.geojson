@@ -25,6 +25,12 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baligubadle"
+    ],
+    "name:som_x_preferred":[
+        "Baligubadle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209777487,
-    "wof:lastmodified":1537573756,
+    "wof:lastmodified":1564125284,
     "wof:name":"Baligubadle",
     "wof:parent_id":1108695149,
     "wof:placetype":"locality",

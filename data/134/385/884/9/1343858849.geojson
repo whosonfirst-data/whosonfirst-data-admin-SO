@@ -25,6 +25,9 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Gordan"
+    ],
     "name:som_x_preferred":[
         "Gordan"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343858849,
-    "wof:lastmodified":1537701270,
+    "wof:lastmodified":1564125072,
     "wof:name":"Gordan",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:som_x_preferred":[
         "Olog"
     ],
+    "name:spa_x_preferred":[
+        "Olog"
+    ],
     "name:und_x_variant":[
         "Collog",
         "Olloch",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242679431,
-    "wof:lastmodified":1537701220,
+    "wof:lastmodified":1564125534,
     "wof:name":"Olog",
     "wof:parent_id":1108757803,
     "wof:placetype":"locality",

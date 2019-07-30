@@ -25,6 +25,15 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mahaddei Uen"
+    ],
+    "name:pol_x_preferred":[
+        "Mahadaay"
+    ],
+    "name:som_x_preferred":[
+        "Mahadaay Weyn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1193004475,
-    "wof:lastmodified":1537573756,
+    "wof:lastmodified":1564125337,
     "wof:name":"Mahaday",
     "wof:parent_id":1108757777,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u04ac\u0430\u0440\u0431\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0431\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Tarba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226462599,
-    "wof:lastmodified":1536619118,
+    "wof:lastmodified":1564125693,
     "wof:name":"Tarba",
     "wof:parent_id":1108757841,
     "wof:placetype":"locality",

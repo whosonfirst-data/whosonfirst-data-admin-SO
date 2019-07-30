@@ -25,7 +25,22 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buruc"
+    ],
+    "name:ceb_x_preferred":[
+        "Buruc"
+    ],
+    "name:ita_x_preferred":[
+        "Buruc"
+    ],
+    "name:msa_x_preferred":[
+        "Buruc"
+    ],
     "name:som_x_preferred":[
+        "Buruc"
+    ],
+    "name:swe_x_preferred":[
         "Buruc"
     ],
     "name:und_x_variant":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209426407,
-    "wof:lastmodified":1537701329,
+    "wof:lastmodified":1564125323,
     "wof:name":"Buruc",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

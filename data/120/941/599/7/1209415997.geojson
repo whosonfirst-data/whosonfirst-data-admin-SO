@@ -25,6 +25,15 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Isha"
+    ],
+    "name:swe_x_preferred":[
+        "Isha"
+    ],
+    "name:uzb_x_preferred":[
+        "Xufton namozi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632379
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209415997,
-    "wof:lastmodified":1536287686,
+    "wof:lastmodified":1564125289,
     "wof:name":"Isha",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

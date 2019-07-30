@@ -25,6 +25,12 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fagan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0433\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259773123,
-    "wof:lastmodified":1536938832,
+    "wof:lastmodified":1564125601,
     "wof:name":"Fagan",
     "wof:parent_id":1108757857,
     "wof:placetype":"locality",

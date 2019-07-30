@@ -25,14 +25,35 @@
     "iso:country":"SO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Diinsoor"
+    ],
+    "name:deu_x_preferred":[
+        "Dinsor"
+    ],
+    "name:ita_x_preferred":[
+        "Dinsor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30f3\u30bd\u30fc\u30eb"
+    ],
+    "name:ron_x_preferred":[
+        "Diinsoor"
+    ],
     "name:som_x_preferred":[
         "Diinsoor"
+    ],
+    "name:swa_x_preferred":[
+        "Dinsor"
     ],
     "name:und_x_variant":[
         "Dinsoor",
         "Dinsor",
         "Dhiinsoor",
         "Diinsoor"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0646\u0633\u0648\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1310502097,
-    "wof:lastmodified":1537701298,
+    "wof:lastmodified":1564125444,
     "wof:name":"Diinsoor",
     "wof:parent_id":1108757839,
     "wof:placetype":"locality",
