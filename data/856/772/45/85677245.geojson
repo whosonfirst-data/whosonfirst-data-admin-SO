@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BY"
+    ],
     "lbl:latitude":2.631579,
     "lbl:longitude":43.681258,
     "mps:latitude":2.630189,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85677245,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -291,7 +291,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280199,
+    "wof:lastmodified":1565736698,
     "wof:name":"Bay",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

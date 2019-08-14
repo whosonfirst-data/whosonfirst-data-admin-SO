@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":4.428314,
     "lbl:longitude":44.0299,
     "mps:latitude":4.424708,
@@ -274,9 +277,6 @@
         }
     ],
     "wof:id":85677241,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -285,7 +285,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280204,
+    "wof:lastmodified":1565736699,
     "wof:name":"Bakool",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
@@ -294,6 +294,7 @@
     "wof:population":367226,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-so",
+    "wof:shortcode":"BK",
     "wof:subdivision":"SO-BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],

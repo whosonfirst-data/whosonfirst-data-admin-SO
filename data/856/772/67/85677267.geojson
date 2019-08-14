@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":5.215097,
     "lbl:longitude":46.886125,
     "mps:latitude":5.220711,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85677267,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -291,7 +291,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280199,
+    "wof:lastmodified":1565736698,
     "wof:name":"Galguduud",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

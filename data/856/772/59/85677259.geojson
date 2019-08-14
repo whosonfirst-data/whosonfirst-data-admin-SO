@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":1.448857,
     "lbl:longitude":43.808282,
     "mps:latitude":1.449086,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85677259,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -292,7 +292,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280196,
+    "wof:lastmodified":1565736696,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

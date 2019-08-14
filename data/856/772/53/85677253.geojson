@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JD"
+    ],
     "lbl:latitude":0.789008,
     "lbl:longitude":42.990385,
     "mps:latitude":0.781812,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85677253,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -291,7 +291,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280201,
+    "wof:lastmodified":1565736698,
     "wof:name":"Juba Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

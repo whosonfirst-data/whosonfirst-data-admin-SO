@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HI"
+    ],
     "lbl:latitude":4.218047,
     "lbl:longitude":45.455744,
     "mps:latitude":4.240729,
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85677269,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -295,7 +295,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280198,
+    "wof:lastmodified":1565736698,
     "wof:name":"Hiiraan",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

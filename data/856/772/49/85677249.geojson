@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GE"
+    ],
     "lbl:latitude":2.867972,
     "lbl:longitude":41.908207,
     "mps:latitude":2.866479,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85677249,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -291,7 +291,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280205,
+    "wof:lastmodified":1565736699,
     "wof:name":"Gedo",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

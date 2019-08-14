@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":2.809211,
     "lbl:longitude":45.784146,
     "mps:latitude":2.822276,
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85677275,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -296,7 +296,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280201,
+    "wof:lastmodified":1565736698,
     "wof:name":"Shabeellaha Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

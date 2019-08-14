@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JH"
+    ],
     "lbl:latitude":0.125578,
     "lbl:longitude":41.821765,
     "mps:latitude":0.112367,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85677287,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -292,7 +292,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280200,
+    "wof:lastmodified":1565736698,
     "wof:name":"Jubbada Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

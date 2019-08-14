@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MU"
+    ],
     "lbl:latitude":6.593733,
     "lbl:longitude":48.301708,
     "mps:latitude":6.597047,
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85677279,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -298,7 +298,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280203,
+    "wof:lastmodified":1565736699,
     "wof:name":"Mudug",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

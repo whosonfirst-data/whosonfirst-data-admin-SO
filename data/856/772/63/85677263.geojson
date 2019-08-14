@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":2.111981,
     "lbl:longitude":45.410321,
     "mps:latitude":2.113078,
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85677263,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -297,7 +297,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280202,
+    "wof:lastmodified":1565736699,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

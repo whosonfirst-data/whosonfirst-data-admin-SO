@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":10.268411,
     "lbl:longitude":49.950034,
     "mps:latitude":10.259068,
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85677235,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -296,7 +296,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280197,
+    "wof:lastmodified":1565736697,
     "wof:name":"Bari",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

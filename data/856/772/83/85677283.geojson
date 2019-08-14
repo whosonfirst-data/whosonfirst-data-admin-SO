@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NU"
+    ],
     "lbl:latitude":8.220248,
     "lbl:longitude":48.806235,
     "mps:latitude":8.260432,
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85677283,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -301,7 +301,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1563280205,
+    "wof:lastmodified":1565736699,
     "wof:name":"Nugaal",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
