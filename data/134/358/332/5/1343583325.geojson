@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.44667,4.16333,42.48667,4.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0112ygad\u00e1lay",
         "Eg\u00e0 Dal\u00e8",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1343583325,
-    "wof:lastmodified":1537701292,
+    "wof:lastmodified":1566649301,
     "wof:name":"Eeygadhalay",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

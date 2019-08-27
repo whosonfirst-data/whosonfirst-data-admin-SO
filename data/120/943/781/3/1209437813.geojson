@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"46.65639,5.67201,46.69639,5.71201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Gadoon"
     ],
     "name:und_x_variant":[
-        "God\u00f2n",
-        "Gadoon"
+        "God\u00f2n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209437813,
-    "wof:lastmodified":1537701284,
+    "wof:lastmodified":1566649506,
     "wof:name":"Gadoon",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

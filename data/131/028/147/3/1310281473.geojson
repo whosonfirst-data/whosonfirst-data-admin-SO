@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.39155,2.83681,45.43155,2.87681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Libaaxle"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310281473,
-    "wof:lastmodified":1537701237,
+    "wof:lastmodified":1566649597,
     "wof:name":"Libaaxle",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

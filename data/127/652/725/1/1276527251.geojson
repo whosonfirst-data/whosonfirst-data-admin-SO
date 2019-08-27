@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.35481,2.77221,45.39481,2.81221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Guumeysle"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276527251,
-    "wof:lastmodified":1537701266,
+    "wof:lastmodified":1566649440,
     "wof:name":"Guumeysle",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

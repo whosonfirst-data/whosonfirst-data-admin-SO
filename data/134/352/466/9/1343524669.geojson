@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"48.02161,7.85071,48.06161,7.89071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Jallam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343524669,
-    "wof:lastmodified":1537701254,
+    "wof:lastmodified":1566649267,
     "wof:name":"Jallam",
     "wof:parent_id":1108757921,
     "wof:placetype":"locality",

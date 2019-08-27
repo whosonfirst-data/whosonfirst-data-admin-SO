@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"41.1974,-1.15694,41.2374,-1.11694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Kolbiyow"
     ],
     "name:und_x_variant":[
         "Colbio",
         "Kolbio",
-        "Kolbiyow",
         "Kulbiyow"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276430755,
-    "wof:lastmodified":1537701246,
+    "wof:lastmodified":1566649400,
     "wof:name":"Kolbiyow",
     "wof:parent_id":1108757927,
     "wof:placetype":"locality",

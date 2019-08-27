@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.52247,3.16293,45.56247,3.20293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Eji"
     ],
     "name:und_x_variant":[
-        "Eggi",
-        "Eji"
+        "Eggi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260157409,
-    "wof:lastmodified":1537701292,
+    "wof:lastmodified":1566649531,
     "wof:name":"Eji",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

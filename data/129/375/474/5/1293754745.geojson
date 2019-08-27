@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.30775,1.42809,44.34775,1.46809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Marian Guwaay"
     ],
     "name:und_x_variant":[
-        "Merin Gubai",
-        "Marian Guwaay"
+        "Merin Gubai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293754745,
-    "wof:lastmodified":1537701230,
+    "wof:lastmodified":1566649387,
     "wof:name":"Marian Guwaay",
     "wof:parent_id":1108757809,
     "wof:placetype":"locality",

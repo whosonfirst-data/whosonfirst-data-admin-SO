@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":5.215097,
     "lbl:longitude":46.886125,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.220711,
     "mps:longitude":46.876076,
     "mz:hierarchy_label":1,
@@ -156,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0433\u0443\u0434\u0443\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of Galgaduud"
     ],
     "name:urd_x_preferred":[
@@ -240,9 +241,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"43,000",
     "statoids:area_mi":"17,000",
     "statoids:as_of_date":"2014-01-01",
@@ -268,7 +269,7 @@
         "gp:id":2347010,
         "hasc:id":"SO.GA",
         "iso:id":"SO-GA",
-        "qs:id":229388,
+        "qs_pg:id":229388,
         "unlc:id":"SO-GA",
         "wd:id":"Q876772",
         "wk:page":"Galguduud"
@@ -291,11 +292,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1565736698,
+    "wof:lastmodified":1566649324,
     "wof:name":"Galguduud",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":569434,
     "wof:population_rank":11,

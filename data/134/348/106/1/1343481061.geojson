@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.69922,0.40826,42.73922,0.44826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marerei",
         "Mareerey"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343481061,
-    "wof:lastmodified":1537701230,
+    "wof:lastmodified":1566649284,
     "wof:name":"Mareerey",
     "wof:parent_id":1108757859,
     "wof:placetype":"locality",

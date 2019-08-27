@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":4.428314,
     "lbl:longitude":44.0299,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.424708,
     "mps:longitude":44.020559,
     "mz:hierarchy_label":1,
@@ -150,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of Bakol"
     ],
     "name:urd_x_preferred":[
@@ -234,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"27,000",
     "statoids:area_mi":"10,000",
     "statoids:as_of_date":"2014-01-01",
@@ -262,7 +263,7 @@
         "gp:id":2347006,
         "hasc:id":"SO.BK",
         "iso:id":"SO-BK",
-        "qs:id":191397,
+        "qs_pg:id":191397,
         "unlc:id":"SO-BK",
         "wd:id":"Q282471",
         "wk:page":"Bakool"
@@ -285,11 +286,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1565736699,
+    "wof:lastmodified":1566649326,
     "wof:name":"Bakool",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":367226,
     "wof:population_rank":10,

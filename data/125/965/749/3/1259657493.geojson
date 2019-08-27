@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.2081,2.2489,45.2481,2.2889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Baqdaad"
     ],
     "name:und_x_variant":[
-        "Bagdad",
-        "Baqdaad"
+        "Bagdad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259657493,
-    "wof:lastmodified":1537701340,
+    "wof:lastmodified":1566649722,
     "wof:name":"Baqdaad",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

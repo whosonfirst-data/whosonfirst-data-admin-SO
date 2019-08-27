@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.80333,8.71,44.84333,8.75",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daveboriale",
         "Daba Gorayyale",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326805589,
-    "wof:lastmodified":1537701304,
+    "wof:lastmodified":1566649210,
     "wof:name":"Davegoriale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

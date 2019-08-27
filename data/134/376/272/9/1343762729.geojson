@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.92346,2.94304,43.96346,2.98304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dhumey"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343762729,
-    "wof:lastmodified":1537701299,
+    "wof:lastmodified":1566649290,
     "wof:name":"Dhumey",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

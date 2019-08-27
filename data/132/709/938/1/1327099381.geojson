@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.06333,9.21333,44.10333,9.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hedideleh",
         "Hedidale"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327099381,
-    "wof:lastmodified":1537701262,
+    "wof:lastmodified":1566649203,
     "wof:name":"Hedidale",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.28501,1.91634,42.32501,1.95634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343681817,
-    "wof:lastmodified":1536925001,
+    "wof:lastmodified":1566649298,
     "wof:name":"Gasiile",
     "wof:parent_id":1108757933,
     "wof:placetype":"locality",

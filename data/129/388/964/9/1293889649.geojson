@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.32244,2.71617,44.36244,2.75617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Qardho"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1293889649,
-    "wof:lastmodified":1564125188,
+    "wof:lastmodified":1566649390,
     "wof:name":"Qardho",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"50.9515,11.8994,50.9915,11.9394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Wareegsimo"
     ],
     "name:und_x_variant":[
-        "Ueregs\u00e0mo",
-        "Wareegsimo"
+        "Ueregs\u00e0mo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310312793,
-    "wof:lastmodified":1537701184,
+    "wof:lastmodified":1566649580,
     "wof:name":"Wareegsimo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

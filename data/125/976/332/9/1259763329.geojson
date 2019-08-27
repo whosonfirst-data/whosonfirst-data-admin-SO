@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"46.22313,9.8967,46.26313,9.9367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Ceelal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259763329,
-    "wof:lastmodified":1537701316,
+    "wof:lastmodified":1566649738,
     "wof:name":"Ceelal",
     "wof:parent_id":1108757819,
     "wof:placetype":"locality",

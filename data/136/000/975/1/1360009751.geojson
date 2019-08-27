@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.90816,2.81308,42.94816,2.85308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dure Emed"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360009751,
-    "wof:lastmodified":1537701294,
+    "wof:lastmodified":1566649615,
     "wof:name":"Dure Emed",
     "wof:parent_id":1108757923,
     "wof:placetype":"locality",

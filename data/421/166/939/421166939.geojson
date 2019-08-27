@@ -10,8 +10,12 @@
     "geom:latitude":11.87037,
     "geom:longitude":51.05795,
     "iso:country":"SO",
+    "lbl:bbox":"51.03795,11.85037,51.07795,11.89037",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bareeda District"
@@ -28,7 +32,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e23\u0e35\u0e14\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bar\u0113d\u00e1"
     ],
     "qs:gn_country":"SO",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":64412,
         "gp:id":1425443,
-        "qs:id":122082,
+        "qs_pg:id":122082,
         "wd:id":"Q2679483",
         "wk:page":"Bareeda District"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421166939,
-    "wof:lastmodified":1563280557,
+    "wof:lastmodified":1566649648,
     "wof:name":"Bereda",
     "wof:parent_id":1108757803,
     "wof:placetype":"locality",

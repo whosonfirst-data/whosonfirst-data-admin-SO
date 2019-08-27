@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.1707,3.0087,44.2107,3.0487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Aw Mordi"
     ],
     "name:und_x_variant":[
-        "Au Nordi",
-        "Aw Mordi"
+        "Au Nordi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259689825,
-    "wof:lastmodified":1537701348,
+    "wof:lastmodified":1566649741,
     "wof:name":"Aw Mordi",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

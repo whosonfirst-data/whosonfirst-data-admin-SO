@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.8261,1.0319,43.8661,1.0719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Aysuure"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226513351,
-    "wof:lastmodified":1537701347,
+    "wof:lastmodified":1566649777,
     "wof:name":"Aysuure",
     "wof:parent_id":1108757809,
     "wof:placetype":"locality",

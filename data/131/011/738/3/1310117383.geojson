@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.86507,11.46056,49.90507,11.50056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Magaaloyar"
     ],
     "name:und_x_variant":[
-        "Magalo Ier",
-        "Magaaloyar"
+        "Magalo Ier"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310117383,
-    "wof:lastmodified":1537701234,
+    "wof:lastmodified":1566649592,
     "wof:name":"Magaaloyar",
     "wof:parent_id":1108757931,
     "wof:placetype":"locality",

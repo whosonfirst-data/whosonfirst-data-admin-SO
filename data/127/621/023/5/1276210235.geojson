@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"47.4693,6.4123,47.5093,6.4523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Docol"
     ],
@@ -32,8 +36,7 @@
         "Docol"
     ],
     "name:und_x_variant":[
-        "Dohol Ier\u00e8",
-        "Docol"
+        "Dohol Ier\u00e8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276210235,
-    "wof:lastmodified":1564125202,
+    "wof:lastmodified":1566649404,
     "wof:name":"Docol",
     "wof:parent_id":1108757815,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.48105,9.4079,44.52105,9.4479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Ban-Yaro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293563485,
-    "wof:lastmodified":1537701340,
+    "wof:lastmodified":1566649360,
     "wof:name":"Ban-Yaro",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.89787,9.43041,43.93787,9.47041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fakhday",
         "Fahday"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276414721,
-    "wof:lastmodified":1537701288,
+    "wof:lastmodified":1566649436,
     "wof:name":"Fahday",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

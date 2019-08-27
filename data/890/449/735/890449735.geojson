@@ -11,10 +11,14 @@
     "geom:longitude":42.44066,
     "gn:country":"SO",
     "gn:fcode":"PPL",
-    "gn:pop":7893,
+    "gn:population":7893,
     "iso:country":"SO",
+    "lbl:bbox":"42.42066,1.60794,42.46066,1.64794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Saacow",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":52381,
         "gp:id":1428898,
-        "qs:id":57297
+        "qs_pg:id":57297
     },
     "wof:country":"SO",
     "wof:created":1469052706,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890449735,
-    "wof:lastmodified":1505343630,
+    "wof:lastmodified":1566649652,
     "wof:name":"Saacow",
     "wof:parent_id":1108757933,
     "wof:placetype":"locality",

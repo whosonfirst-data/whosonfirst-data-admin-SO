@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"50.3334,11.61659,50.3734,11.65659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dhurbo"
     ],
     "name:und_x_variant":[
-        "Durbo",
-        "Dhurbo"
+        "Durbo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209417037,
-    "wof:lastmodified":1537701299,
+    "wof:lastmodified":1566649472,
     "wof:name":"Dhurbo",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

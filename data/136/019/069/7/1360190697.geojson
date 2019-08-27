@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.0165,2.90989,44.0565,2.94989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Gumbi"
     ],
     "name:und_x_variant":[
-        "Gumberi",
-        "Gumbi"
+        "Gumberi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360190697,
-    "wof:lastmodified":1537701268,
+    "wof:lastmodified":1566649628,
     "wof:name":"Gumbi",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

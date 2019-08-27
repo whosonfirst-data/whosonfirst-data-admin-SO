@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.94407,2.75683,43.98407,2.79683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Korow"
     ],
     "name:und_x_variant":[
         "Carou Dere",
-        "Korow",
         "Coron Derei"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226143371,
-    "wof:lastmodified":1537701245,
+    "wof:lastmodified":1566649790,
     "wof:name":"Korow",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

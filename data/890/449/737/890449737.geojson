@@ -11,10 +11,12 @@
     "geom:longitude":45.426577,
     "gn:country":"SO",
     "gn:fcode":"PPLC",
-    "gn:pop":2587183,
+    "gn:population":2587183,
     "iso:country":"SO",
     "lbl:latitude":2.03711,
     "lbl:longitude":45.34375,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -409,7 +411,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u0430\u0434\u0456\u0448\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xamar"
     ],
     "name:urd_x_preferred":[
@@ -566,7 +568,7 @@
     "wof:concordances":{
         "gn:id":53654,
         "gp:id":1428499,
-        "qs:id":57324,
+        "qs_pg:id":57324,
         "wd:id":"Q2449",
         "wk:page":"Mogadishu"
     },
@@ -586,7 +588,7 @@
         }
     ],
     "wof:id":890449737,
-    "wof:lastmodified":1563280573,
+    "wof:lastmodified":1566649652,
     "wof:name":"Mogadishu",
     "wof:parent_id":1108757805,
     "wof:placetype":"locality",

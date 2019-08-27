@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.71316,0.13841,42.75316,0.17841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309895365,
-    "wof:lastmodified":1536801973,
+    "wof:lastmodified":1566649645,
     "wof:name":"Faarax",
     "wof:parent_id":1108757857,
     "wof:placetype":"locality",

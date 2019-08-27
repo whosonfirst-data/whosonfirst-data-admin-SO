@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.7633,3.6317,43.8033,3.6717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0634\u064a\u062f\u0629"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1327231995,
-    "wof:lastmodified":1564124995,
+    "wof:lastmodified":1566649226,
     "wof:name":"Kashida",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

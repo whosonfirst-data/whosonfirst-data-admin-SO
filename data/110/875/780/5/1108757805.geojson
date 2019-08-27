@@ -12,6 +12,8 @@
     "iso:country":"SO",
     "lbl:latitude":2.111981,
     "lbl:longitude":45.410321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Banadir",
     "meso:aotm":"AOTM",
     "meso:dissme":"BanadirBanadir",
@@ -27,11 +29,12 @@
     "mps:longitude":45.410321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Banadir"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632379,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108757805,
-    "wof:lastmodified":1564125398,
+    "wof:lastmodified":1566649566,
     "wof:name":"Banadir",
     "wof:parent_id":85677263,
     "wof:placetype":"county",

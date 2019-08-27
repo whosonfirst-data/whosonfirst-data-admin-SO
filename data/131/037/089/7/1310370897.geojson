@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"46.06168,8.57137,46.10168,8.61137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Ballicalanle"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310370897,
-    "wof:lastmodified":1537701357,
+    "wof:lastmodified":1566649585,
     "wof:name":"Ballicalanle",
     "wof:parent_id":1108757813,
     "wof:placetype":"locality",

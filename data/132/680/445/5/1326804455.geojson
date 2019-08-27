@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.11333,10.79667,43.15333,10.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Volla"
     ],
@@ -101,8 +105,7 @@
         "\u0424\u0443\u043b\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Fula",
-        "Fulla"
+        "Fula"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1326804455,
-    "wof:lastmodified":1564124975,
+    "wof:lastmodified":1566649210,
     "wof:name":"Fulla",
     "wof:parent_id":1108757915,
     "wof:placetype":"locality",

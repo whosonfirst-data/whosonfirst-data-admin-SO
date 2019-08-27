@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.2075,9.84899,43.2475,9.88899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goreyaaul",
         "Gorayyaoul\u2019",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277150943,
-    "wof:lastmodified":1537701271,
+    "wof:lastmodified":1566649425,
     "wof:name":"Gorayacowl",
     "wof:parent_id":1108757873,
     "wof:placetype":"locality",

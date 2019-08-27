@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"48.59012,7.13615,48.63012,7.17615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Seemade"
     ],
@@ -32,8 +36,7 @@
         "Seemmade",
         "Seemaade",
         "S\u00e8mmade",
-        "S\u00e8mone",
-        "Seemade"
+        "S\u00e8mone"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326519071,
-    "wof:lastmodified":1537701204,
+    "wof:lastmodified":1566649212,
     "wof:name":"Seemade",
     "wof:parent_id":1108757919,
     "wof:placetype":"locality",

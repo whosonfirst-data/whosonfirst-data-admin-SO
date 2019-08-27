@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.1591,2.6755,44.1991,2.7155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dhaayow"
     ],
     "name:und_x_variant":[
-        "Daio",
-        "Dhaayow"
+        "Daio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243460371,
-    "wof:lastmodified":1537701303,
+    "wof:lastmodified":1566649678,
     "wof:name":"Dhaayow",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

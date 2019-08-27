@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.9257,4.1086,43.9657,4.1486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Faarax"
     ],
     "name:und_x_variant":[
-        "El Farroch",
-        "Faarax"
+        "El Farroch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260197291,
-    "wof:lastmodified":1537701289,
+    "wof:lastmodified":1566649551,
     "wof:name":"Faarax",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",

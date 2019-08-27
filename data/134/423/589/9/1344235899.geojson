@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.7497,1.7566,44.7897,1.7966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Moxamed Nurow"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344235899,
-    "wof:lastmodified":1537701224,
+    "wof:lastmodified":1566649279,
     "wof:name":"Moxamed Nurow",
     "wof:parent_id":1108757883,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.535,
     "geom:longitude":46.38611,
     "iso:country":"SO",
+    "lbl:bbox":"46.36611,5.515,46.40611,5.555",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0648\u0633 \u0645\u0631\u064a\u0628"
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0441\u0430\u043c\u0430\u0440\u0435\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhuusa Mareeb"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":60928,
         "gp:id":1426454,
-        "qs:id":263081,
+        "qs_pg:id":263081,
         "wd:id":"Q634063",
         "wk:page":"Dhusamareb"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421205419,
-    "wof:lastmodified":1563280562,
+    "wof:lastmodified":1566649649,
     "wof:name":"Dhuusamarreeb",
     "wof:parent_id":1108757831,
     "wof:placetype":"locality",

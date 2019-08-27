@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.81597,2.88837,43.85597,2.92837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Qorontoola"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310702325,
-    "wof:lastmodified":1537701215,
+    "wof:lastmodified":1566649571,
     "wof:name":"Qorontoola",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

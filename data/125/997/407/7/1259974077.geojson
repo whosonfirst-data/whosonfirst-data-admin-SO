@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.0752,-0.8626,42.1152,-0.8226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Istanbuul"
     ],
     "name:und_x_variant":[
-        "Stambul",
-        "Istanbuul"
+        "Stambul"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259974077,
-    "wof:lastmodified":1537701255,
+    "wof:lastmodified":1566649725,
     "wof:name":"Istanbuul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

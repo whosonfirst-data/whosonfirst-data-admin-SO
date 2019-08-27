@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"41.8218,2.39723,41.8618,2.43723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Gantamaa"
     ],
@@ -32,8 +36,7 @@
         "Santama",
         "Cat\u00e2ma",
         "Cal\u00e0ma",
-        "Cant\u00e0ma",
-        "Gantamaa"
+        "Cant\u00e0ma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1344154793,
-    "wof:lastmodified":1537701280,
+    "wof:lastmodified":1566649275,
     "wof:name":"Gantamaa",
     "wof:parent_id":1108757775,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.8253,3.2011,43.8653,3.2411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Deeleb"
     ],
     "name:und_x_variant":[
-        "Deleb",
-        "Deeleb"
+        "Deleb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209112365,
-    "wof:lastmodified":1537701304,
+    "wof:lastmodified":1566649491,
     "wof:name":"Deeleb",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

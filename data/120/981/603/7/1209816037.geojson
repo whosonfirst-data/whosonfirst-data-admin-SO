@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.537,3.3504,43.577,3.3904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Buulo Mintaan"
     ],
     "name:und_x_variant":[
-        "Bulo Mintana",
-        "Buulo Mintaan"
+        "Bulo Mintana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209816037,
-    "wof:lastmodified":1537701326,
+    "wof:lastmodified":1566649506,
     "wof:name":"Buulo Mintaan",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",
