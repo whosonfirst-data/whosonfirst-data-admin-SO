@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.59833,0.79278,42.63833,0.83278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632379
@@ -34,7 +38,7 @@
         "gn:id":53661
     },
     "wof:country":"SO",
-    "wof:geomhash":"1f2a9db07f82b5b6ba704d3f81fc0811",
+    "wof:geomhash":"c72f1a2b3db40cbf67838610b539d61b",
     "wof:hierarchy":[
         {
             "country_id":85632379,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209200273,
-    "wof:lastmodified":1536294635,
+    "wof:lastmodified":1566649493,
     "wof:name":"Munfuudhi",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     42.61833,
-    0.8127800000000001,
+    0.81278,
     42.61833,
-    0.8127800000000001
+    0.81278
 ],
   "geometry": {"coordinates":[42.61833,0.81278],"type":"Point"}
 }

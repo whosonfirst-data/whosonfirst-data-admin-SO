@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.29511,1.99393,42.33511,2.03393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anole",
         "Canoole Cise",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293681823,
-    "wof:lastmodified":1537701323,
+    "wof:lastmodified":1566649357,
     "wof:name":"Caanoole",
     "wof:parent_id":1108757775,
     "wof:placetype":"locality",

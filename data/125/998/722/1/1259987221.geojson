@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.49667,10.04667,49.53667,10.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cudo",
         "Kuddo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259987221,
-    "wof:lastmodified":1537701244,
+    "wof:lastmodified":1566649721,
     "wof:name":"Kuddo",
     "wof:parent_id":1108757879,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.44667,2.86333,42.48667,2.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ballei",
         "Ball\u00e9y",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277004071,
-    "wof:lastmodified":1537701343,
+    "wof:lastmodified":1566649396,
     "wof:name":"Balleey",
     "wof:parent_id":1108757845,
     "wof:placetype":"locality",

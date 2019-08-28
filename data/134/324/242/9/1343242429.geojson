@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"48.6624,11.012,48.7024,11.052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Laas Xuliya"
     ],
     "name:und_x_variant":[
-        "Las Hulia",
-        "Laas Xuliya"
+        "Las Hulia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343242429,
-    "wof:lastmodified":1537701241,
+    "wof:lastmodified":1566649286,
     "wof:name":"Laas Xuliya",
     "wof:parent_id":1108757793,
     "wof:placetype":"locality",

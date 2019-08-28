@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"47.09278,6.98917,47.13278,7.02917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293772801,
-    "wof:lastmodified":1536871790,
+    "wof:lastmodified":1566649344,
     "wof:name":"Barri-Fintir",
     "wof:parent_id":1108757865,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.00131,2.37733,45.04131,2.41733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "War Maxan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326701181,
-    "wof:lastmodified":1537701183,
+    "wof:lastmodified":1566649236,
     "wof:name":"War Maxan",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

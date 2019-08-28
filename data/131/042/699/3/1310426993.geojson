@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.16333,3.51333,45.20333,3.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Olomat",
         "Olomal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310426993,
-    "wof:lastmodified":1537701220,
+    "wof:lastmodified":1566649589,
     "wof:name":"Olomal",
     "wof:parent_id":1108757825,
     "wof:placetype":"locality",

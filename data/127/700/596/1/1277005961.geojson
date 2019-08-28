@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.4758,3.1658,43.5158,3.2058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Aroos Xaawa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277005961,
-    "wof:lastmodified":1537701350,
+    "wof:lastmodified":1566649396,
     "wof:name":"Aroos Xaawa",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

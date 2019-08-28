@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.0208,3.0321,44.0608,3.0721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Buulo Xasanow"
     ],
     "name:und_x_variant":[
-        "Bulo Assanei",
-        "Buulo Xasanow"
+        "Bulo Assanei"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326936319,
-    "wof:lastmodified":1537701325,
+    "wof:lastmodified":1566649215,
     "wof:name":"Buulo Xasanow",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

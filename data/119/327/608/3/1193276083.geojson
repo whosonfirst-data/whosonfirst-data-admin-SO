@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.0763,2.8472,44.1163,2.8872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Jameeco Aaminey"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193276083,
-    "wof:lastmodified":1537701254,
+    "wof:lastmodified":1566649526,
     "wof:name":"Jameeco Aaminey",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

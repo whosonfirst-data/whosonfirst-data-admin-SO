@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.91333,9.93,49.95333,9.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angorti Dalmadol",
         "Angorti Dalmadot"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310013325,
-    "wof:lastmodified":1537701352,
+    "wof:lastmodified":1566649587,
     "wof:name":"Angorti Dalmadot",
     "wof:parent_id":1108757855,
     "wof:placetype":"locality",

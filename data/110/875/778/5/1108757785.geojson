@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.033625,
     "lbl:longitude":47.03739,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Galgaduud",
     "meso:aotm":"AOTM",
     "meso:dissme":"Ceel DheerGalgaduud",
@@ -33,11 +35,12 @@
     "mps:longitude":47.03739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ceeldeer"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108757785,
-    "wof:lastmodified":1553718690,
+    "wof:lastmodified":1566649555,
     "wof:name":"Ceel Dheer",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

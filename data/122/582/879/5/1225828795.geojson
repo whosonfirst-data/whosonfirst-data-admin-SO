@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.1789,2.1787,45.2189,2.2187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Aw Gooye"
     ],
     "name:und_x_variant":[
         "Gial\u00ed",
-        "Agi Al\u00ed",
-        "Aw Gooye"
+        "Agi Al\u00ed"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1225828795,
-    "wof:lastmodified":1537701349,
+    "wof:lastmodified":1566649818,
     "wof:name":"Aw Gooye",
     "wof:parent_id":1108757807,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"41.5126,-0.8743,41.5526,-0.8343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Obbe"
     ],
     "name:und_x_variant":[
-        "Obe",
-        "Obbe"
+        "Obe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243539131,
-    "wof:lastmodified":1537701221,
+    "wof:lastmodified":1566649658,
     "wof:name":"Obbe",
     "wof:parent_id":1108757927,
     "wof:placetype":"locality",

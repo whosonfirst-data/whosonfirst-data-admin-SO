@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.06333,4.59667,45.10333,4.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bar Medeghe",
         "Bar Madeghe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293386935,
-    "wof:lastmodified":1537701339,
+    "wof:lastmodified":1566649329,
     "wof:name":"Bar Madeghe",
     "wof:parent_id":1108757833,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.70295,2.31747,42.74295,2.35747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adad Gheri",
         "Idad Geeri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243387405,
-    "wof:lastmodified":1537701258,
+    "wof:lastmodified":1566649654,
     "wof:name":"Idad Geeri",
     "wof:parent_id":1108757839,
     "wof:placetype":"locality",

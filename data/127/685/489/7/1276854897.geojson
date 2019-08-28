@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"47.65793,4.9318,47.69793,4.9718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Miliqo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276854897,
-    "wof:lastmodified":1537701226,
+    "wof:lastmodified":1566649431,
     "wof:name":"Miliqo",
     "wof:parent_id":1108757795,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.9372,2.7926,43.9772,2.8326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Garriida"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310310931,
-    "wof:lastmodified":1537701277,
+    "wof:lastmodified":1566649580,
     "wof:name":"Garriida",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

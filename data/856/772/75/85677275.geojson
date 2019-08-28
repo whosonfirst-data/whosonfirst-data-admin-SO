@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":2.809211,
     "lbl:longitude":45.784146,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.822276,
     "mps:longitude":45.832895,
     "mz:hierarchy_label":1,
@@ -148,7 +149,7 @@
         "Shabeellaha Dhexe"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd  \u0bb7\u0bc6\u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bc7"
+        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd \u0bb7\u0bc6\u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c21\u0c3f\u0c32\u0c4d \u0c37\u0c46\u0c2c\u0c3f\u0c32\u0c4d\u0c32\u0c47"
@@ -162,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0434\u043d\u044f \u0428\u0430\u0431\u0435\u043b\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of Central Shabelle"
     ],
     "name:urd_x_preferred":[
@@ -246,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"22,000",
     "statoids:area_mi":"8,000",
     "statoids:as_of_date":"2014-01-01",
@@ -273,7 +274,7 @@
         "gp:id":2347018,
         "hasc:id":"SO.SD",
         "iso:id":"SO-SD",
-        "qs:id":229383,
+        "qs_pg:id":229383,
         "unlc:id":"SO-SD",
         "wd:id":"Q678435",
         "wk:page":"Middle Shebelle"
@@ -296,11 +297,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1565736698,
+    "wof:lastmodified":1566649325,
     "wof:name":"Shabeellaha Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":516036,
     "wof:population_rank":11,

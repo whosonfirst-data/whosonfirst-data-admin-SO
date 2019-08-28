@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.5398,1.7131,44.5798,1.7531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Xuseyn Cawaale"
     ],
     "name:und_x_variant":[
-        "Sciavelle",
-        "Xuseyn Cawaale"
+        "Sciavelle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1193107949,
-    "wof:lastmodified":1537701174,
+    "wof:lastmodified":1566649528,
     "wof:name":"Xuseyn Cawaale",
     "wof:parent_id":1108757885,
     "wof:placetype":"locality",

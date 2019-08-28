@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.50124,1.61359,44.54124,1.65359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Buulo Mareer"
     ],
@@ -33,7 +37,6 @@
         "Buulo Mareerto",
         "B\u016blo Mer\u0113rtoi",
         "Buulo Mareertoi",
-        "Buulo Mareer",
         "Mareer",
         "Bulomarer"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1344028883,
-    "wof:lastmodified":1537701231,
+    "wof:lastmodified":1566649307,
     "wof:name":"Bulo Marer",
     "wof:parent_id":1108757883,
     "wof:placetype":"locality",

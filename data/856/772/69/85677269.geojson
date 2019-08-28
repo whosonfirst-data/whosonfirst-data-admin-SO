@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":4.218047,
     "lbl:longitude":45.455744,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.240729,
     "mps:longitude":45.457173,
     "mz:hierarchy_label":1,
@@ -157,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hiiran"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"34,000",
     "statoids:area_mi":"13,000",
     "statoids:as_of_date":"2014-01-01",
@@ -272,7 +273,7 @@
         "gp:id":2347012,
         "hasc:id":"SO.HI",
         "iso:id":"SO-HI",
-        "qs:id":894983,
+        "qs_pg:id":894983,
         "unlc:id":"SO-HI",
         "wd:id":"Q660040",
         "wk:page":"Hiran, Somalia"
@@ -295,11 +296,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1565736698,
+    "wof:lastmodified":1566649323,
     "wof:name":"Hiiraan",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":520685,
     "wof:population_rank":11,

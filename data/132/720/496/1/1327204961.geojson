@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.1855,1.3307,44.2255,1.3707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Abaq Mudule"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327204961,
-    "wof:lastmodified":1537701356,
+    "wof:lastmodified":1566649256,
     "wof:name":"Abaq Mudule",
     "wof:parent_id":1108757809,
     "wof:placetype":"locality",

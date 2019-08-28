@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.51391,3.12824,45.55391,3.16824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dudunle"
     ],
     "name:und_x_variant":[
-        "Duduble",
-        "Dudunle"
+        "Duduble"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326916563,
-    "wof:lastmodified":1537701294,
+    "wof:lastmodified":1566649246,
     "wof:name":"Dudunle",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

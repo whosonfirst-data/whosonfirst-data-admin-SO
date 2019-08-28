@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.54648,9.66506,43.58648,9.70506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1192992757,
-    "wof:lastmodified":1536379094,
+    "wof:lastmodified":1566649524,
     "wof:name":"Lo'ka-Aroor",
     "wof:parent_id":1108757917,
     "wof:placetype":"locality",

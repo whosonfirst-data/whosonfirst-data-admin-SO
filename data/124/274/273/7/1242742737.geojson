@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.83059,9.62713,43.87059,9.66713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242742737,
-    "wof:lastmodified":1536825055,
+    "wof:lastmodified":1566649663,
     "wof:name":"Udaan",
     "wof:parent_id":1108757849,
     "wof:placetype":"locality",

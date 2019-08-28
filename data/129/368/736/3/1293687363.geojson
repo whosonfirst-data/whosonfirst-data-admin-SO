@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.38621,2.84629,43.42621,2.88629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Korudheer"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293687363,
-    "wof:lastmodified":1537701245,
+    "wof:lastmodified":1566649356,
     "wof:name":"Korudheer",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

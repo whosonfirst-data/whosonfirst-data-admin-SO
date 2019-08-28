@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.0009,1.8462,45.0409,1.8862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Dharooy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209889851,
-    "wof:lastmodified":1537701301,
+    "wof:lastmodified":1566649504,
     "wof:name":"Dharooy",
     "wof:parent_id":1108757883,
     "wof:placetype":"locality",

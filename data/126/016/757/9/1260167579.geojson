@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.49402,2.61446,45.53402,2.65446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Maagey"
     ],
     "name:und_x_variant":[
-        "Maghei",
-        "Maagey"
+        "Maghei"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260167579,
-    "wof:lastmodified":1537701236,
+    "wof:lastmodified":1566649545,
     "wof:name":"Maagey",
     "wof:parent_id":1108757777,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.66299,11.45339,49.70299,11.49339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Buruc"
     ],
@@ -44,8 +48,7 @@
         "Buruc"
     ],
     "name:und_x_variant":[
-        "Bur\u00f2",
-        "Buruc"
+        "Bur\u00f2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209426407,
-    "wof:lastmodified":1564125323,
+    "wof:lastmodified":1566649500,
     "wof:name":"Buruc",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

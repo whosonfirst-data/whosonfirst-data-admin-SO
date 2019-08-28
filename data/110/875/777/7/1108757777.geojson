@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.493641,
     "lbl:longitude":45.651816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Shabelle Dhexe",
     "meso:aotm":"AOTM",
     "meso:dissme":"BalcadShabelle Dhexe",
@@ -33,11 +35,12 @@
     "mps:longitude":45.651816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ballcad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108757777,
-    "wof:lastmodified":1553718689,
+    "wof:lastmodified":1566649559,
     "wof:name":"Balcad",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":4.6544,
     "geom:longitude":47.8575,
     "iso:country":"SO",
+    "lbl:bbox":"47.8375,4.6344,47.8775,4.6744",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Harardhere"
@@ -58,7 +62,7 @@
     "name:spa_x_preferred":[
         "Harardhere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adim"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":50064,
         "gp:id":1427503,
-        "qs:id":1298325,
+        "qs_pg:id":1298325,
         "wd:id":"Q598676",
         "wk:page":"Harardhere"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421196799,
-    "wof:lastmodified":1563280566,
+    "wof:lastmodified":1566649651,
     "wof:name":"Harardera",
     "wof:parent_id":1108757795,
     "wof:placetype":"locality",

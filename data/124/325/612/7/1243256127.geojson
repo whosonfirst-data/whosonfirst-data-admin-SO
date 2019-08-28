@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"41.95192,2.42612,41.99192,2.46612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Siidimo"
     ],
     "name:und_x_variant":[
         "Siddimo",
-        "Sidimo",
-        "Siidimo"
+        "Sidimo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243256127,
-    "wof:lastmodified":1537701198,
+    "wof:lastmodified":1566649685,
     "wof:name":"Siidimo",
     "wof:parent_id":1108757775,
     "wof:placetype":"locality",

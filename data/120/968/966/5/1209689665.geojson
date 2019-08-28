@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.55999,1.6384,44.59999,1.6784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Golweyn"
     ],
     "name:und_x_variant":[
         "Goluein",
-        "Goluin",
-        "Golweyn"
+        "Goluin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209689665,
-    "wof:lastmodified":1537701272,
+    "wof:lastmodified":1566649481,
     "wof:name":"Golweyn",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

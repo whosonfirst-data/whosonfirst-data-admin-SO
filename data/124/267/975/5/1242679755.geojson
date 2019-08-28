@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"50.50247,11.7708,50.54247,11.8108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Xabo"
     ],
     "name:und_x_variant":[
         "Habo",
-        "Abo",
-        "Xabo"
+        "Abo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242679755,
-    "wof:lastmodified":1537701179,
+    "wof:lastmodified":1566649676,
     "wof:name":"Xabo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.87295,3.20465,43.91295,3.24465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Surweyn"
     ],
     "name:und_x_variant":[
         "Sarouen",
         "Suruen",
-        "Sur Uein",
-        "Surweyn"
+        "Sur Uein"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242578471,
-    "wof:lastmodified":1537701195,
+    "wof:lastmodified":1566649669,
     "wof:name":"Surweyn",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

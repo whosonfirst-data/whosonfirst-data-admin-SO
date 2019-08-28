@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.2175,2.8362,44.2575,2.8762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Aw Yarow"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242683827,
-    "wof:lastmodified":1537701348,
+    "wof:lastmodified":1566649670,
     "wof:name":"Aw Yarow",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",

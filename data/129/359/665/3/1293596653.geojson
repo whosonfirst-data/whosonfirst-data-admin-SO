@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.66333,11.06333,49.70333,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daga H\u0101b",
         "Dag\u00e2had",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293596653,
-    "wof:lastmodified":1537701307,
+    "wof:lastmodified":1566649354,
     "wof:name":"Daga Xaab",
     "wof:parent_id":1108757801,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.9571,2.3885,42.9971,2.4285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diinsoor"
     ],
@@ -48,9 +52,7 @@
     ],
     "name:und_x_variant":[
         "Dinsoor",
-        "Dinsor",
-        "Dhiinsoor",
-        "Diinsoor"
+        "Dhiinsoor"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0646\u0633\u0648\u0631"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1310502097,
-    "wof:lastmodified":1564125444,
+    "wof:lastmodified":1566649603,
     "wof:name":"Diinsoor",
     "wof:parent_id":1108757839,
     "wof:placetype":"locality",

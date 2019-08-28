@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"42.57614,0.81008,42.61614,0.85008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mabungo",
         "Jilaalow"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293121037,
-    "wof:lastmodified":1537701251,
+    "wof:lastmodified":1566649348,
     "wof:name":"Jilaalow",
     "wof:parent_id":1108757841,
     "wof:placetype":"locality",

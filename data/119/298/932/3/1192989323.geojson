@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.50228,1.73139,44.54228,1.77139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Far Xaano"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1192989323,
-    "wof:lastmodified":1537701287,
+    "wof:lastmodified":1566649524,
     "wof:name":"Far Xaano",
     "wof:parent_id":1108757885,
     "wof:placetype":"locality",

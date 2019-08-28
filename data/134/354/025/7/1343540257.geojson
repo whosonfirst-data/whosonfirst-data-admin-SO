@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.67473,1.68866,44.71473,1.72866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Shalaamboot"
     ],
@@ -34,8 +38,7 @@
         "Scialambod",
         "Vittorio d\u2019Africa",
         "Shalan Bood",
-        "Shal\u0101nb\u014dd",
-        "Shalaamboot"
+        "Shal\u0101nb\u014dd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343540257,
-    "wof:lastmodified":1537701202,
+    "wof:lastmodified":1566649263,
     "wof:name":"Shalaamboot",
     "wof:parent_id":1108757883,
     "wof:placetype":"locality",

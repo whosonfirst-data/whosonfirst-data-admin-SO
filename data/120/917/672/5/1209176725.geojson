@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.87147,8.78107,45.91147,8.82107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632379
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209176725,
-    "wof:lastmodified":1536295398,
+    "wof:lastmodified":1566649502,
     "wof:name":"War Cimraan",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

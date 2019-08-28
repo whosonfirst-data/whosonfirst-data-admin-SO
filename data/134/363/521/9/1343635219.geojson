@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.4209,1.4604,44.4609,1.5004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Buq"
     ],
     "name:und_x_variant":[
         "El Bug",
-        "El Buch",
-        "Buq"
+        "El Buch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343635219,
-    "wof:lastmodified":1537701330,
+    "wof:lastmodified":1566649269,
     "wof:name":"Buq",
     "wof:parent_id":1108757809,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"40.98,-0.65333,41.02,-0.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gurara"
     ],
@@ -45,8 +49,7 @@
         "Gurara"
     ],
     "name:und_x_variant":[
-        "Guara",
-        "Gurara"
+        "Guara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1260165567,
-    "wof:lastmodified":1564125373,
+    "wof:lastmodified":1566649544,
     "wof:name":"Gurara",
     "wof:parent_id":1108757927,
     "wof:placetype":"locality",

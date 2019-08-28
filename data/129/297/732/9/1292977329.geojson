@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.39821,2.36905,45.43821,2.40905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Mareerrey"
     ],
     "name:und_x_variant":[
-        "Mererei",
-        "Mareerrey"
+        "Mererei"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292977329,
-    "wof:lastmodified":1537701230,
+    "wof:lastmodified":1566649371,
     "wof:name":"Mareerrey",
     "wof:parent_id":1108757777,
     "wof:placetype":"locality",

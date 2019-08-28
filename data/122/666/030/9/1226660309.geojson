@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.68,4.23,43.72,4.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226660309,
-    "wof:lastmodified":1536837365,
+    "wof:lastmodified":1566649783,
     "wof:name":"Giara Abarou",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",

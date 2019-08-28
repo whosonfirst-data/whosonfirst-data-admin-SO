@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"43.4968,3.086,43.5368,3.126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Caddi Qoqonay"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309745063,
-    "wof:lastmodified":1537701321,
+    "wof:lastmodified":1566649643,
     "wof:name":"Caddi Qoqonay",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

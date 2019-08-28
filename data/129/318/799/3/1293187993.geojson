@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"46.96333,9.54667,47.00333,9.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09cd\u09a8\u09be\u09b0"
     ],
@@ -60,8 +64,7 @@
         "\u0b38\u0b3f\u0b28\u0b4d\u0b28\u0b3e\u0b30"
     ],
     "name:und_x_variant":[
-        "Sinaro",
-        "Sinnar"
+        "Sinaro"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u0627\u0631"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1293187993,
-    "wof:lastmodified":1564125168,
+    "wof:lastmodified":1566649375,
     "wof:name":"Sinnar",
     "wof:parent_id":1108757819,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"47.06456,3.95217,47.10456,3.99217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Callyabaal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293788657,
-    "wof:lastmodified":1537701319,
+    "wof:lastmodified":1566649352,
     "wof:name":"Callyabaal",
     "wof:parent_id":1108757785,
     "wof:placetype":"locality",

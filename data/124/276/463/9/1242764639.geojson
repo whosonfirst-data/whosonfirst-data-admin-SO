@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"48.2907,10.2065,48.3307,10.2465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Ceelbuh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242764639,
-    "wof:lastmodified":1537701315,
+    "wof:lastmodified":1566649698,
     "wof:name":"Ceelbuh",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",

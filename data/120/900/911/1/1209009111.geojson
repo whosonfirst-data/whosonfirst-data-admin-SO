@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"45.77297,5.25362,45.81297,5.29362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632379
@@ -34,7 +38,7 @@
         "gn:id":52241
     },
     "wof:country":"SO",
-    "wof:geomhash":"6dc3b6f182ed5e43710708b460423f8c",
+    "wof:geomhash":"43f8fbea1dd7540052fbeed0ccbba902",
     "wof:hierarchy":[
         {
             "country_id":85632379,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209009111,
-    "wof:lastmodified":1536300505,
+    "wof:lastmodified":1566649456,
     "wof:name":"Salaxdhadhaab",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.79297,
-    5.273619999999998,
+    5.27362,
     45.79297,
-    5.273619999999998
+    5.27362
 ],
   "geometry": {"coordinates":[45.79297,5.27362],"type":"Point"}
 }

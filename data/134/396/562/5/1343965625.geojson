@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"49.03,11.19667,49.07,11.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Gab",
         "Las Gal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343965625,
-    "wof:lastmodified":1537701239,
+    "wof:lastmodified":1566649261,
     "wof:name":"Las Gal",
     "wof:parent_id":1108757801,
     "wof:placetype":"locality",

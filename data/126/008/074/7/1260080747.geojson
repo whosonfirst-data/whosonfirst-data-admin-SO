@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
+    "lbl:bbox":"44.09567,2.85185,44.13567,2.89185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Wafdhey Weyn"
     ],
     "name:und_x_variant":[
-        "Uafdai Uein",
-        "Wafdhey Weyn"
+        "Uafdai Uein"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260080747,
-    "wof:lastmodified":1537701187,
+    "wof:lastmodified":1566649538,
     "wof:name":"Wafdhey Weyn",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",
