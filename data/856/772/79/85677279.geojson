@@ -279,6 +279,9 @@
         "wk:page":"Mudug"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"373ec5ca054c85cce9c14496f8114033",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649326,
+    "wof:lastmodified":1582332253,
     "wof:name":"Mudug",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

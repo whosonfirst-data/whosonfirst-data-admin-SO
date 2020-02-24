@@ -279,6 +279,9 @@
         "wk:page":"Hiran, Somalia"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5a3cf5358f8e602c357c85e050601bc",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649323,
+    "wof:lastmodified":1582332252,
     "wof:name":"Hiiraan",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

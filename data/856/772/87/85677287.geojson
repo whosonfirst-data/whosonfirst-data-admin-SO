@@ -273,6 +273,9 @@
         "wk:page":"Lower Juba"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74811320417ee2e2e8ac35b528b7497b",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649325,
+    "wof:lastmodified":1582332252,
     "wof:name":"Jubbada Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

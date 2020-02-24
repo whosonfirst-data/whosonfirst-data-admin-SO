@@ -275,6 +275,9 @@
         "wk:page":"Gedo"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c00facead61f005209b4f382e828d2c",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649327,
+    "wof:lastmodified":1582332253,
     "wof:name":"Gedo",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

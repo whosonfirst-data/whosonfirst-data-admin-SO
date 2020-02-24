@@ -282,6 +282,9 @@
         "wk:page":"Nugal, Somalia"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e3c9c2645323e5fa60d6c108b9e6bf0",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649326,
+    "wof:lastmodified":1582332253,
     "wof:name":"Nugaal",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

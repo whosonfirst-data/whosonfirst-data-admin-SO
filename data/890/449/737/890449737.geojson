@@ -577,6 +577,9 @@
     ],
     "wof:country":"SO",
     "wof:created":1469052706,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"e6712e127d555d9cfd04d734a6cadb27",
     "wof:hierarchy":[
         {
@@ -588,7 +591,7 @@
         }
     ],
     "wof:id":890449737,
-    "wof:lastmodified":1566649652,
+    "wof:lastmodified":1582332258,
     "wof:name":"Mogadishu",
     "wof:parent_id":1108757805,
     "wof:placetype":"locality",

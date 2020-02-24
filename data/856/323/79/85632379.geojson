@@ -958,6 +958,10 @@
     },
     "wof:country":"SO",
     "wof:country_alpha3":"SOM",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"fe17ff694ae1b2c05e1dfd64fc108b42",
     "wof:hierarchy":[
         {
@@ -974,7 +978,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649322,
+    "wof:lastmodified":1582332251,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -275,6 +275,9 @@
         "wk:page":"Bay, Somalia"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58bd85b04c8b6d7b3864368ae5f6b036",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649324,
+    "wof:lastmodified":1582332252,
     "wof:name":"Bay",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
