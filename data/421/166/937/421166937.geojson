@@ -329,6 +329,9 @@
     },
     "wof:country":"SO",
     "wof:created":1459008708,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b3cc6d1ba7b473a97aa5fd3ade7f88d4",
     "wof:hierarchy":[
         {
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":421166937,
-    "wof:lastmodified":1566649648,
+    "wof:lastmodified":1582332258,
     "wof:name":"Boosaaso",
     "wof:parent_id":1108757801,
     "wof:placetype":"locality",

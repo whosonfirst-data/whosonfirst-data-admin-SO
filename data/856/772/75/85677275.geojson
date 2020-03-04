@@ -280,6 +280,9 @@
         "wk:page":"Middle Shebelle"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48a3ac690d67d474c709c245b5014b5a",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649325,
+    "wof:lastmodified":1582332253,
     "wof:name":"Shabeellaha Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

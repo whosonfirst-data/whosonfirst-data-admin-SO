@@ -281,6 +281,9 @@
         890449737
     ],
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cffc609c86274b2a06f01584d50d9697",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649326,
+    "wof:lastmodified":1582332253,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

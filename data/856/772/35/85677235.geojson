@@ -280,6 +280,9 @@
         "wk:page":"Bari, Somalia"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7b1240cfcdc730349ad545a072baf96",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649323,
+    "wof:lastmodified":1582332252,
     "wof:name":"Bari",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

@@ -275,6 +275,9 @@
         "wk:page":"Galguduud"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8b59a8e537ef73e70f816ebfdf0cc09",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649324,
+    "wof:lastmodified":1582332252,
     "wof:name":"Galguduud",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

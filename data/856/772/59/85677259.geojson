@@ -276,6 +276,9 @@
         "wk:page":"Lower Shebelle"
     },
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14de71cfb2e74d49a013f05aada76b57",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1566649323,
+    "wof:lastmodified":1582332252,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
