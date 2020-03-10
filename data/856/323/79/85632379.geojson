@@ -935,9 +935,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Somalia",
-        "digitalenvoy:country_code":[
-            706
-        ],
+        "digitalenvoy:country_code":706,
         "fb:id":"en.somalia",
         "fifa:id":"SOM",
         "fips:code":"SO",
@@ -981,7 +979,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1583529223,
+    "wof:lastmodified":1583797432,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
