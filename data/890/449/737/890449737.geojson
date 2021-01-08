@@ -597,6 +597,7 @@
     "wof:concordances":{
         "gn:id":53654,
         "gp:id":1428499,
+        "ne:id":1159150715,
         "qs_pg:id":57324,
         "wd:id":"Q2449",
         "wk:page":"Mogadishu"
@@ -620,7 +621,8 @@
         }
     ],
     "wof:id":890449737,
-    "wof:lastmodified":1607390888,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Mogadishu",
     "wof:parent_id":1108757805,
     "wof:placetype":"locality",
