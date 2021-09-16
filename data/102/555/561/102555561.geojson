@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.4475,-0.38933333,42.4475,-0.38933333",
+    "geom:bbox":"42.4475,-0.389333,42.4475,-0.389333",
     "geom:latitude":-0.389333,
     "geom:longitude":42.4475,
     "iso:country":"SO",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kismayo Airport"
+    ],
+    "name:eng_x_variant":[
+        "KMU",
+        "HCMK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0633\u0645\u0627\u06cc\u0648"
@@ -66,7 +70,7 @@
         "wd:id":"Q10853735"
     },
     "wof:country":"SO",
-    "wof:geomhash":"54c5034dbcbfb56b19b60ddb285c9ae6",
+    "wof:geomhash":"8f7dedef2f43fdf3bdce46226fc2abcd",
     "wof:hierarchy":[
         {
             "campus_id":102555561,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102555561,
-    "wof:lastmodified":1566649257,
+    "wof:lastmodified":1631747579,
     "wof:name":"Kisimayu Airport",
     "wof:parent_id":85677287,
     "wof:placetype":"campus",
@@ -88,9 +92,9 @@
 },
   "bbox": [
     42.4475,
-    -0.38933333,
+    -0.389333,
     42.4475,
-    -0.38933333
+    -0.389333
 ],
-  "geometry": {"coordinates":[42.4475,-0.38933333],"type":"Point"}
+  "geometry": {"coordinates":[42.4475,-0.389333],"type":"Point"}
 }
