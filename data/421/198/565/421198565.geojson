@@ -81,6 +81,9 @@
     "name:hrv_x_preferred":[
         "Gaalkacyo"
     ],
+    "name:hun_x_preferred":[
+        "Gaalkacyo"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u056c\u056f\u0561\u0575\u0578"
     ],
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421198565,
-    "wof:lastmodified":1566649650,
+    "wof:lastmodified":1636497587,
     "wof:name":"Gaalkacyo",
     "wof:parent_id":1108757815,
     "wof:placetype":"locality",

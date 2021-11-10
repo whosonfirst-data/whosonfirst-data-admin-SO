@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.1659805896,9.50041363417,49.1659805896,9.50041363417",
+    "geom:bbox":"49.165981,9.500414,49.165981,9.500414",
     "geom:latitude":9.500414,
     "geom:longitude":49.165981,
     "iso:country":"SO",
@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Qardho"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Qardho"
     ],
@@ -54,8 +57,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0aa7\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u0926\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Qardho"
     ],
     "name:ind_x_preferred":[
         "Qardho"
@@ -252,7 +261,7 @@
     },
     "wof:country":"SO",
     "wof:created":1499130702,
-    "wof:geomhash":"c681873d8b4112b7ce49151395515a48",
+    "wof:geomhash":"943817b0faa4e801fb69b70ee19c3698",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -263,7 +272,7 @@
         }
     ],
     "wof:id":1141907255,
-    "wof:lastmodified":1566649822,
+    "wof:lastmodified":1636497591,
     "wof:name":"Qardho",
     "wof:parent_id":1108757879,
     "wof:placetype":"locality",
@@ -273,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.16598058960233,
-    9.50041363416904,
-    49.16598058960233,
-    9.50041363416904
+    49.165981,
+    9.500414,
+    49.165981,
+    9.500414
 ],
-  "geometry": {"coordinates":[49.16598058960233,9.50041363416904],"type":"Point"}
+  "geometry": {"coordinates":[49.165981,9.500414],"type":"Point"}
 }

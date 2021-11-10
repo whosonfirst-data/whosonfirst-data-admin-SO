@@ -36,11 +36,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b2\u09c1\u0989\u09b2\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03cd\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Alula"
     ],
     "name:fra_x_preferred":[
         "Calula"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05dc\u05d5\u05d0\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0932\u0942\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Caluula"
+    ],
+    "name:ind_x_preferred":[
+        "Caluula"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub8f0\ub77c"
+    ],
+    "name:por_x_preferred":[
+        "Caluula"
+    ],
+    "name:swe_x_preferred":[
+        "Caluula"
+    ],
+    "name:tur_x_preferred":[
+        "Caluula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0443\u043b\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Caluula"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -75,7 +111,7 @@
         }
     ],
     "wof:id":1108757803,
-    "wof:lastmodified":1627522785,
+    "wof:lastmodified":1636497585,
     "wof:name":"Caluula",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

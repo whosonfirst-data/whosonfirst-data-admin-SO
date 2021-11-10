@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Dila"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05dc\u05d4"
+    ],
     "name:pol_x_preferred":[
         "Dila"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1277135951,
-    "wof:lastmodified":1566649423,
+    "wof:lastmodified":1636497583,
     "wof:name":"Dila",
     "wof:parent_id":1108757873,
     "wof:placetype":"locality",

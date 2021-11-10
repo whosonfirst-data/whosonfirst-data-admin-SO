@@ -66,6 +66,9 @@
         "Bohol"
     ],
     "name:fas_x_preferred":[
+        "\u0628\u0648\u0647\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
         "\u0628\u0647\u0644"
     ],
     "name:fin_x_preferred":[
@@ -77,6 +80,9 @@
     "name:glg_x_preferred":[
         "Bohol"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d1\u05d5\u05d4\u05d5\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0939\u094b\u0932"
     ],
@@ -87,6 +93,9 @@
         "Bohol"
     ],
     "name:ind_x_preferred":[
+        "Bohol"
+    ],
+    "name:ita_x_preferred":[
         "Bohol"
     ],
     "name:jav_x_preferred":[
@@ -168,6 +177,9 @@
         "\u0628\u0648\u06c1\u0648\u0644"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Bohol"
+    ],
+    "name:vie_x_variant":[
         "Bohol"
     ],
     "name:war_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":1276946437,
-    "wof:lastmodified":1566649416,
+    "wof:lastmodified":1636497583,
     "wof:name":"Bohol",
     "wof:parent_id":1108757905,
     "wof:placetype":"locality",

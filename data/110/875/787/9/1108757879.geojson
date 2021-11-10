@@ -51,7 +51,16 @@
     "name:eng_x_preferred":[
         "Qardho"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u062f\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Qardho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Qardho"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1108757879,
-    "wof:lastmodified":1627522787,
+    "wof:lastmodified":1636497585,
     "wof:name":"Qardho",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

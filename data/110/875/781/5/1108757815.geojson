@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Gaal Kacyo"
     ],
+    "name:hun_x_preferred":[
+        "Gaalkacyo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108757815,
-    "wof:lastmodified":1627522786,
+    "wof:lastmodified":1636497585,
     "wof:name":"Gaalkacyo",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

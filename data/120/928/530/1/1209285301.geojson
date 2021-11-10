@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Banaadir"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d0\u05d3\u05d9\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Banaadir"
+    ],
     "name:ind_x_preferred":[
         "Banaadir"
     ],
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1209285301,
-    "wof:lastmodified":1566649503,
+    "wof:lastmodified":1636497583,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
     "name:est_x_preferred":[
         "Jowhar"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0647\u0631"
+    ],
     "name:fin_x_preferred":[
         "Jowhar"
     ],
@@ -72,8 +75,14 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0acc\u0ab9\u0abe\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05d5\u05d4\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u094b\u0935\u094d\u0939\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Jawhar"
     ],
     "name:ind_x_preferred":[
         "Jowhar"
@@ -316,7 +325,7 @@
         }
     ],
     "wof:id":421203857,
-    "wof:lastmodified":1566649649,
+    "wof:lastmodified":1636497587,
     "wof:name":"Jawhar",
     "wof:parent_id":1108757861,
     "wof:placetype":"locality",

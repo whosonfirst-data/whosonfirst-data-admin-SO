@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.866702605,4.18329897276,43.866702605,4.18329897276",
+    "geom:bbox":"43.866703,4.183299,43.866703,4.183299",
     "geom:latitude":4.183299,
     "geom:longitude":43.866703,
     "iso:country":"SO",
@@ -57,8 +57,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aa1\u0ac1\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d3\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0941\u0921\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Hudur"
     ],
     "name:ind_x_preferred":[
         "Hudur"
@@ -249,7 +255,7 @@
     },
     "wof:country":"SO",
     "wof:created":1499130535,
-    "wof:geomhash":"f3b76bdc5210a9d1bc11163a8535ba4d",
+    "wof:geomhash":"c363604a33fd94449036bd43ee3ba95f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":1141906063,
-    "wof:lastmodified":1566649822,
+    "wof:lastmodified":1636497591,
     "wof:name":"Hudur",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",
@@ -270,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.86670260501256,
-    4.18329897275646,
-    43.86670260501256,
-    4.18329897275646
+    43.866703,
+    4.183299,
+    43.866703,
+    4.183299
 ],
-  "geometry": {"coordinates":[43.86670260501256,4.18329897275646],"type":"Point"}
+  "geometry": {"coordinates":[43.866703,4.183299],"type":"Point"}
 }

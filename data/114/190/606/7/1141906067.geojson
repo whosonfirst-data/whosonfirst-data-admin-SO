@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.5080044999,5.7419999843,46.5080044999,5.7419999843",
+    "geom:bbox":"46.508004,5.742,46.508004,5.742",
     "geom:latitude":5.742,
     "geom:longitude":46.508004,
     "iso:country":"SO",
@@ -18,6 +18,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a7\u09c1\u09b8\u09be \u09ae\u09be\u09b0\u09bf\u09ac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03cd\u03bf\u03c5\u03c3\u03b1 \u039c\u03b1\u03c1\u03af\u03bc\u03c0"
+    ],
+    "name:fra_x_preferred":[
+        "Dhuusamareeb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d7\u05d5\u05e1\u05d4 \u05de\u05d0\u05e8\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0942\u0938\u093e \u092e\u093e\u0930\u0940\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Dhuusa Mareeb"
+    ],
+    "name:ind_x_preferred":[
+        "Dhuusa Mareeb"
+    ],
+    "name:spa_x_preferred":[
+        "Dusmareb"
+    ],
+    "name:swe_x_preferred":[
+        "Dhuusa Mareeb"
+    ],
+    "name:vie_x_preferred":[
+        "Dhuusa Mareeb"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
     "ne:ADM0_A3":"SOM",
@@ -124,7 +154,7 @@
     "wof:concordances":{},
     "wof:country":"SO",
     "wof:created":1499130535,
-    "wof:geomhash":"2113b1145e7c1c97117a17ba1a6ec938",
+    "wof:geomhash":"5f91e94bcd4ad9fc36f6f8f0739e23a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +165,7 @@
         }
     ],
     "wof:id":1141906067,
-    "wof:lastmodified":1566649822,
+    "wof:lastmodified":1636497591,
     "wof:name":"Dhuusa Mareeb",
     "wof:parent_id":1108757831,
     "wof:placetype":"locality",
@@ -145,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.50800449991721,
-    5.74199998429839,
-    46.50800449991721,
-    5.74199998429839
+    46.508004,
+    5.742,
+    46.508004,
+    5.742
 ],
-  "geometry": {"coordinates":[46.50800449991721,5.74199998429839],"type":"Point"}
+  "geometry": {"coordinates":[46.508004,5.742],"type":"Point"}
 }

@@ -38,6 +38,15 @@
     "name:epo_x_preferred":[
         "Bu'aale"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0622\u0644\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5'\u05d0\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bu'aale"
+    ],
     "name:ita_x_preferred":[
         "Bu'aale"
     ],
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1360182219,
-    "wof:lastmodified":1566649621,
+    "wof:lastmodified":1636497586,
     "wof:name":"Bu'aale",
     "wof:parent_id":1108757841,
     "wof:placetype":"locality",

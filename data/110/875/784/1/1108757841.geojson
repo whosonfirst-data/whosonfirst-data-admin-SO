@@ -39,8 +39,17 @@
     "name:eng_x_preferred":[
         "Buale"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0622\u0644\u0647"
+    ],
     "name:fra_x_preferred":[
         "Bu'ale"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5'\u05d0\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bu'aale"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1108757841,
-    "wof:lastmodified":1627522785,
+    "wof:lastmodified":1636497584,
     "wof:name":"Bu'aale",
     "wof:parent_id":85677253,
     "wof:placetype":"county",

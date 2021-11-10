@@ -79,8 +79,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0aa8\u0abe\u0aa6\u0abf\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d0\u05d3\u05d9\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0928\u093e\u0926\u0940\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Banaadir"
     ],
     "name:ind_x_preferred":[
         "Banaadir"
@@ -302,7 +308,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1608047743,
+    "wof:lastmodified":1636497581,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

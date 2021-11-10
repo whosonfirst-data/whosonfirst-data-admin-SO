@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.5000264067,8.39998984673,48.5000264067,8.39998984673",
+    "geom:bbox":"48.500026,8.39999,48.500026,8.39999",
     "geom:latitude":8.39999,
     "geom:longitude":48.500026,
     "iso:country":"SO",
@@ -74,6 +74,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ab0\u0ac2\u0ab5"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e8\u05d5\u05d5\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0917\u0947\u0930\u0942\u0935\u0947"
@@ -279,7 +282,7 @@
     },
     "wof:country":"SO",
     "wof:created":1499130994,
-    "wof:geomhash":"adc2f2ee3b423268ecf55d7fe61ff409",
+    "wof:geomhash":"1156f0a0e34fc04fe377375d6dad4e60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":1141908891,
-    "wof:lastmodified":1566649821,
+    "wof:lastmodified":1636497590,
     "wof:name":"Garoowe",
     "wof:parent_id":1108757881,
     "wof:placetype":"locality",
@@ -300,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.50002640665701,
-    8.39998984672968,
-    48.50002640665701,
-    8.39998984672968
+    48.500026,
+    8.39999,
+    48.500026,
+    8.39999
 ],
-  "geometry": {"coordinates":[48.50002640665701,8.39998984672968],"type":"Point"}
+  "geometry": {"coordinates":[48.500026,8.39999],"type":"Point"}
 }

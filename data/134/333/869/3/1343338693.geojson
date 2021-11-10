@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Celaya"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05dc\u05d9\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Celaya"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1343338693,
-    "wof:lastmodified":1566649303,
+    "wof:lastmodified":1636497579,
     "wof:name":"Celaya",
     "wof:parent_id":1108757789,
     "wof:placetype":"locality",
