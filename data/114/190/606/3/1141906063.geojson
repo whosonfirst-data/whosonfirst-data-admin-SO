@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u062f\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u062f\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u062f\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Hudur"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09a1\u09cb"
     ],
@@ -56,6 +65,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aa1\u0ac1\u0ab0"
+    ],
+    "name:hau_x_preferred":[
+        "Hudur"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d3\u05d5\u05e8"
@@ -120,6 +132,9 @@
     "name:spa_x_preferred":[
         "Xudur"
     ],
+    "name:swa_x_preferred":[
+        "Xuddur"
+    ],
     "name:swe_x_preferred":[
         "Hudur"
     ],
@@ -131,6 +146,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e39\u0e40\u0e14\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e14\u0e39\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Hudur"
@@ -146,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u80e1\u675c\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Hudur"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -266,7 +287,7 @@
         }
     ],
     "wof:id":1141906063,
-    "wof:lastmodified":1636497591,
+    "wof:lastmodified":1690865925,
     "wof:name":"Hudur",
     "wof:parent_id":1108757909,
     "wof:placetype":"locality",

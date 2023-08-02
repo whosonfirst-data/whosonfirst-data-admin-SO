@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Galguduud"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u062c\u062f\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Galguduud"
     ],
@@ -106,11 +109,17 @@
     "name:kor_x_preferred":[
         "\uac08\uad6c\ub450\ub4dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uac08\uad6c\ub450\ub4dc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Galgududa"
     ],
     "name:lit_x_preferred":[
         "Galgududas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u52a0\u52d2\u53e4\u675c\u5fb7\u5dde"
     ],
     "name:mar_x_preferred":[
         "\u0917\u093e\u0932\u0917\u0941\u0921\u0942\u0921"
@@ -157,6 +166,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e25\u0e01\u0e39\u0e14\u0e39\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e01\u0e31\u0e25\u0e01\u0e39\u0e14\u0e39\u0e14"
+    ],
     "name:tur_x_preferred":[
         "Galgudud"
     ],
@@ -172,8 +184,17 @@
     "name:vie_x_preferred":[
         "Galguduud"
     ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u52d2\u53e4\u675c\u5fb7\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u52a0\u52d2\u53e4\u675c\u5fb7"
+    ],
     "name:zho_x_preferred":[
         "\u52a0\u52d2\u53e4\u675c\u5fb7\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Galguduud"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -301,7 +322,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497580,
+    "wof:lastmodified":1690865912,
     "wof:name":"Galguduud",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

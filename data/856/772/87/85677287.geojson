@@ -69,6 +69,9 @@
     "name:eus_x_preferred":[
         "Jubbada Hoose"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0628\u0627\u06cc \u0633\u0641\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ala-Juba"
     ],
@@ -105,11 +108,17 @@
     "name:kor_x_preferred":[
         "\uc8fc\ubc14\ub2e4\ud638\uc138 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc8fc\ubc14\ub2e4\ud638\uc138\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Lejasd\u017e\u016bba"
     ],
     "name:lit_x_preferred":[
         "\u017demutin\u0117 D\u017euba"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e0b\u6731\u5df4\u5dde"
     ],
     "name:mar_x_preferred":[
         "\u0932\u094b\u0905\u0930 \u091c\u0941\u092c\u093e"
@@ -156,6 +165,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e1a\u0e1a\u0e32\u0e14\u0e32\u0e2e\u0e39\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e08\u0e38\u0e1a\u0e1a\u0e32\u0e14\u0e32\u0e2e\u0e2d\u0e40\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "A\u015fa\u011f\u0131 Cubba"
     ],
@@ -168,8 +180,14 @@
     "name:vie_x_preferred":[
         "H\u1ea1 Juba"
     ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u6731\u5df4"
+    ],
     "name:zho_x_preferred":[
         "\u4e0b\u6731\u5df4\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Lower Juba"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -296,7 +314,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497581,
+    "wof:lastmodified":1690865912,
     "wof:name":"Jubbada Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

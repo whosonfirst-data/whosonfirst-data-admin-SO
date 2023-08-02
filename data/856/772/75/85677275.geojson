@@ -73,6 +73,9 @@
     "name:eus_x_preferred":[
         "Shabeellaha Dhexe"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0628\u0644 \u0645\u06cc\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Shabeellaha Dhexe"
     ],
@@ -111,6 +114,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ubca8\ub77c\ud558\ub370\ud5e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0e4\ubca8\ub77c\ud558\ub370\ud5e4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Vidus\u0161ab\u0113laha"
@@ -163,6 +169,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e34\u0e40\u0e1a\u0e23\u0e32 \u0e01\u0e23\u0e32\u0e19\u0e40\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e0a\u0e32\u0e40\u0e1a\u0e25\u0e25\u0e32\u0e2e\u0e32\u0e40\u0e14\u0e40\u0e2e"
+    ],
     "name:tur_x_preferred":[
         "Orta \u015eabel"
     ],
@@ -178,8 +187,17 @@
     "name:vie_x_preferred":[
         "Middle Shebelle"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u8c22\u8d1d\u5229\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u8b1d\u8c9d\u5229"
+    ],
     "name:zho_x_preferred":[
         "\u4e2d\u8b1d\u8c9d\u5229\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Middle Shabelle"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -306,7 +324,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497581,
+    "wof:lastmodified":1690865913,
     "wof:name":"Shabeellaha Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

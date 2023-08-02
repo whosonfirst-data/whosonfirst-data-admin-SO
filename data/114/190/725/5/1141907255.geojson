@@ -24,6 +24,9 @@
     "name:ara_x_variant":[
         "\u0642\u0631\u0636\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0636\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u09a7\u09cb"
     ],
@@ -153,6 +156,9 @@
     "name:zho_x_preferred":[
         "\u4f73\u723e\u591a"
     ],
+    "name:zul_x_preferred":[
+        "Qardho"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
     "ne:ADM0_A3":"SOM",
@@ -272,7 +278,7 @@
         }
     ],
     "wof:id":1141907255,
-    "wof:lastmodified":1636497591,
+    "wof:lastmodified":1690865925,
     "wof:name":"Qardho",
     "wof:parent_id":1108757879,
     "wof:placetype":"locality",

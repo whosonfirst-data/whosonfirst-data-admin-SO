@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Buur"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0628\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Ceelbuur"
     ],
     "name:eng_x_preferred":[
         "El Buur"
@@ -41,6 +47,9 @@
     "name:ron_x_preferred":[
         "Ceelbuur"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u0431\u0443\u0440"
+    ],
     "name:som_x_preferred":[
         "Ceel Buur"
     ],
@@ -52,6 +61,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u52d2\u5e03\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "El Buur"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":421196797,
-    "wof:lastmodified":1566649650,
+    "wof:lastmodified":1690865921,
     "wof:name":"El Bur",
     "wof:parent_id":1108757827,
     "wof:placetype":"locality",

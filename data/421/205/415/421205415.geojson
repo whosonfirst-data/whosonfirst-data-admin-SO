@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0648\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Baidoa"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u09a6\u09cb\u09af\u09bc\u09be"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Baidoa"
+    ],
+    "name:hun_x_variant":[
+        "Baydhabo"
     ],
     "name:ind_x_preferred":[
         "Baidoa"
@@ -155,6 +161,9 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e1a\u0e40\u0e15\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e31\u0e22\u0e14\u0e32\u0e1a\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Baydabo"
     ],
@@ -175,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62dc\u591a\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "Baidoa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -315,7 +327,7 @@
         }
     ],
     "wof:id":421205415,
-    "wof:lastmodified":1636497587,
+    "wof:lastmodified":1690865919,
     "wof:name":"Baydhabo",
     "wof:parent_id":1108757837,
     "wof:placetype":"locality",

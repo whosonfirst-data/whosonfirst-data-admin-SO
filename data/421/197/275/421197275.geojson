@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Eyl"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0644"
     ],
@@ -101,6 +107,9 @@
     "name:tur_x_preferred":[
         "Eyl"
     ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0439\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Ayl"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Eyl"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":421197275,
-    "wof:lastmodified":1636497588,
+    "wof:lastmodified":1690865922,
     "wof:name":"Eyl",
     "wof:parent_id":1108757791,
     "wof:placetype":"locality",

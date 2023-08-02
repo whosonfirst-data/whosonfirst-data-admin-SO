@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u064a\u0640\u0633\u0640\u0643\u0640\u0648\u0634\u0640\u0648\u0628\u0640\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u064a\u0633\u0643\u0648\u0634\u0648\u0628\u0627\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Iskushuban"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:pol_x_preferred":[
         "Iskushuban"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u0443\u0448\u0443\u0431\u0430\u043d"
     ],
     "name:som_x_preferred":[
         "Iskushuban"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421174329,
-    "wof:lastmodified":1566649650,
+    "wof:lastmodified":1690865920,
     "wof:name":"Iskushuban",
     "wof:parent_id":1108757855,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0648\u0631\u064a\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0648\u0631\u064a\u0648\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09cd\u09b0\u09bf\u0993\u09b2\u09c7"
     ],
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421166933,
-    "wof:lastmodified":1566649648,
+    "wof:lastmodified":1690865918,
     "wof:name":"Qoryooley",
     "wof:parent_id":1108757885,
     "wof:placetype":"locality",

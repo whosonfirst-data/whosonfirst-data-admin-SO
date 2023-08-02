@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Wanlaweyn"
     ],
+    "name:nob_x_preferred":[
+        "Wanlaweyn"
+    ],
     "name:pol_x_preferred":[
         "Wanlaweyn"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:som_x_preferred":[
         "Wanlaweyn"
+    ],
+    "name:swa_x_preferred":[
+        "Wanlaweyne"
     ],
     "name:und_x_variant":[
         "Bahle Dogli"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421166931,
-    "wof:lastmodified":1566649647,
+    "wof:lastmodified":1690865917,
     "wof:name":"Wanlaweyn",
     "wof:parent_id":1108757903,
     "wof:placetype":"locality",

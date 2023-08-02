@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0633 \u0645\u0631\u064a\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Dusmareb"
+    ],
     "name:azb_x_preferred":[
         "\u0637\u0648\u0633 \u0645\u0631\u06cc\u0628"
     ],
@@ -74,6 +77,15 @@
     "name:som_x_variant":[
         "Dhuusamarreeb"
     ],
+    "name:swa_x_preferred":[
+        "Dusmareb"
+    ],
+    "name:swe_x_preferred":[
+        "Dusmareb"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e39\u0e0b\u0e32\u0e21\u0e32\u0e40\u0e23\u0e1a"
+    ],
     "name:tur_x_preferred":[
         "Dusamareb"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:zho_x_preferred":[
         "\u675c\u85a9\u99ac\u96f7\u535c"
+    ],
+    "name:zul_x_preferred":[
+        "Dusmareb"
     ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPLX",
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":421205419,
-    "wof:lastmodified":1566649649,
+    "wof:lastmodified":1690865920,
     "wof:name":"Dhuusamarreeb",
     "wof:parent_id":1108757831,
     "wof:placetype":"locality",

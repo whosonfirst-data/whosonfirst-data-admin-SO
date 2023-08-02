@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0642"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cd\u09af\u09c1\u0995"
     ],
     "name:ceb_x_preferred":[
+        "Luuq"
+    ],
+    "name:dan_x_preferred":[
         "Luuq"
     ],
     "name:deu_x_preferred":[
@@ -39,6 +45,9 @@
         "\u0644\u0648\u0642"
     ],
     "name:fra_x_preferred":[
+        "Luuq"
+    ],
+    "name:gle_x_preferred":[
         "Luuq"
     ],
     "name:heb_x_preferred":[
@@ -89,6 +98,9 @@
     "name:swa_x_preferred":[
         "Luuq"
     ],
+    "name:swe_x_preferred":[
+        "Luuq"
+    ],
     "name:tur_x_preferred":[
         "Luuq"
     ],
@@ -106,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8def\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Luuq"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -247,7 +262,7 @@
         }
     ],
     "wof:id":421168343,
-    "wof:lastmodified":1636497586,
+    "wof:lastmodified":1690865917,
     "wof:name":"Luuq",
     "wof:parent_id":1108757899,
     "wof:placetype":"locality",

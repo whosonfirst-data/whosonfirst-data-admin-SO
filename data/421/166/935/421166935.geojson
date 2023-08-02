@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062f\u0627\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u062f\u0627\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Qandala"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0646\u062f\u0627\u0644\u0627"
     ],
@@ -77,6 +83,9 @@
     "name:zho_x_preferred":[
         "\u7518\u9054\u62c9"
     ],
+    "name:zul_x_preferred":[
+        "Qandala"
+    ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":53157,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421166935,
-    "wof:lastmodified":1566649648,
+    "wof:lastmodified":1690865918,
     "wof:name":"Qandala",
     "wof:parent_id":1108757931,
     "wof:placetype":"locality",
