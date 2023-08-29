@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438"
+    ],
     "name:ace_x_preferred":[
         "Somalia"
     ],
@@ -49,8 +52,14 @@
     "name:amh_x_variant":[
         "\u1231\u121b\u120c"
     ],
+    "name:ami_x_preferred":[
+        "Somalia"
+    ],
     "name:ang_x_preferred":[
         "S\u014dmalia"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e",
@@ -75,6 +84,9 @@
     "name:ast_x_preferred":[
         "Somalia"
     ],
+    "name:avk_x_preferred":[
+        "Somalia"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0645\u0627\u0644\u06cc"
     ],
@@ -91,6 +103,9 @@
         "Somali"
     ],
     "name:ban_x_preferred":[
+        "Somalia"
+    ],
+    "name:bar_x_preferred":[
         "Somalia"
     ],
     "name:bcl_x_preferred":[
@@ -113,6 +128,9 @@
     ],
     "name:bih_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Somalia"
     ],
     "name:bjn_x_preferred":[
         "Somalia"
@@ -153,16 +171,25 @@
     "name:che_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
+    "name:chr_x_preferred":[
+        "\u13d0\u13b9\u13b5"
+    ],
     "name:ckb_x_preferred":[
         "\u0633\u06c6\u0645\u0627\u06b5\u06cc\u0627"
     ],
     "name:cor_x_preferred":[
         "Somali"
     ],
+    "name:cos_x_preferred":[
+        "Somalia"
+    ],
     "name:crh_x_preferred":[
         "Somaliya"
     ],
     "name:cym_x_preferred":[
+        "Somalia"
+    ],
+    "name:dag_x_preferred":[
         "Somalia"
     ],
     "name:dan_x_preferred":[
@@ -290,6 +317,9 @@
     "name:gom_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
+    "name:gpe_x_preferred":[
+        "Somalia"
+    ],
     "name:grn_x_preferred":[
         "Som\u00e1lia"
     ],
@@ -299,6 +329,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0abf\u0aaf\u0abe"
     ],
+    "name:gur_x_preferred":[
+        "Somalia"
+    ],
     "name:hak_x_preferred":[
         "Somalia"
     ],
@@ -307,6 +340,9 @@
     ],
     "name:hau_x_preferred":[
         "Somaliya"
+    ],
+    "name:haw_x_preferred":[
+        "Somalia"
     ],
     "name:hbs_x_preferred":[
         "Somalija"
@@ -392,6 +428,9 @@
     "name:kbp_x_preferred":[
         "Soomaali"
     ],
+    "name:kcg_x_preferred":[
+        "Somalya"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17bc\u1798\u17c9\u17b6\u179b\u17b8"
     ],
@@ -455,6 +494,9 @@
     "name:lit_x_preferred":[
         "Somalis"
     ],
+    "name:lld_x_preferred":[
+        "Somalia"
+    ],
     "name:lmo_x_preferred":[
         "Sumalia"
     ],
@@ -479,6 +521,9 @@
     "name:lzh_x_preferred":[
         "\u7d22\u99ac\u91cc"
     ],
+    "name:mad_x_preferred":[
+        "Somalia"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
@@ -494,6 +539,9 @@
     "name:mar_x_variant":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u044f"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
@@ -508,6 +556,9 @@
     ],
     "name:mlt_x_preferred":[
         "Somalja"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe3\uabc3\uabe5\uabc2\uabe4\uabcc\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
@@ -567,6 +618,9 @@
         "Somalia"
     ],
     "name:nso_x_preferred":[
+        "Somalia"
+    ],
+    "name:nya_x_preferred":[
         "Somalia"
     ],
     "name:oci_x_preferred":[
@@ -656,6 +710,9 @@
     "name:sgs_x_preferred":[
         "Suomalis"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1030\u101d\u103a\u1087\u1019\u1083\u1038\u101c\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -668,7 +725,13 @@
     "name:sme_x_preferred":[
         "Som\u00e1lia"
     ],
+    "name:smn_x_preferred":[
+        "Somalia"
+    ],
     "name:smo_x_preferred":[
+        "Somalia"
+    ],
+    "name:sms_x_preferred":[
         "Somalia"
     ],
     "name:sna_x_preferred":[
@@ -767,10 +830,17 @@
         "\u1236\u121b\u120a\u12eb"
     ],
     "name:tir_x_variant":[
-        "\u1231\u121b\u120c"
+        "\u1231\u121b\u120c",
+        "\u1236\u121b\u120d\u12eb"
+    ],
+    "name:tok_x_preferred":[
+        "ma Somalija"
     ],
     "name:ton_x_preferred":[
         "S\u014dmalia"
+    ],
+    "name:trv_x_preferred":[
+        "Somalia"
     ],
     "name:tso_x_preferred":[
         "Somalia"
@@ -778,8 +848,14 @@
     "name:tuk_x_preferred":[
         "Somali"
     ],
+    "name:tum_x_preferred":[
+        "Somalia"
+    ],
     "name:tur_x_preferred":[
         "Somali"
+    ],
+    "name:twi_x_preferred":[
+        "Somalia"
     ],
     "name:udm_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
@@ -812,6 +888,9 @@
     ],
     "name:vie_x_variant":[
         "X\u00f4-ma-li"
+    ],
+    "name:vls_x_preferred":[
+        "Somali\u00eb"
     ],
     "name:vol_x_preferred":[
         "Somal\u00e4n"
@@ -1105,7 +1184,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1617827461,
+    "wof:lastmodified":1690865910,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

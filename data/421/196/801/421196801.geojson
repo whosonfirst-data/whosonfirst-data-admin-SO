@@ -29,8 +29,14 @@
     "name:ita_x_preferred":[
         "Tigiegl\u00f2"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30a8\u30b0\u30ed\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Tiyeglow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0435\u0433\u043b\u043e\u0443"
     ],
     "name:som_x_preferred":[
         "Tiyeegloow"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421196801,
-    "wof:lastmodified":1566649651,
+    "wof:lastmodified":1690865922,
     "wof:name":"Tigieglo",
     "wof:parent_id":1108757897,
     "wof:placetype":"locality",

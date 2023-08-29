@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0644\u0628"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09b2\u09bf\u09ac"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u0932\u093f\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Dzsilib"
     ],
     "name:ind_x_preferred":[
         "Jilib"
@@ -134,6 +140,9 @@
     "name:zho_x_preferred":[
         "\u5e7e\u5229\u535a"
     ],
+    "name:zul_x_preferred":[
+        "Jilib"
+    ],
     "qs:gn_country":"SO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":56166,
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":421204857,
-    "wof:lastmodified":1566649649,
+    "wof:lastmodified":1690865919,
     "wof:name":"Jilib",
     "wof:parent_id":1108757859,
     "wof:placetype":"locality",

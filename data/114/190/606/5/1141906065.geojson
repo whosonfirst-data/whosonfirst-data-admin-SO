@@ -21,10 +21,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0627\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Bu'ale"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b2\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Bu'aale"
+    ],
+    "name:ceb_x_preferred":[
         "Bu'aale"
     ],
     "name:dan_x_preferred":[
@@ -47,6 +56,9 @@
     ],
     "name:fin_x_preferred":[
         "Bu'ale"
+    ],
+    "name:fin_x_variant":[
+        "Bu'aale"
     ],
     "name:fra_x_preferred":[
         "Bu'ale"
@@ -117,6 +129,9 @@
     "name:spa_x_preferred":[
         "Bu'aale"
     ],
+    "name:swa_x_preferred":[
+        "Bu'aale"
+    ],
     "name:swe_x_preferred":[
         "Bu'ale"
     ],
@@ -128,6 +143,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e40\u0e2d\u0e34\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e39\u0e2d\u0e32\u0e40\u0e25"
     ],
     "name:tur_x_preferred":[
         "Bu'ale"
@@ -143,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u963f\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Bu'ale"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -263,7 +284,7 @@
         }
     ],
     "wof:id":1141906065,
-    "wof:lastmodified":1636497591,
+    "wof:lastmodified":1690865926,
     "wof:name":"Bu'aale",
     "wof:parent_id":1108757841,
     "wof:placetype":"locality",

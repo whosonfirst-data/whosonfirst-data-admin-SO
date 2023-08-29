@@ -64,6 +64,9 @@
     "name:eus_x_preferred":[
         "Bay"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bay"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "B\u0101ja"
@@ -154,6 +160,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e22\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1a\u0e32\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Bay"
     ],
@@ -174,6 +183,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62dc\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Bay"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -301,7 +313,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497581,
+    "wof:lastmodified":1690865912,
     "wof:name":"Bay",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

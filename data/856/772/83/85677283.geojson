@@ -71,6 +71,9 @@
     "name:eus_x_preferred":[
         "Nugaal"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u062c\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Nugaal"
     ],
@@ -107,11 +110,17 @@
     "name:kor_x_preferred":[
         "\ub204\uac08 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub204\uac08\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "N\u016bg\u0101las re\u0123ions"
     ],
     "name:lit_x_preferred":[
         "Nugalis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u52aa\u52a0\u723e\u5dde"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0917\u0932"
@@ -164,6 +173,9 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e01\u0e31\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e19\u0e39\u0e01\u0e32\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Nugal"
     ],
@@ -179,8 +191,14 @@
     "name:vie_x_preferred":[
         "Nugal"
     ],
+    "name:yue_x_preferred":[
+        "\u52aa\u52a0\u723e"
+    ],
     "name:zho_x_preferred":[
         "\u52aa\u52a0\u723e\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Nugal"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -308,7 +326,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497582,
+    "wof:lastmodified":1690865914,
     "wof:name":"Nugaal",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

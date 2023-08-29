@@ -37,6 +37,9 @@
     "name:azb_x_preferred":[
         "\u0628\u0646\u0627\u062f\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0430\u0434\u044b\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09be\u09a6\u09bf\u09b0"
     ],
@@ -109,11 +112,17 @@
     "name:kor_x_preferred":[
         "\ubc14\ub098\ub514\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub098\ub514\ub974\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ban\u0101dira"
     ],
     "name:lit_x_preferred":[
         "Benadiras"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5df4\u7d0d\u8fea\u723e\u5dde"
     ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0928\u093e\u0926\u0940\u0930"
@@ -148,6 +157,9 @@
     "name:spa_x_preferred":[
         "Benadir"
     ],
+    "name:swa_x_preferred":[
+        "Banaadir"
+    ],
     "name:swe_x_preferred":[
         "Banaadir"
     ],
@@ -159,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e19\u0e32\u0e40\u0e14\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1a\u0e32\u0e19\u0e32\u0e14\u0e35\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Banaadir"
@@ -177,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u7d0d\u8fea\u723e\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Banaadir"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -308,7 +326,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497581,
+    "wof:lastmodified":1690865913,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

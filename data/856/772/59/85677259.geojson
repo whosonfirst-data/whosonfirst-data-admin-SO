@@ -66,6 +66,9 @@
     "name:eus_x_preferred":[
         "Shabeellaha Hoose"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0628\u0644 \u067e\u0627\u06cc\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Shabeellaha Hoose"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ubca8\ub77c\ud558\ud638\uc138 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0e4\ubca8\ub77c\ud558\ud638\uc138\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Lejas\u0161abele"
@@ -159,6 +165,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e25\u0e40\u0e27\u0e2d \u0e0a\u0e35\u0e40\u0e1a\u0e25\u0e25\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e0a\u0e32\u0e40\u0e1a\u0e25\u0e25\u0e32\u0e2e\u0e32\u0e2e\u0e2d\u0e40\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "A\u015fa\u011f\u0131 \u015eabel"
     ],
@@ -174,8 +183,17 @@
     "name:vie_x_preferred":[
         "H\u1ea1 Shebelle"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e0b\u8c22\u8d1d\u5229\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u8b1d\u8c9d\u5229"
+    ],
     "name:zho_x_preferred":[
         "\u4e0b\u8b1d\u8c9d\u5229\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Lower Shabelle"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SOM",
@@ -302,7 +320,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1636497580,
+    "wof:lastmodified":1690865911,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0635\u0627\u0635\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0635\u0627\u0635\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0633\u0627\u0633\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0441\u043e"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u099c\u09be\u099c\u09c1"
@@ -70,6 +76,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0633\u0627\u0633\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0635\u0627\u0635\u0648"
     ],
     "name:fin_x_preferred":[
         "Bosaso"
@@ -125,6 +134,9 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0938\u094d\u092f\u093e\u0938\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u0441\u043e"
+    ],
     "name:msa_x_preferred":[
         "Bosaso"
     ],
@@ -176,6 +188,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e0b\u0e32\u0e42\u0e0b"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e2d\u0e0b\u0e32\u0e0b\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Bosaso"
     ],
@@ -196,6 +211,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u8428\u7d22"
+    ],
+    "name:zul_x_preferred":[
+        "Bosaso"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -343,7 +361,7 @@
         }
     ],
     "wof:id":421166937,
-    "wof:lastmodified":1582332258,
+    "wof:lastmodified":1690865918,
     "wof:name":"Boosaaso",
     "wof:parent_id":1108757801,
     "wof:placetype":"locality",
