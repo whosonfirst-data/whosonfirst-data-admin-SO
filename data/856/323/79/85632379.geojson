@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.191583,
-    "geom:area_square_m":465938607493.135254,
+    "geom:area_square_m":469894943672.455933,
     "geom:bbox":"40.994373,-1.661965,51.415417,11.986111",
     "geom:latitude":4.754809,
     "geom:longitude":45.722081,
@@ -14,6 +14,9 @@
     "iso:country":"SO",
     "itu:country_code":[
         "252"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SO"
@@ -1111,7 +1114,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"252",
     "statoids:ds":"SO",
     "statoids:fifa":"SOM",
@@ -1168,7 +1172,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"7ebb68125618c0c204b3c6e39215e965",
+    "wof:geomhash":"0d95abca03eaf61b3df5c049715ee8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1184,12 +1188,12 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865910,
+    "wof:lastmodified":1694492069,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":10495583,
-    "wof:population_rank":14,
+    "wof:population":10192317,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-so",
     "wof:shortcode":"SO",
     "wof:superseded_by":[],
