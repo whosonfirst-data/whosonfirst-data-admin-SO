@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271249,
-    "geom:area_square_m":3344830006.625684,
+    "geom:area_square_m":3344829913.808092,
     "geom:bbox":"42.880434,3.946714,43.627675,4.636675",
     "geom:latitude":4.244535,
     "geom:longitude":43.210544,
     "iso:country":"SO",
+    "label:eng_x_preferred_longname":[
+        "Rab Dhuure District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.236534,
     "lbl:longitude":43.185294,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rab Dhuure"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0628 \u062f\u0647\u0648\u0631"
     ],
@@ -47,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"SO",
     "wof:created":1481308175,
-    "wof:geomhash":"dfa750e59eeee4ba02155acd4790fa62",
+    "wof:geomhash":"666b52687569e728af3d2fd9977b2fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108757911,
-    "wof:lastmodified":1627522787,
+    "wof:lastmodified":1694498067,
     "wof:name":"Rab Dhuure",
     "wof:parent_id":85677241,
     "wof:placetype":"county",
