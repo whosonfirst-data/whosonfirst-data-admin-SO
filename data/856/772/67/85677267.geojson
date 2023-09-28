@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.026482,
-    "geom:area_square_m":49586158725.295616,
+    "geom:area_square_m":49586157792.236519,
     "geom:bbox":"45.51676,3.470957,47.827847,6.537821",
     "geom:latitude":5.110314,
     "geom:longitude":46.773109,
@@ -295,17 +295,19 @@
         "gn:id":59362,
         "gp:id":2347010,
         "hasc:id":"SO.GA",
+        "iso:code":"SO-GA",
         "iso:id":"SO-GA",
         "qs_pg:id":229388,
         "unlc:id":"SO-GA",
         "wd:id":"Q876772",
         "wk:page":"Galguduud"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0cbb34d6d305c99d9882942e25a0aa0",
+    "wof:geomhash":"f219eb1bcb526d3619d06d3dc4ff9dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +324,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865912,
+    "wof:lastmodified":1695884855,
     "wof:name":"Galguduud",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

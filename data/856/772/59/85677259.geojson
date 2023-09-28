@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.093724,
-    "geom:area_square_m":25873519396.118347,
+    "geom:area_square_m":25873518982.049759,
     "geom:bbox":"42.982681,0.675406,45.388845,3.27294",
     "geom:latitude":1.904989,
     "geom:longitude":44.327114,
@@ -293,17 +293,19 @@
         "gn:id":51966,
         "gp:id":2347019,
         "hasc:id":"SO.SH",
+        "iso:code":"SO-SH",
         "iso:id":"SO-SH",
         "qs_pg:id":984096,
         "unlc:id":"SO-SH",
         "wd:id":"Q877028",
         "wk:page":"Lower Shebelle"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a407dffb05af903fc44ad844fe6cf1f7",
+    "wof:geomhash":"a7265b36b99d7b0797b035de1b321fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865911,
+    "wof:lastmodified":1695884854,
     "wof:name":"Shabeellaha Hoose",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
