@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228965,
-    "geom:area_square_m":2824918247.862854,
+    "geom:area_square_m":2824918081.85067,
     "geom:bbox":"43.093866,3.572653,43.795206,4.053003",
     "geom:latitude":3.81595,
     "geom:longitude":43.432616,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.BK.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308169,
-    "wof:geomhash":"e6faf14e8e09ae2c6341fcf0b73966c9",
+    "wof:geomhash":"52283d415ff3a333bd1067a82dce7fff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757901,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1695886484,
     "wof:name":"Waajid",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

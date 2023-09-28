@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.240822,
-    "geom:area_square_m":15332324105.071903,
+    "geom:area_square_m":15332325265.970764,
     "geom:bbox":"40.994374,1.231853,42.542152,2.940058",
     "geom:latitude":2.101398,
     "geom:longitude":41.70577,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.GE.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308103,
-    "wof:geomhash":"3013edf8e9cd25bbafaf5ca8accd69aa",
+    "wof:geomhash":"fc7d8e0436604aa12540859d6c2d58e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757775,
-    "wof:lastmodified":1627522784,
+    "wof:lastmodified":1695886479,
     "wof:name":"Baardheere",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.839594,
-    "geom:area_square_m":10355712273.338009,
+    "geom:area_square_m":10355711781.174232,
     "geom:bbox":"46.389781,3.470957,47.827847,4.494122",
     "geom:latitude":4.051872,
     "geom:longitude":47.048384,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.GA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308107,
-    "wof:geomhash":"4ef2035599d35769a168989eea24b26c",
+    "wof:geomhash":"7bff6eb9f5fe982ab018d5ee4956935b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757785,
-    "wof:lastmodified":1627522786,
+    "wof:lastmodified":1695886481,
     "wof:name":"Ceel Dheer",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

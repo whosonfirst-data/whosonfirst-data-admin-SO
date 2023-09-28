@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.676464,
-    "geom:area_square_m":8351473164.18613,
+    "geom:area_square_m":8351473981.593646,
     "geom:bbox":"41.722367,2.751983,43.102186,3.67931",
     "geom:latitude":3.205833,
     "geom:longitude":42.359062,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"SO.GE.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308139,
-    "wof:geomhash":"9756917bcf3802937d76403b6f1ef2fe",
+    "wof:geomhash":"ba7493decf616326de50d920a0ac6db7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108757845,
-    "wof:lastmodified":1636497584,
+    "wof:lastmodified":1695886738,
     "wof:name":"Garbahaarey",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

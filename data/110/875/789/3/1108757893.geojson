@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.486789,
-    "geom:area_square_m":6017463703.343999,
+    "geom:area_square_m":6017463907.373343,
     "geom:bbox":"42.982681,0.937244,44.14731,1.764708",
     "geom:latitude":1.383572,
     "geom:longitude":43.519833,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.SH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308164,
-    "wof:geomhash":"ce1590dd59678f5a3fe61cecdb65e6f9",
+    "wof:geomhash":"4064b43271b3e01949e16e15d20dbd1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757893,
-    "wof:lastmodified":1627522787,
+    "wof:lastmodified":1695886482,
     "wof:name":"Sablaale",
     "wof:parent_id":85677259,
     "wof:placetype":"county",

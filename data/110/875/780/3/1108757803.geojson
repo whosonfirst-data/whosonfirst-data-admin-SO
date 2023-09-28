@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377739,
-    "geom:area_square_m":4574304252.067694,
+    "geom:area_square_m":4574304413.375216,
     "geom:bbox":"50.304799,11.399374,51.292057,11.986111",
     "geom:latitude":11.667038,
     "geom:longitude":50.796836,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"SO.BR.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308116,
-    "wof:geomhash":"b0fbf57e1805ac062277b2ac27bce42d",
+    "wof:geomhash":"5336b2f4fa78df360b8fb83b340d107a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108757803,
-    "wof:lastmodified":1636497585,
+    "wof:lastmodified":1695886738,
     "wof:name":"Caluula",
     "wof:parent_id":85677235,
     "wof:placetype":"county",

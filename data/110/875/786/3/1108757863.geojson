@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255618,
-    "geom:area_square_m":3155189103.02507,
+    "geom:area_square_m":3155189391.574106,
     "geom:bbox":"45.183302,3.200655,46.086515,3.572561",
     "geom:latitude":3.403749,
     "geom:longitude":45.612717,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"SO.HI.JQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308148,
-    "wof:geomhash":"fc9fe6562d4358dc10c15da5b0ceb202",
+    "wof:geomhash":"b7e588adfb96b9512399c9cd36442c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757863,
-    "wof:lastmodified":1627522786,
+    "wof:lastmodified":1695886482,
     "wof:name":"Jalalaqsi",
     "wof:parent_id":85677269,
     "wof:placetype":"county",

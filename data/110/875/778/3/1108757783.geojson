@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472239,
-    "geom:area_square_m":5830792016.767433,
+    "geom:area_square_m":5830791552.05051,
     "geom:bbox":"45.939899,2.558721,46.754873,3.531906",
     "geom:latitude":3.090775,
     "geom:longitude":46.26315,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.SD.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308106,
-    "wof:geomhash":"6e65e80195bd09adf9358d44d42ed549",
+    "wof:geomhash":"0a234b3b3239b3b0ecdf5e3d13cd902e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757783,
-    "wof:lastmodified":1627522784,
+    "wof:lastmodified":1695886479,
     "wof:name":"Cadale",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

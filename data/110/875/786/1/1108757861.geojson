@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377297,
-    "geom:area_square_m":4658971638.113358,
+    "geom:area_square_m":4658971638.113336,
     "geom:bbox":"45.0751240546,2.72193561149,45.9615727434,3.25060048825",
     "geom:latitude":2.993306,
     "geom:longitude":45.568166,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"SO.SD.JO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308147,
-    "wof:geomhash":"9299143cb72a1dc5b8d39ebf115b468e",
+    "wof:geomhash":"771240463e9c4425254ab3f384071c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108757861,
-    "wof:lastmodified":1566649564,
+    "wof:lastmodified":1695886425,
     "wof:name":"Jowhar",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

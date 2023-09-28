@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538104,
-    "geom:area_square_m":6619191392.541128,
+    "geom:area_square_m":6619191600.173322,
     "geom:bbox":"45.51676,5.189594,46.670585,6.506704",
     "geom:latitude":5.835799,
     "geom:longitude":46.118874,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.GA.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308127,
-    "wof:geomhash":"e9950046bbd008cb1f1cd07f9dbb9907",
+    "wof:geomhash":"2fe9e731acaee883cd4e38320ffc69df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757821,
-    "wof:lastmodified":1627522784,
+    "wof:lastmodified":1695886479,
     "wof:name":"Cabudwaaq",
     "wof:parent_id":85677267,
     "wof:placetype":"county",

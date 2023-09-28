@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.447337,
-    "geom:area_square_m":5530166752.217118,
+    "geom:area_square_m":5530166970.93832,
     "geom:bbox":"42.142375,0.751957,43.259252,1.511489",
     "geom:latitude":1.19796,
     "geom:longitude":42.740441,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SO.JD.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308137,
-    "wof:geomhash":"779050b67c07d0705ff7e019be49db8c",
+    "wof:geomhash":"3c85aa92dbee1ae2a216438b2adce7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108757841,
-    "wof:lastmodified":1636497584,
+    "wof:lastmodified":1695886738,
     "wof:name":"Bu'aale",
     "wof:parent_id":85677253,
     "wof:placetype":"county",
