@@ -1153,6 +1153,7 @@
         "hasc:id":"SO",
         "icao:code":"6O",
         "ioc:id":"SOM",
+        "iso:code":"SO",
         "itu:id":"SOM",
         "loc:id":"n79060840",
         "m49:code":"706",
@@ -1166,6 +1167,7 @@
         "wk:page":"Somalia",
         "wmo:id":"SI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:country_alpha3":"SOM",
     "wof:geom_alt":[
@@ -1188,7 +1190,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1694639522,
+    "wof:lastmodified":1695881178,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
