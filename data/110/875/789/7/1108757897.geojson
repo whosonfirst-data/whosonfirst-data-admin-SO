@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538231,
-    "geom:area_square_m":6640315104.500122,
+    "geom:area_square_m":6640315572.143937,
     "geom:bbox":"44.282248,3.250123,44.800217,4.433012",
     "geom:latitude":3.835358,
     "geom:longitude":44.5292,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.BK.TI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308167,
-    "wof:geomhash":"aa76e5b7949bf7f111d1f44b11e20941",
+    "wof:geomhash":"9327fbb162baf8bc7dae59d6af85ea9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757897,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1695886484,
     "wof:name":"Tayeeglow",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175184,
-    "geom:area_square_m":2166171827.903948,
+    "geom:area_square_m":2166172657.859492,
     "geom:bbox":"42.529922,-0.171117,43.186983,0.329135",
     "geom:latitude":0.124194,
     "geom:longitude":42.803067,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SO.JH.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308145,
-    "wof:geomhash":"a45ec2f59c370e3a9ea22e6c72ce46da",
+    "wof:geomhash":"dfd19b4d2daa01cb1d77ea24d4cb57ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108757857,
-    "wof:lastmodified":1636497584,
+    "wof:lastmodified":1695886738,
     "wof:name":"Jamaame",
     "wof:parent_id":85677287,
     "wof:placetype":"county",

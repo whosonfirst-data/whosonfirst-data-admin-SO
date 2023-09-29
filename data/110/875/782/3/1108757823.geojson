@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618873,
-    "geom:area_square_m":7627038694.14877,
+    "geom:area_square_m":7627039006.166071,
     "geom:bbox":"43.130212,4.428934,44.677533,4.959288",
     "geom:latitude":4.672414,
     "geom:longitude":44.002249,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.BK.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308128,
-    "wof:geomhash":"6497fb1c5a6bc75ed61b6bdc6d7157ce",
+    "wof:geomhash":"c2ebac582f028a4da5ffd52e78a2b507",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757823,
-    "wof:lastmodified":1627522785,
+    "wof:lastmodified":1695886480,
     "wof:name":"Ceel Barde",
     "wof:parent_id":85677241,
     "wof:placetype":"county",

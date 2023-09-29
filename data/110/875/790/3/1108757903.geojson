@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465127,
-    "geom:area_square_m":5744509676.69258,
+    "geom:area_square_m":5744509833.686212,
     "geom:bbox":"44.620319,2.237558,45.332784,3.27294",
     "geom:latitude":2.792056,
     "geom:longitude":44.906157,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.SH.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308171,
-    "wof:geomhash":"95e320c3f752e99bc2eba2fb28194bf4",
+    "wof:geomhash":"ada9a48a640a7f5feffa22910ab52b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757903,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1695886484,
     "wof:name":"Wanla Weyn",
     "wof:parent_id":85677259,
     "wof:placetype":"county",

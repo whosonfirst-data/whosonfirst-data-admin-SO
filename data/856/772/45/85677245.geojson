@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.569857,
-    "geom:area_square_m":44092568444.746719,
+    "geom:area_square_m":44092568335.1511,
     "geom:bbox":"42.400823,1.461489,44.690838,3.92192",
     "geom:latitude":2.654661,
     "geom:longitude":43.56683,
@@ -286,17 +286,19 @@
         "gn:id":64538,
         "gp:id":2347009,
         "hasc:id":"SO.BY",
+        "iso:code":"SO-BY",
         "iso:id":"SO-BY",
         "qs_pg:id":1168750,
         "unlc:id":"SO-BY",
         "wd:id":"Q812064",
         "wk:page":"Bay, Somalia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d0406231aa29bfd15a444b605899435",
+    "wof:geomhash":"e64323fa317bb600de502075ee24013d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -313,7 +315,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865912,
+    "wof:lastmodified":1695884855,
     "wof:name":"Bay",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

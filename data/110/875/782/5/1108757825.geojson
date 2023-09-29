@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.304471,
-    "geom:area_square_m":16092485852.071308,
+    "geom:area_square_m":16092485791.628393,
     "geom:bbox":"44.749648,3.200655,46.401171,4.432584",
     "geom:latitude":3.900639,
     "geom:longitude":45.532394,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.HI.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308129,
-    "wof:geomhash":"997fe20d7646a2b1dca18620c43c4b52",
+    "wof:geomhash":"e75ef69900f892a177dbfbf4f6678522",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757825,
-    "wof:lastmodified":1627522785,
+    "wof:lastmodified":1695886480,
     "wof:name":"Bulo Burto",
     "wof:parent_id":85677269,
     "wof:placetype":"county",

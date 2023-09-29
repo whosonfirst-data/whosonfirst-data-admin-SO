@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427042,
-    "geom:area_square_m":5280103755.0482,
+    "geom:area_square_m":5280103790.747705,
     "geom:bbox":"42.619359,0.311395,43.520826,1.046381",
     "geom:latitude":0.644501,
     "geom:longitude":43.0567,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"SO.JD.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308146,
-    "wof:geomhash":"544ebd2c0608ca05eb10d66eb9c9450e",
+    "wof:geomhash":"98d27733c93a90fbb99020191ea776fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108757859,
-    "wof:lastmodified":1627522787,
+    "wof:lastmodified":1695886482,
     "wof:name":"Jilib",
     "wof:parent_id":85677253,
     "wof:placetype":"county",

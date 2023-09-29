@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.415942,
-    "geom:area_square_m":5125185090.567162,
+    "geom:area_square_m":5125184916.495208,
     "geom:bbox":"47.500283,4.334106,48.291315,5.202122",
     "geom:latitude":4.793216,
     "geom:longitude":47.833681,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.MU.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308113,
-    "wof:geomhash":"d7ee4494a06adc41da44ee902ae33be2",
+    "wof:geomhash":"4ca174585596652e484ad566719451ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757795,
-    "wof:lastmodified":1627522786,
+    "wof:lastmodified":1695886481,
     "wof:name":"Xarardheere",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

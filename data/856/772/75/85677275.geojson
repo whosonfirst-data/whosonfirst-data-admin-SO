@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.518104,
-    "geom:area_square_m":18745000435.842331,
+    "geom:area_square_m":18745000258.665653,
     "geom:bbox":"45.075124,2.151314,47.036371,3.891415",
     "geom:latitude":3.028237,
     "geom:longitude":46.014209,
@@ -297,17 +297,19 @@
         "gn:id":51967,
         "gp:id":2347018,
         "hasc:id":"SO.SD",
+        "iso:code":"SO-SD",
         "iso:id":"SO-SD",
         "qs_pg:id":229383,
         "unlc:id":"SO-SD",
         "wd:id":"Q678435",
         "wk:page":"Middle Shebelle"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8cfa4e909fab5b899e0fb26e9525b50",
+    "wof:geomhash":"b5a90a35b03d269c820e960e8f2ea1fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865913,
+    "wof:lastmodified":1695884855,
     "wof:name":"Shabeellaha Dhexe",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343697,
-    "geom:area_square_m":4245853923.39713,
+    "geom:area_square_m":4245853896.001122,
     "geom:bbox":"45.330299,2.151314,46.133062,2.760763",
     "geom:latitude":2.488654,
     "geom:longitude":45.659396,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.SD.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308104,
-    "wof:geomhash":"9469300e44683e55b52bb1d5c4c8c076",
+    "wof:geomhash":"7c8b08864518f8b726a573514f6d72a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757777,
-    "wof:lastmodified":1627522784,
+    "wof:lastmodified":1695886479,
     "wof:name":"Balcad",
     "wof:parent_id":85677275,
     "wof:placetype":"county",

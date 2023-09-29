@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.099949,
-    "geom:area_square_m":25895673072.787182,
+    "geom:area_square_m":25895672899.810482,
     "geom:bbox":"42.880434,3.250123,44.800217,4.959288",
     "geom:latitude":4.207295,
     "geom:longitude":43.952677,
@@ -289,17 +289,19 @@
         "gn:id":64982,
         "gp:id":2347006,
         "hasc:id":"SO.BK",
+        "iso:code":"SO-BK",
         "iso:id":"SO-BK",
         "qs_pg:id":191397,
         "unlc:id":"SO-BK",
         "wd:id":"Q282471",
         "wk:page":"Bakool"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4fc3f3c09dc97c021beb6db29237395d",
+    "wof:geomhash":"41f02f51d2d3d77d9fd4a70553352122",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +318,7 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1690865914,
+    "wof:lastmodified":1695884855,
     "wof:name":"Bakool",
     "wof:parent_id":85632379,
     "wof:placetype":"region",

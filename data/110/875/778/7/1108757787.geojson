@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.633718,
-    "geom:area_square_m":7827394321.056793,
+    "geom:area_square_m":7827393403.65416,
     "geom:bbox":"40.994374,2.299201,41.970395,3.144054",
     "geom:latitude":2.679094,
     "geom:longitude":41.44484,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.GE.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308109,
-    "wof:geomhash":"239bd4ce3264fe7e7dbb79ea257f8901",
+    "wof:geomhash":"ab2e0d0ff13bda1cdeab7c06daa54382",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757787,
-    "wof:lastmodified":1627522786,
+    "wof:lastmodified":1695886481,
     "wof:name":"Ceel Waaq",
     "wof:parent_id":85677249,
     "wof:placetype":"county",

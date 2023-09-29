@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.071032,
-    "geom:area_square_m":25469030897.350388,
+    "geom:area_square_m":25469030897.351036,
     "geom:bbox":"47.3516377759,5.02883159322,49.1512021621,6.77013635871",
     "geom:latitude":5.971358,
     "geom:longitude":48.202609,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"SO.MU.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308143,
-    "wof:geomhash":"903965e2677224efc5686a9d6e1bbf98",
+    "wof:geomhash":"df4636f6e3633633b2bb22fa0ea392e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108757851,
-    "wof:lastmodified":1566649556,
+    "wof:lastmodified":1695886424,
     "wof:name":"Hobyo",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165536,
-    "geom:area_square_m":2031452439.473286,
+    "geom:area_square_m":2031452439.473525,
     "geom:bbox":"46.8894074696,6.73450893679,47.5283170093,7.36062962724",
     "geom:latitude":7.039147,
     "geom:longitude":47.217747,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"SO.MU.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308150,
-    "wof:geomhash":"f16a5e9e41447c7562d35f4e9f9a129d",
+    "wof:geomhash":"2d85a562bda2fcdeea301831bc6115bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108757865,
-    "wof:lastmodified":1566649564,
+    "wof:lastmodified":1695886425,
     "wof:name":"Galdogob",
     "wof:parent_id":85677279,
     "wof:placetype":"county",

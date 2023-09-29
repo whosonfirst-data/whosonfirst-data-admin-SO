@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.755602,
-    "geom:area_square_m":9342896559.313034,
+    "geom:area_square_m":9342895854.359673,
     "geom:bbox":"41.293121,-1.013784,42.718618,-0.017303",
     "geom:latitude":-0.37999,
     "geom:longitude":42.009103,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"SO.JH.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SO",
     "wof:created":1481308114,
-    "wof:geomhash":"2d9fb4f8ab0ad200b972b4de8b4d4948",
+    "wof:geomhash":"eb3f9c95895dac8bbeaaa3ec4d14dacc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757797,
-    "wof:lastmodified":1627522787,
+    "wof:lastmodified":1695886482,
     "wof:name":"Kismaayo",
     "wof:parent_id":85677287,
     "wof:placetype":"county",
