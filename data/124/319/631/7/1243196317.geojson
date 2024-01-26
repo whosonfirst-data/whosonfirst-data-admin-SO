@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":53755
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            53756
+        ]
+    },
     "wof:country":"SO",
     "wof:geomhash":"8b929ae23c75c1a0e0249f7862136c6f",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1243196317,
-    "wof:lastmodified":1566649713,
+    "wof:lastmodified":1706240665,
     "wof:name":"Morgawaan",
     "wof:parent_id":1108757891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-so",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310501789
+    ],
     "wof:tags":[]
 },
   "bbox": [
