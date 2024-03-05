@@ -9,6 +9,19 @@
     "geom:bbox":"42.583303,1.083303,42.583303,1.083303",
     "geom:latitude":1.083303,
     "geom:longitude":42.583303,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bu'aale",
+    "gn:country_code":"SO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":63949,
+    "gn:latitude":1.08333,
+    "gn:longitude":42.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bu\u2019aale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Mogadishu",
     "iso:country":"SO",
     "lbl:bbox":"42.5633025257,1.0633030174,42.6033025257,1.1033030174",
     "lbl:latitude":1.083303,
@@ -269,7 +282,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q997314"
+        "gn:id":63949,
+        "wd:id":"Q997314",
+        "wk:page":"Bu%27ale"
     },
     "wof:country":"SO",
     "wof:created":1499130535,
@@ -284,13 +299,15 @@
         }
     ],
     "wof:id":1141906065,
-    "wof:lastmodified":1690865926,
+    "wof:lastmodified":1706240665,
     "wof:name":"Bu'aale",
     "wof:parent_id":1108757841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-so",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360182219
+    ],
     "wof:tags":[]
 },
   "bbox": [

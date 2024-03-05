@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":63914
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6268336
+        ]
+    },
     "wof:country":"SO",
     "wof:geomhash":"7ee11ada255289cbfa703f0d9c226148",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1260388339,
-    "wof:lastmodified":1566649534,
+    "wof:lastmodified":1706240665,
     "wof:name":"Bulacle",
     "wof:parent_id":1108757831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-so",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326740437
+    ],
     "wof:tags":[]
 },
   "bbox": [
